@@ -1,0 +1,30 @@
+{
+  "topic": "Basic Data Cleaning and Preprocessing in Pandas",
+  "questions": [
+    {
+      "id": "da_q_001",
+      "question": "Imagine you are working with a customer dataset in Pandas, and the 'Age' column has some missing values (NaN). Describe two distinct methods you could use to handle these missing values using Pandas, and explain a scenario where each method would be appropriate.",
+      "associated_skills": ["Handling Missing Values"]
+    },
+    {
+      "id": "da_q_002",
+      "question": "You've imported a sales DataFrame, and the 'OrderDate' column is currently stored as a generic string (object dtype), while the 'Quantity' column is also a string due to some entries containing non-numeric characters. Explain how you would convert 'OrderDate' to a proper datetime format and 'Quantity' to a numeric type, including how you would handle potential errors during the 'Quantity' conversion.",
+      "associated_skills": ["Data Type Conversion"]
+    },
+    {
+      "id": "da_q_003",
+      "question": "Your company's product catalog DataFrame might contain duplicate entries, identified by having the same 'ProductID' and 'ProductName' combination. Describe the Pandas function(s) you would use to identify these duplicates and then remove them, ensuring that you only keep the first occurrence of each unique product entry.",
+      "associated_skills": ["Removing Duplicates"]
+    },
+    {
+      "id": "da_q_004",
+      "question": "You have a DataFrame containing sales data, and you need to filter it to only include rows where the 'SalesAmount' is greater than $1000 and the 'Region' is 'North'. Explain how you would achieve this using Pandas, including any specific functions or methods you would use.",
+      "associated_skills": ["Filtering and Subsetting Data"]
+    },
+    {
+      "id": "da_q_005",
+      "question": "In a DataFrame with a column 'Scores', you want to apply a custom function that categorizes scores into 'Pass' or 'Fail' based on whether they are above or below 50. Describe how you would use the Pandas apply() method to achieve this, and provide an example of the function you would use.",
+      "associated_skills": ["Applying Functions (apply/map)"]
+    }
+  ]
+}

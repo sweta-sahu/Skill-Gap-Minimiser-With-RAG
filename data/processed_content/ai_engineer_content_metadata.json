@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ae_res_001",
+    "title": "A Comprehensive Guide to Convolutional Neural Networks (The ELI5 Way)",
+    "url": "https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3b10ea165f65",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Convolutional Layer (Kernels/Filters)", "Pooling Layers (Max/Average Pooling)", "Basic CNN Architecture", "Feature Learning Concept"]
+  },
+  {
+    "id": "ae_res_002",
+    "title": "CS231n: Convolutional Neural Networks for Visual Recognition (Intro)",
+    "url": "https://cs231n.github.io/convolutional-networks/",
+    "format": "course_notes",
+    "difficulty": "intermediate",
+    "skill_tags": ["Convolutional Layer (Kernels/Filters)", "Pooling Layers (Max/Average Pooling)", "Activation Functions (ReLU)", "Basic CNN Architecture"]
+  },
+  {
+    "id": "ae_res_003",
+    "title": "But what is a Convolution? (3Blue1Brown Neural Networks, Part 2)",
+    "url": "https://www.youtube.com/watch?v=aircAruvnKk",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_tags": ["Convolutional Layer (Kernels/Filters)", "Feature Learning Concept"]
+  },
+  {
+    "id": "ae_res_004",
+    "title": "A Gentle Introduction to the Rectified Linear Unit (ReLU)",
+    "url": "https://www.machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Activation Functions (ReLU)"]
+  },
+  {
+    "id": "ae_res_005",
+    "title": "Convolutional Neural Networks in Python",
+    "url": "https://www.datacamp.com/tutorial/convolutional-neural-networks-python",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_tags": ["Convolutional Layer (Kernels/Filters)", "Pooling Layers (Max/Average Pooling)", "Basic CNN Architecture"]
+  },
+  {
+    "id": "ae_res_006",
+    "title": "CNN Introduction - GeeksforGeeks",
+    "url": "https://www.geeksforgeeks.org/cnn-introduction/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Convolutional Layer (Kernels/Filters)", "Pooling Layers (Max/Average Pooling)", "Activation Functions (ReLU)", "Basic CNN Architecture"]
+  },
+  {
+    "id": "ae_res_007",
+    "title": "Max Pooling, Clearly Explained!!! (StatQuest with Josh Starmer)",
+    "url": "https://www.youtube.com/watch?v=Fmp2rJ_S5YQ",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_tags": ["Pooling Layers (Max/Average Pooling)"]
+  },
+  {
+    "id": "ae_res_008",
+    "title": "Keras Conv2D Layer Documentation (Concept Section)",
+    "url": "https://keras.io/api/layers/convolutional_layers/convolution2d/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_tags": ["Convolutional Layer (Kernels/Filters)"]
+  },
+  {
+    "id": "ae_res_009",
+    "title": "Feature Visualization (Distill.pub - Introduction)",
+    "url": "https://distill.pub/2017/feature-visualization/",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_tags": ["Feature Learning Concept"]
+  },
+  {
+    "id": "ae_res_010",
+    "title": "Understanding Flatten Layer in CNN",
+    "url": "https://www.javatpoint.com/flatten-layer-in-cnn",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Flattening and Fully Connected Layers"]
+  }
+]

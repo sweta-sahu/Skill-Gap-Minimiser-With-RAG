@@ -1,0 +1,29 @@
+{
+  "topic": "Basic Data Cleaning and Preprocessing in Pandas",
+  "skills": [
+    {
+      "skill_name": "Handling Missing Values",
+      "keywords": ["fillna", "dropna", "missing data", "NaN", "null values"]
+    },
+    {
+      "skill_name": "Data Type Conversion",
+      "keywords": ["astype", "data types", "object to numeric", "string to datetime", "categorical"]
+    },
+    {
+      "skill_name": "Removing Duplicates",
+      "keywords": ["drop_duplicates", "duplicate rows", "unique values", "subset duplicates"]
+    },
+    {
+      "skill_name": "Filtering and Subsetting Data",
+      "keywords": ["boolean indexing", "loc", "iloc", "select rows", "select columns", "query", "conditional selection"]
+    },
+    {
+      "skill_name": "Applying Functions (apply/map)",
+      "keywords": ["apply", "map", "lambda functions", "custom transformations", "element-wise", "row-wise", "column-wise"]
+    },
+    {
+      "skill_name": "Basic Reshaping (melt/pivot)",
+      "keywords": ["melt", "pivot_table", "wide to long", "long to wide", "unpivot", "aggregate"]
+    }
+  ]
+}

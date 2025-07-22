@@ -1,0 +1,10 @@
+https://realpython.com/pandas-drop-na-fillna/
+https://www.geeksforgeeks.org/python-pandas-convert-dataframe-column-type/
+https://towardsdatascience.com/pandas-how-to-remove-duplicate-rows-from-a-dataframe-4081c7f465a3
+https://www.datacamp.com/tutorial/pandas-filter-dataframe-rows-columns
+https://www.kaggle.com/code/learn/pandas/apply-map
+https://www.youtube.com/watch?v=VMzIu2eG2kU (Pandas Missing Data)
+https://www.youtube.com/watch?v=f0b2p2x8Q4Y (Pandas Data Types)
+https://www.youtube.com/watch?v=s5Fz_S6hK6I (Pandas Duplicates)
+https://www.youtube.com/watch?v=Q-f2f2s-vL0 (Pandas Melt)
+https://www.tutorialspoint.com/python_pandas/python_pandas_apply_function.htm

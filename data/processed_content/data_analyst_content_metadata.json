@@ -1,0 +1,82 @@
+[
+  {
+    "id": "da_res_001",
+    "title": "Handling Missing Data in Pandas with dropna() and fillna()",
+    "url": "https://realpython.com/pandas-drop-na-fillna/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Handling Missing Values", "Data Type Conversion"]
+  },
+  {
+    "id": "da_res_002",
+    "title": "Python Pandas: Convert DataFrame Column Type",
+    "url": "https://www.geeksforgeeks.org/python-pandas-convert-dataframe-column-type/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Data Type Conversion"]
+  },
+  {
+    "id": "da_res_003",
+    "title": "Pandas: How to Remove Duplicate Rows from a DataFrame",
+    "url": "https://towardsdatascience.com/pandas-how-to-remove-duplicate-rows-from-a-dataframe-4081c7f465a3",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Removing Duplicates"]
+  },
+  {
+    "id": "da_res_004",
+    "title": "Pandas Filter DataFrame Rows and Columns",
+    "url": "https://www.datacamp.com/tutorial/pandas-filter-dataframe-rows-columns",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Filtering and Subsetting Data"]
+  },
+  {
+    "id": "da_res_005",
+    "title": "Pandas apply() vs map() vs applymap()",
+    "url": "https://www.kaggle.com/code/learn/pandas/apply-map",
+    "format": "notebook/tutorial",
+    "difficulty": "intermediate",
+    "skill_tags": ["Applying Functions (apply/map)"]
+  },
+  {
+    "id": "da_res_006",
+    "title": "Pandas Tutorial: Working with Missing Data",
+    "url": "https://www.youtube.com/watch?v=VMzIu2eG2kU",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_tags": ["Handling Missing Values"]
+  },
+  {
+    "id": "da_res_007",
+    "title": "Pandas Data Types Explained Simply",
+    "url": "https://www.youtube.com/watch?v=f0b2p2x8Q4Y",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_tags": ["Data Type Conversion"]
+  },
+  {
+    "id": "da_res_008",
+    "title": "How to Remove Duplicate Rows in Pandas DataFrame",
+    "url": "https://www.youtube.com/watch?v=s5Fz_S6hK6I",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_tags": ["Removing Duplicates"]
+  },
+  {
+    "id": "da_res_009",
+    "title": "Pandas Melt Function Explained",
+    "url": "https://www.youtube.com/watch?v=Q-f2f2s-vL0",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_tags": ["Basic Reshaping (melt/pivot)"]
+  },
+  {
+    "id": "da_res_010",
+    "title": "Python Pandas - Apply Function on DataFrame",
+    "url": "https://www.tutorialspoint.com/python_pandas/python_pandas_apply_function.htm",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Applying Functions (apply/map)"]
+  }
+]
