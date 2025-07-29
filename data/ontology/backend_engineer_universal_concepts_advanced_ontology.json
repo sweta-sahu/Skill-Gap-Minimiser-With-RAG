@@ -1,0 +1,25 @@
+{
+  "topic": "Backend Engineer Universal Concepts - Advanced",
+  "skills": [
+    {
+      "skill_id": "univ-adv-01",
+      "skill_name": "Software Architecture Patterns",
+      "keywords": ["Monolithic", "Microservices", "SOA", "Event-Driven", "Serverless"]
+    },
+    {
+      "skill_id": "univ-adv-02",
+      "skill_name": "Advanced API Paradigms",
+      "keywords": ["GraphQL", "WebSockets", "gRPC", "API Rate Limiting"]
+    },
+    {
+      "skill_id": "univ-adv-03",
+      "skill_name": "Scalability & Performance",
+      "keywords": ["Caching", "Redis", "Memcached", "Load Balancing", "CDN", "N+1 Problem"]
+    },
+    {
+      "skill_id": "univ-adv-04",
+      "skill_name": "CI/CD and DevOps",
+      "keywords": ["CI/CD pipeline", "GitHub Actions", "Observability", "Logging", "Monitoring", "Alerting"]
+    }
+  ]
+}

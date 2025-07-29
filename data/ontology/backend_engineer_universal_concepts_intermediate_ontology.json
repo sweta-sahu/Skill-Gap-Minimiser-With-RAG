@@ -1,0 +1,25 @@
+{
+  "topic": "Backend Engineer Universal Concepts - Intermediate",
+  "skills": [
+    {
+      "skill_id": "univ-int-01",
+      "skill_name": "API Development & Security",
+      "keywords": ["REST", "JSON", "Authentication", "Authorization", "JWT", "OAuth 2.0", "CORS"]
+    },
+    {
+      "skill_id": "univ-int-02",
+      "skill_name": "NoSQL Databases",
+      "keywords": ["NoSQL", "MongoDB", "Redis", "Key-Value", "Document", "Column-family"]
+    },
+    {
+      "skill_id": "univ-int-03",
+      "skill_name": "Software Testing Principles",
+      "keywords": ["Unit Testing", "Integration Testing", "Functional Testing", "Test Pyramid"]
+    },
+    {
+      "skill_id": "univ-int-04",
+      "skill_name": "Containerization Basics (Docker)",
+      "keywords": ["Docker", "Containers", "Images", "Dockerfile", "Docker Compose"]
+    }
+  ]
+}

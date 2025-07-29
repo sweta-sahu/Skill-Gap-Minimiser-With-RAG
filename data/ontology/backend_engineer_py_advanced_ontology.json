@@ -1,0 +1,20 @@
+{
+  "topic": "Backend Engineer Python Stack - Advanced",
+  "skills": [
+    {
+      "skill_id": "py-adv-01",
+      "skill_name": "Asynchronous Programming",
+      "keywords": ["asyncio", "async/await", "aiohttp", "ASGI"]
+    },
+    {
+      "skill_id": "py-adv-02",
+      "skill_name": "Task Queues & Message Brokers",
+      "keywords": ["Celery", "RabbitMQ", "Redis Queue"]
+    },
+    {
+      "skill_id": "py-adv-03",
+      "skill_name": "Deployment & Web Servers",
+      "keywords": ["Gunicorn", "Uvicorn", "Nginx", "Docker", "Kubernetes"]
+    }
+  ]
+}

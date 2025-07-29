@@ -1,0 +1,20 @@
+{
+  "topic": "Bcakend Engineer JS/TS Stack - Beginner",
+  "skills": [
+    {
+      "skill_id": "js-beg-01",
+      "skill_name": "Core JavaScript & Node.js",
+      "keywords": ["ES6+", "Node.js", "Event Loop", "Async/Await", "Callbacks"]
+    },
+    {
+      "skill_id": "js-beg-02",
+      "skill_name": "Package Management",
+      "keywords": ["npm", "yarn", "package.json"]
+    },
+    {
+      "skill_id": "js-beg-03",
+      "skill_name": "Basic Web Framework (Express.js)",
+      "keywords": ["Express.js", "Routing", "Middleware", "Request/Response"]
+    }
+  ]
+}

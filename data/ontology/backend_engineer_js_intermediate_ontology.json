@@ -1,0 +1,25 @@
+{
+  "topic": "Backend Engineer JS/TS Stack - Intermediate",
+  "skills": [
+    {
+      "skill_id": "js-int-01",
+      "skill_name": "TypeScript for Backend",
+      "keywords": ["TypeScript", "Types", "Interfaces", "tsc", "ts-node"]
+    },
+    {
+      "skill_id": "js-int-02",
+      "skill_name": "Database Interaction (Prisma/Sequelize)",
+      "keywords": ["Prisma", "Sequelize", "ORM", "Migrations", "Query Builder"]
+    },
+    {
+      "skill_id": "js-int-03",
+      "skill_name": "Testing with Jest & Supertest",
+      "keywords": ["Jest", "Supertest", "Mocking", "Unit/Integration Testing"]
+    },
+    {
+      "skill_id": "js-int-04",
+      "skill_name": "Authentication & Authorization",
+        "keywords": ["JWT", "OAuth", "Passport.js", "Session Management", "Security"]
+    }
+  ]
+}

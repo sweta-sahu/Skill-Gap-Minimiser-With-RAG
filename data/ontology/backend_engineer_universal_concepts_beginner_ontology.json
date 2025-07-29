@@ -1,0 +1,25 @@
+{
+  "topic": "Backend Engineer Universal Concepts - Beginner",
+  "skills": [
+    {
+      "skill_id": "univ-beg-01",
+      "skill_name": "How the Internet Works",
+      "keywords": ["HTTP/HTTPS", "DNS", "Domain Name", "Hosting", "Browsers"]
+    },
+    {
+      "skill_id": "univ-beg-02",
+      "skill_name": "OS and Terminal Basics",
+      "keywords": ["Terminal usage", "Shell scripting", "ls, cd, pwd, grep, curl", "Process Management"]
+    },
+    {
+      "skill_id": "univ-beg-03",
+      "skill_name": "Intro to Version Control (Git)",
+      "keywords": ["git", "repository", "commit", "push", "pull", "branch", "merge", "GitHub"]
+    },
+    {
+      "skill_id": "univ-beg-04",
+      "skill_name": "Relational Databases Fundamentals",
+      "keywords": ["SQL", "PostgreSQL", "MySQL", "Tables", "Columns", "Primary Keys", "SELECT, INSERT, UPDATE, DELETE"]
+    }
+  ]
+}

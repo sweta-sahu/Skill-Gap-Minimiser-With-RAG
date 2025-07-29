@@ -1,0 +1,25 @@
+{
+  "topic": "Backend Engineer Stack - Intermediate",
+  "skills": [
+    {
+      "skill_id": "java-int-01",
+      "skill_name": "Data Layer (Spring Data JPA)",
+      "keywords": ["JPA", "Hibernate", "Repositories", "JPQL", "Entity Relationships"]
+    },
+    {
+      "skill_id": "java-int-02",
+      "skill_name": "Security (Spring Security)",
+      "keywords": ["Spring Security", "Authentication", "Authorization", "PasswordEncoder", "JWT"]
+    },
+    {
+      "skill_id": "java-int-03",
+      "skill_name": "Database Migrations",
+      "keywords": ["Flyway", "Liquibase", "Schema Evolution"]
+    },
+    {
+      "skill_id": "java-int-04",
+      "skill_name": "Testing with JUnit & Mockito",
+      "keywords": ["JUnit 5", "Mockito", "@SpringBootTest", "MockMvc"]
+    }
+  ]
+}

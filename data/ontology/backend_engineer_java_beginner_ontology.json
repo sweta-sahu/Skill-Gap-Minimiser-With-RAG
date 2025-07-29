@@ -1,0 +1,20 @@
+{
+  "topic": "Backend Engineer Java Stack - Beginner",
+  "skills": [
+    {
+      "skill_id": "java-beg-01",
+      "skill_name": "Core Java",
+      "keywords": ["Java 17+", "JVM", "OOP", "Collections", "Streams"]
+    },
+    {
+      "skill_id": "java-beg-02",
+      "skill_name": "Build & Dependency Management",
+      "keywords": ["Maven", "Gradle", "pom.xml", "build.gradle"]
+    },
+    {
+      "skill_id": "java-beg-03",
+      "skill_name": "Intro to Spring Boot",
+      "keywords": ["Spring Boot", "Annotations", "Dependency Injection", "Beans", "REST Controllers"]
+    }
+  ]
+}

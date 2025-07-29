@@ -1,0 +1,20 @@
+{
+  "topic": "Backend Engineer Stack - Advanced",
+  "skills": [
+    {
+      "skill_id": "java-adv-01",
+      "skill_name": "Concurrency & Asynchronous",
+      "keywords": ["Multithreading", "CompletableFuture", "@Async", "Spring WebFlux"]
+    },
+    {
+      "skill_id": "java-adv-02",
+      "skill_name": "Messaging Systems (JMS/AMQP)",
+      "keywords": ["JMS", "RabbitMQ", "Kafka", "Spring AMQP"]
+    },
+    {
+      "skill_id": "java-adv-03",
+      "skill_name": "Deployment & Cloud Native",
+      "keywords": ["Docker", "Kubernetes", "Spring Cloud", "Tomcat", "Jetty", "Netty"]
+    }
+  ]
+}

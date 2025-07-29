@@ -1,0 +1,20 @@
+{
+  "topic": "Backend Engineer Python Stack - Beginner",
+  "skills": [
+    {
+      "skill_id": "py-beg-01",
+      "skill_name": "Core Python",
+      "keywords": ["Python 3", "Data Structures", "OOP", "Functions", "Error Handling"]
+    },
+    {
+      "skill_id": "py-beg-02",
+      "skill_name": "Package Management",
+      "keywords": ["pip", "venv", "requirements.txt"]
+    },
+    {
+      "skill_id": "py-beg-03",
+      "skill_name": "Basic Web Framework (FastAPI)",
+      "keywords": ["FastAPI", "Uvicorn", "Path/Query Parameters", "Pydantic"]
+    }
+  ]
+}

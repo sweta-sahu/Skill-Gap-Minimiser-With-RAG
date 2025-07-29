@@ -1,0 +1,20 @@
+{
+  "topic": "Backend Engineer JS/TS Stack - Advanced",
+  "skills": [
+    {
+      "skill_id": "js-adv-01",
+      "skill_name": "Advanced Frameworks (NestJS)",
+      "keywords": ["NestJS", "Modules", "Controllers", "Providers", "Dependency Injection"]
+    },
+    {
+      "skill_id": "js-adv-02",
+      "skill_name": "Task Queues & Message Brokers",
+      "keywords": ["BullMQ", "RabbitMQ", "Kafka"]
+    },
+    {
+      "skill_id": "js-adv-03",
+      "skill_name": "Deployment & Process Management",
+      "keywords": ["PM2", "Nginx", "Docker", "Kubernetes"]
+    }
+  ]
+}

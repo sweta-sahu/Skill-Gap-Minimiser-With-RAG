@@ -1,0 +1,25 @@
+{
+  "topic": "Backend Engineer Python Stack - Intermediate",
+  "skills": [
+    {
+      "skill_id": "py-int-01",
+      "skill_name": "Full-Featured Framework (Django)",
+      "keywords": ["Django", "Django ORM", "Models", "Views", "Templates", "Admin"]
+    },
+    {
+      "skill_id": "py-int-02",
+      "skill_name": "API Development with DRF",
+      "keywords": ["Django REST Framework", "Serializers", "ViewSets", "Routers"]
+    },
+    {
+      "skill_id": "py-int-03",
+      "skill_name": "Database Interaction (SQLAlchemy)",
+      "keywords": ["SQLAlchemy ORM", "Alembic", "Migrations", "Sessions"]
+    },
+    {
+      "skill_id": "py-int-04",
+      "skill_name": "Testing with Pytest",
+      "keywords": ["Pytest", "Fixtures", "Mocking", "TestClient"]
+    }
+  ]
+}
