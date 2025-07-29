@@ -1,0 +1,25 @@
+{
+  "topic": "AI and Data Science - Beginner",
+  "skills": [
+    {
+      "skill_id": "ai-beg-01",
+      "skill_name": "Programming for Data Science (Python)",
+      "keywords": ["Python", "NumPy", "Pandas", "Matplotlib", "Seaborn", "Jupyter Notebook"]
+    },
+    {
+      "skill_id": "ai-beg-02",
+      "skill_name": "Foundational Mathematics",
+      "keywords": ["Linear Algebra", "Vectors", "Matrices", "Calculus", "Derivatives", "Gradients"]
+    },
+    {
+      "skill_id": "ai-beg-03",
+      "skill_name": "Core Statistical Concepts",
+      "keywords": ["Probability", "Descriptive Statistics", "Inferential Statistics", "Hypothesis Testing", "p-value"]
+    },
+    {
+      "skill_id": "ai-beg-04",
+      "skill_name": "Data Wrangling and Exploratory Data Analysis (EDA)",
+      "keywords": ["Data Cleaning", "Handling Missing Values", "Data Transformation", "EDA", "Data Visualization"]
+    }
+  ]
+}
