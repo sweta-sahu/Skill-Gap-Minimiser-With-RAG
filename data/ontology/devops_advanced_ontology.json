@@ -1,0 +1,45 @@
+{
+    "topic": "DevOps - Advanced",
+    "skills": [
+        {
+            "skill_id": "devops-adv-01",
+            "skill_name": "Enterprise-Scale CI/CD",
+            "keywords": ["multi-branch pipelines", "monorepo CI/CD", "pipeline security", "compliance automation", "self-healing pipelines"]
+        },
+        {
+            "skill_id": "devops-adv-02",
+            "skill_name": "Kubernetes at Scale",
+            "keywords": ["multi-cluster management", "service mesh", "Istio", "Kiali", "advanced scheduling", "custom resource definitions (CRDs)"]
+        },
+        {
+            "skill_id": "devops-adv-03",
+            "skill_name": "Advanced Infrastructure as Code (IaC)",
+            "keywords": ["Terraform Cloud", "policy as code", "Pulumi", "infrastructure drift detection", "IaC testing frameworks"]
+        },
+        {
+            "skill_id": "devops-adv-04",
+            "skill_name": "Observability and AIOps",
+            "keywords": ["distributed tracing", "OpenTelemetry", "chaos engineering", "root cause analysis", "predictive monitoring"]
+        },
+        {
+            "skill_id": "devops-adv-05",
+            "skill_name": "DevSecOps at Scale",
+            "keywords": ["shift-left security", "supply chain security", "SBOM", "Zero Trust Architecture", "security automation pipelines"]
+        },
+        {
+            "skill_id": "devops-adv-06",
+            "skill_name": "Hybrid and Multi-Cloud DevOps",
+            "keywords": ["cloud bursting", "multi-cloud orchestration", "hybrid networking", "disaster recovery automation"]
+        },
+        {
+            "skill_id": "devops-adv-07",
+            "skill_name": "Advanced Release Strategies",
+            "keywords": ["feature flags", "progressive delivery", "dark launches", "automated rollback", "A/B testing in production"]
+        },
+        {
+            "skill_id": "devops-adv-08",
+            "skill_name": "Performance and Cost Optimization",
+            "keywords": ["cloud cost governance", "auto-scaling optimization", "capacity planning", "cost anomaly detection", "FinOps"]
+        }
+    ]
+}

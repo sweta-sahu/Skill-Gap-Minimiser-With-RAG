@@ -1,0 +1,45 @@
+{
+    "topic": "DevOps - Intermediate",
+    "skills": [
+        {
+            "skill_id": "devops-int-01",
+            "skill_name": "Advanced Git and Version Control",
+            "keywords": ["git rebase", "git cherry-pick", "git stash", "git hooks", "branching strategies", "merge conflicts"]
+        },
+        {
+            "skill_id": "devops-int-02",
+            "skill_name": "Continuous Integration (CI) Advanced Concepts",
+            "keywords": ["CI/CD pipeline optimization", "parallel builds", "pipeline as code", "Jenkinsfile", "GitLab CI", "CircleCI"]
+        },
+        {
+            "skill_id": "devops-int-03",
+            "skill_name": "Advanced Continuous Deployment (CD)",
+            "keywords": ["blue-green deployment", "canary release", "rolling updates", "deployment automation", "release strategies"]
+        },
+        {
+            "skill_id": "devops-int-04",
+            "skill_name": "Container Orchestration with Kubernetes",
+            "keywords": ["Kubernetes", "pods", "deployments", "services", "ingress", "helm", "kubectl"]
+        },
+        {
+            "skill_id": "devops-int-05",
+            "skill_name": "Infrastructure as Code (IaC) with Terraform and Ansible",
+            "keywords": ["Terraform modules", "state management", "Ansible playbooks", "provisioning", "automation scripts"]
+        },
+        {
+            "skill_id": "devops-int-06",
+            "skill_name": "Monitoring and Logging",
+            "keywords": ["Prometheus", "Grafana", "ELK stack", "logging best practices", "metrics", "alerting"]
+        },
+        {
+            "skill_id": "devops-int-07",
+            "skill_name": "Cloud Deployment and Management",
+            "keywords": ["AWS EC2", "S3", "RDS", "Azure DevOps", "GCP Compute Engine", "cloud scaling"]
+        },
+        {
+            "skill_id": "devops-int-08",
+            "skill_name": "Security in DevOps",
+            "keywords": ["DevSecOps", "security scanning", "SAST", "DAST", "vulnerability management", "secrets management"]
+        }
+    ]
+}

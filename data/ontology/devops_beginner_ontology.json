@@ -1,0 +1,45 @@
+{
+    "topic": "DevOps - Beginner",
+    "skills": [
+        {
+            "skill_id": "devops-beg-01",
+            "skill_name": "Introduction to DevOps",
+            "keywords": ["DevOps", "software development lifecycle", "SDLC", "DevOps principles", "DevOps culture"]
+        },
+        {
+            "skill_id": "devops-beg-02",
+            "skill_name": "Version Control Basics",
+            "keywords": ["Git", "version control", "repository", "commit", "branch", "merge"]
+        },
+        {
+            "skill_id": "devops-beg-03",
+            "skill_name": "Continuous Integration (CI) Fundamentals",
+            "keywords": ["continuous integration", "build automation", "CI pipeline", "Jenkins", "GitHub Actions"]
+        },
+        {
+            "skill_id": "devops-beg-04",
+            "skill_name": "Basic Continuous Deployment (CD)",
+            "keywords": ["continuous deployment", "release automation", "CD pipeline", "deployment basics"]
+        },
+        {
+            "skill_id": "devops-beg-05",
+            "skill_name": "Introduction to Containerization",
+            "keywords": ["container", "Docker", "image", "container registry", "docker run", "docker build"]
+        },
+        {
+            "skill_id": "devops-beg-06",
+            "skill_name": "Infrastructure as Code (IaC) Basics",
+            "keywords": ["infrastructure as code", "IaC", "Terraform", "CloudFormation", "configuration files"]
+        },
+        {
+            "skill_id": "devops-beg-07",
+            "skill_name": "Basic Linux Commands for DevOps",
+            "keywords": ["Linux", "shell commands", "bash", "terminal", "file permissions", "grep", "chmod", "chown"]
+        },
+        {
+            "skill_id": "devops-beg-08",
+            "skill_name": "Introduction to Cloud Platforms",
+            "keywords": ["AWS", "Azure", "GCP", "cloud services", "cloud basics", "cloud deployment"]
+        }
+    ]
+}
