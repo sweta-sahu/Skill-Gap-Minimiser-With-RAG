@@ -1,0 +1,32 @@
+https://developer.mozilla.org/en-US/docs/Web/JavaScript (Beginner - JavaScript Fundamentals)
+https://developer.mozilla.org/en-US/docs/Web/CSS (Beginner - CSS Fundamentals)
+https://www.youtube.com/watch?v=MBlkKE0GYGg (Beginner - HTML & CSS Full Course)
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG (Beginner - CSS Flexbox Tutorial Playlist)
+https://www.w3schools.com/html/ (Beginner - HTML Basics & Forms)
+https://www.freecodecamp.org/news/asynchronous-javascript-from-settimeout-to-async-await/ (Beginner - Asynchronous JavaScript Guide)
+https://react.dev/learn (Intermediate - Official React Docs)
+https://www.youtube.com/watch?v=4s-T94o-jHw (Intermediate - React Hooks: useState & useEffect)
+https://reactrouter.com/en/main/start/tutorial (Intermediate - React Router v6+ Tutorial)
+https://www.freecodecamp.org/news/react-context-for-beginners/ (Intermediate - React Context API Guide)
+https://www.youtube.com/watch?v=MIJt9H69QVc (Intermediate - Node.js Full Course)
+https://www.youtube.com/watch?v=fBzm9zja2Y8 (Intermediate - Express.js Crash Course)
+https://www.digitalocean.com/community/tutorials/nodejs-crud-operations-mongoose-mongodb-atlas (Intermediate - Node.js CRUD with MongoDB)
+https://www.geeksforgeeks.org/node-js/model-view-controllermvc-architecture-for-node-applications/ (Intermediate - MVC Architecture in Node.js)
+https://m.youtube.com/watch?v=BBQrv8RAG0Y (Intermediate - Postman API Testing Intro)
+https://www.youtube.com/watch?v=-Qnf2bME-rE (Advanced - Advanced React Concepts)
+https://mui.com/material-ui/getting-started/ (Advanced - Material UI Framework)
+https://redux.js.org/ (Advanced - Redux State Management)
+https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/ (Advanced - Testing React Apps Guide)
+https://www.youtube.com/watch?v=c2M-rlkkT5o (Advanced - MongoDB Intro)
+https://www.youtube.com/watch?v=2LRLsMracAY (Advanced - MERN Authentication Guide)
+https://mongoosejs.com/docs/guide.html (Advanced - Mongoose ODM Docs)
+https://namastedev.com/blog/deploying-react-app-to-netlify-2/ (Advanced - Deploying React to Netlify)
+https://devcenter.heroku.com/articles/deploying-nodejs (Advanced - Deploying Node.js to Heroku)
+https://www.youtube.com/playlist?list=PLA3GkZPtsafYYWC-N6vicOLP0w-4fiQ2S (Advanced - Git & GitHub Course Playlist)
+
+
+
+
+
+
+
