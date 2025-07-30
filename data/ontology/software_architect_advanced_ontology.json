@@ -1,0 +1,55 @@
+{
+  "topic": "Software Architecture - Advanced",
+  "skills": [
+    {
+      "skill_id": "sa-adv-01",
+      "skill_name": "Enterprise Architecture Frameworks",
+      "keywords": ["TOGAF", "Zachman Framework", "FEAF", "Gartner EA Framework", "enterprise modeling", "business-IT alignment"]
+    },
+    {
+      "skill_id": "sa-adv-02",
+      "skill_name": "Domain-Driven Design (DDD)",
+      "keywords": ["bounded context", "aggregate roots", "value objects", "domain events", "strategic design", "context mapping"]
+    },
+    {
+      "skill_id": "sa-adv-03",
+      "skill_name": "High-Availability and Fault-Tolerant Architectures",
+      "keywords": ["HA clustering", "failover", "disaster recovery", "geo-redundancy", "chaos engineering"]
+    },
+    {
+      "skill_id": "sa-adv-04",
+      "skill_name": "Polyglot Persistence and Data Strategies",
+      "keywords": ["polyglot persistence", "multi-model databases", "event sourcing", "CQRS", "data mesh"]
+    },
+    {
+      "skill_id": "sa-adv-05",
+      "skill_name": "Advanced Microservices Patterns",
+      "keywords": ["saga pattern", "circuit breaker", "service mesh", "sidecar pattern", "distributed tracing"]
+    },
+    {
+      "skill_id": "sa-adv-06",
+      "skill_name": "Architecting for Multi-Cloud and Hybrid Environments",
+      "keywords": ["multi-cloud strategy", "hybrid architecture", "cloud interoperability", "cloud bursting", "edge computing"]
+    },
+    {
+      "skill_id": "sa-adv-07",
+      "skill_name": "Performance Engineering at Scale",
+      "keywords": ["capacity planning", "performance profiling", "distributed caching", "latency optimization", "throughput tuning"]
+    },
+    {
+      "skill_id": "sa-adv-08",
+      "skill_name": "Security Architecture and Compliance",
+      "keywords": ["threat modeling", "security architecture reviews", "compliance frameworks", "GDPR", "HIPAA", "NIST"]
+    },
+    {
+      "skill_id": "sa-adv-09",
+      "skill_name": "AI/ML System Architecture",
+      "keywords": ["ML pipelines", "feature stores", "model serving", "MLOps", "data versioning", "scalable inference"]
+    },
+    {
+      "skill_id": "sa-adv-10",
+      "skill_name": "Future-Ready and Emerging Technology Architecture",
+      "keywords": ["blockchain architecture", "quantum-ready systems", "IoT architecture", "digital twins"]
+    }
+  ]
+}

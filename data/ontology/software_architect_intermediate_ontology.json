@@ -1,0 +1,56 @@
+{
+  "topic": "Software Architecture - Intermediate",
+  "skills": [
+    {
+      "skill_id": "sa-int-01",
+      "skill_name": "Advanced Design Patterns",
+      "keywords": ["singleton", "factory", "observer", "strategy", "builder", "decorator", "adapter", "facade"]
+    },
+    {
+      "skill_id": "sa-int-02",
+      "skill_name": "Microservices Architecture",
+      "keywords": ["microservices", "service registry", "API gateway", "service discovery", "inter-service communication", "distributed transactions"]
+    },
+    {
+      "skill_id": "sa-int-03",
+      "skill_name": "Event-Driven Architecture",
+      "keywords": ["event-driven", "message queues", "Kafka", "RabbitMQ", "publish-subscribe", "event sourcing"]
+    },
+    {
+      "skill_id": "sa-int-04",
+      "skill_name": "Scalability and Performance Optimization",
+      "keywords": ["scalability", "load balancing", "horizontal scaling", "vertical scaling", "caching strategies", "CDN"]
+    },
+    {
+      "skill_id": "sa-int-05",
+      "skill_name": "Database Design and Optimization",
+      "keywords": ["normalization", "denormalization", "indexing", "query optimization", "database sharding", "replication"]
+    },
+    {
+      "skill_id": "sa-int-06",
+      "skill_name": "API Design Best Practices",
+      "keywords": ["REST best practices", "GraphQL", "OpenAPI", "API security", "rate limiting", "versioning"]
+    },
+    {
+      "skill_id": "sa-int-07",
+      "skill_name": "System Integration",
+      "keywords": ["integration patterns", "ETL", "middleware", "SOAP", "API orchestration"]
+    },
+    {
+      "skill_id": "sa-int-08",
+      "skill_name": "Cloud-Native Architecture",
+      "keywords": ["cloud-native", "containers", "Kubernetes", "serverless", "cloud scaling", "infrastructure as code"]
+    },
+    {
+      "skill_id": "sa-int-09",
+      "skill_name": "Security in Software Architecture",
+      "keywords": ["OAuth", "JWT", "API security", "zero trust", "input validation", "secure coding"]
+    },
+    {
+      "skill_id": "sa-int-10",
+      "skill_name": "Testing and Quality Assurance in Architecture",
+      "keywords": ["unit testing", "integration testing", "contract testing", "architecture fitness functions"]
+    }
+  ]
+}
+

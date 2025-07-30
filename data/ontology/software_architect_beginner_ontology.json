@@ -1,0 +1,55 @@
+{
+  "topic": "Software Architecture - Beginner",
+  "skills": [
+    {
+      "skill_id": "sa-beg-01",
+      "skill_name": "Introduction to Software Architecture",
+      "keywords": ["software architecture", "architecture basics", "role of software architect", "design principles", "system design overview"]
+    },
+    {
+      "skill_id": "sa-beg-02",
+      "skill_name": "Software Development Lifecycle (SDLC)",
+      "keywords": ["SDLC", "waterfall", "agile", "scrum", "kanban", "iterative development", "project phases"]
+    },
+    {
+      "skill_id": "sa-beg-03",
+      "skill_name": "Basic Software Design Principles",
+      "keywords": ["SOLID principles", "KISS", "DRY", "YAGNI", "modularity", "cohesion", "coupling"]
+    },
+    {
+      "skill_id": "sa-beg-04",
+      "skill_name": "UML and Basic Modeling",
+      "keywords": ["UML diagrams", "class diagram", "sequence diagram", "use case diagram", "activity diagram"]
+    },
+    {
+      "skill_id": "sa-beg-05",
+      "skill_name": "Client-Server Architecture",
+      "keywords": ["client-server", "frontend", "backend", "API", "request-response", "HTTP", "REST"]
+    },
+    {
+      "skill_id": "sa-beg-06",
+      "skill_name": "Databases and Data Storage Basics",
+      "keywords": ["database", "SQL", "NoSQL", "relational model", "tables", "indexes", "basic queries"]
+    },
+    {
+      "skill_id": "sa-beg-07",
+      "skill_name": "Version Control Systems",
+      "keywords": ["git", "github", "branching", "merging", "commit", "repository"]
+    },
+    {
+      "skill_id": "sa-beg-08",
+      "skill_name": "Introduction to APIs",
+      "keywords": ["API basics", "REST API", "endpoints", "HTTP methods", "GET", "POST", "PUT", "DELETE"]
+    },
+    {
+      "skill_id": "sa-beg-09",
+      "skill_name": "Cloud Computing Basics",
+      "keywords": ["cloud computing", "AWS", "Azure", "GCP", "IaaS", "PaaS", "SaaS"]
+    },
+    {
+      "skill_id": "sa-beg-10",
+      "skill_name": "Basic Security Concepts",
+      "keywords": ["authentication", "authorization", "HTTPS", "encryption", "password hashing", "firewalls"]
+    }
+  ]
+}
