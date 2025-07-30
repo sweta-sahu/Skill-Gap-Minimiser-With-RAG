@@ -1,0 +1,25 @@
+{
+  "topic": "Data Analyst - Beginner",
+  "skills": [
+    {
+      "skill_id": "da-beg-01",
+      "skill_name": "Excel & Spreadsheets",
+      "keywords": ["Formulas", "Pivot Tables", "Data Cleaning"]
+    },
+    {
+      "skill_id": "da-beg-02",
+      "skill_name": "Basic Statistics",
+      "keywords": ["Descriptive Statistics", "Data Sampling"]
+    },
+    {
+      "skill_id": "da-beg-03",
+      "skill_name": "SQL Basics",
+      "keywords": ["SELECT Statements", "Joins", "Filtering"]
+    },
+    {
+      "skill_id": "da-beg-04",
+      "skill_name": "Basic Data Visualization",
+      "keywords": ["Bar Charts", "Line Charts", "Matplotlib Basics"]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "topic": "Data Analyst - Advanced",
+  "skills": [
+    {
+      "skill_id": "da-adv-01",
+      "skill_name": "Big Data Tools",
+      "keywords": ["Spark", "Hadoop"]
+    },
+    {
+      "skill_id": "da-adv-02",
+      "skill_name": "Predictive Analytics",
+      "keywords": ["Linear Regression", "Time Series Forecasting"]
+    },
+    {
+      "skill_id": "da-adv-03",
+      "skill_name": "Advanced Visualization",
+      "keywords": ["Interactive Dashboards", "Storytelling with Data"]
+    },
+    {
+      "skill_id": "da-adv-04",
+      "skill_name": "Domain Knowledge",
+      "keywords": ["Business KPIs", "Data-Driven Decision Making"]
+    }
+  ]
+}

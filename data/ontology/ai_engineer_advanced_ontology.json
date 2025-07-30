@@ -1,0 +1,25 @@
+{
+  "topic": "AI Engineer - Advanced",
+  "skills": [
+    {
+      "skill_id": "ai-adv-01",
+      "skill_name": "Advanced Deep Learning",
+      "keywords": ["CNNs", "RNNs", "Transformers", "GANs"]
+    },
+    {
+      "skill_id": "ai-adv-02",
+      "skill_name": "Large Language Models",
+      "keywords": ["Fine-tuning", "Prompt Engineering", "RLHF"]
+    },
+    {
+      "skill_id": "ai-adv-03",
+      "skill_name": "MLOps",
+      "keywords": ["CI/CD for ML", "Kubernetes", "Model Monitoring"]
+    },
+    {
+      "skill_id": "ai-adv-04",
+      "skill_name": "Optimization & Scaling",
+      "keywords": ["Hyperparameter Tuning", "Distributed Training"]
+    }
+  ]
+}

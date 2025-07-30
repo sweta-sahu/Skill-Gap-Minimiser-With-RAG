@@ -1,0 +1,30 @@
+{
+  "topic": "AI Engineer - Intermediate",
+  "skills": [
+    {
+      "skill_id": "ai-int-01",
+      "skill_name": "Advanced Python",
+      "keywords": ["OOP", "Decorators", "Generators"]
+    },
+    {
+      "skill_id": "ai-int-02",
+      "skill_name": "Deep Learning Basics",
+      "keywords": ["Neural Networks", "Activation Functions", "Loss Functions"]
+    },
+    {
+      "skill_id": "ai-int-03",
+      "skill_name": "Model Deployment",
+      "keywords": ["Flask", "FastAPI", "Docker"]
+    },
+    {
+      "skill_id": "ai-int-04",
+      "skill_name": "Cloud for AI",
+      "keywords": ["AWS SageMaker", "Azure ML"]
+    },
+    {
+      "skill_id": "ai-int-05",
+      "skill_name": "Experiment Tracking",
+      "keywords": ["MLflow", "Weights & Biases"]
+    }
+  ]
+}

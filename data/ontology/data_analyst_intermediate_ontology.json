@@ -1,0 +1,25 @@
+{
+  "topic": "Data Analyst - Intermediate",
+  "skills": [
+    {
+      "skill_id": "da-int-01",
+      "skill_name": "Advanced SQL",
+      "keywords": ["Window Functions", "CTEs", "Query Optimization"]
+    },
+    {
+      "skill_id": "da-int-02",
+      "skill_name": "Python for Analysis",
+      "keywords": ["Pandas", "Numpy", "Data Wrangling"]
+    },
+    {
+      "skill_id": "da-int-03",
+      "skill_name": "Visualization Tools",
+      "keywords": ["Seaborn", "Tableau", "Power BI"]
+    },
+    {
+      "skill_id": "da-int-04",
+      "skill_name": "Hypothesis Testing",
+      "keywords": ["T-tests", "ANOVA", "Regression Basics"]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "topic": "AI Engineer - Beginner",
+  "skills": [
+    {
+      "skill_id": "ai-beg-01",
+      "skill_name": "Mathematics for AI",
+      "keywords": ["Linear Algebra", "Probability", "Statistics", "Calculus Basics"]
+    },
+    {
+      "skill_id": "ai-beg-02",
+      "skill_name": "Programming Foundations",
+      "keywords": ["Python Basics", "Data Structures", "Algorithms"]
+    },
+    {
+      "skill_id": "ai-beg-03",
+      "skill_name": "Version Control",
+      "keywords": ["Git", "GitHub Basics"]
+    },
+    {
+      "skill_id": "ai-beg-04",
+      "skill_name": "Machine Learning Basics",
+      "keywords": ["Supervised Learning", "Unsupervised Learning"]
+    },
+    {
+      "skill_id": "ai-beg-05",
+      "skill_name": "Data Handling",
+      "keywords": ["Pandas", "Numpy", "Data Cleaning"]
+    }
+  ]
+}
