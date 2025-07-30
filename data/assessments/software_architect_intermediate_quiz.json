@@ -1,0 +1,45 @@
+{
+  "topic": "Software Architect - Intermediate",
+  "questions": [
+    {
+      "id": "sa_int_q001",
+      "question": "Explain the principles of the SOLID design pattern and why they are important in software architecture.",
+      "associated_skills": ["SOLID Principles", "Object-Oriented Design", "Maintainability"]
+    },
+    {
+      "id": "sa_int_q002",
+      "question": "How would you choose between REST and GraphQL for a new project?",
+      "associated_skills": ["API Design", "REST", "GraphQL", "Performance Considerations"]
+    },
+    {
+      "id": "sa_int_q003",
+      "question": "Describe the key considerations when designing a microservices-based architecture.",
+      "associated_skills": ["Microservices Design", "Service Boundaries", "Inter-Service Communication", "Scalability"]
+    },
+    {
+      "id": "sa_int_q004",
+      "question": "What is event-driven architecture and when should it be used?",
+      "associated_skills": ["Event-Driven Architecture", "Asynchronous Processing", "Scalability"]
+    },
+    {
+      "id": "sa_int_q005",
+      "question": "Explain the CAP theorem and its implications for distributed systems.",
+      "associated_skills": ["CAP Theorem", "Distributed Systems", "Consistency", "Availability", "Partition Tolerance"]
+    },
+    {
+      "id": "sa_int_q006",
+      "question": "How would you apply domain-driven design principles to a large-scale enterprise system?",
+      "associated_skills": ["Domain-Driven Design", "Bounded Contexts", "Entity Modeling"]
+    },
+    {
+      "id": "sa_int_q007",
+      "question": "What is the difference between horizontal and vertical scaling from an architectural perspective?",
+      "associated_skills": ["Scaling Strategies", "Horizontal Scaling", "Vertical Scaling", "Performance Optimization"]
+    },
+    {
+      "id": "sa_int_q008",
+      "question": "Describe the trade-offs between using a relational database and a NoSQL database for a high-traffic application.",
+      "associated_skills": ["Database Design", "Relational Databases", "NoSQL Databases", "Scalability", "Data Modeling"]
+    }
+  ]
+}

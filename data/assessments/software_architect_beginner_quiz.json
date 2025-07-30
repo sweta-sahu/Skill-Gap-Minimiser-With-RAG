@@ -1,0 +1,45 @@
+{
+  "topic": "Software Architect - Beginner",
+  "questions": [
+    {
+      "id": "sa_beg_q001",
+      "question": "What is the role of a software architect in a software development project?",
+      "associated_skills": ["Software Architecture Basics", "Project Roles", "Stakeholder Communication"]
+    },
+    {
+      "id": "sa_beg_q002",
+      "question": "Explain the difference between functional and non-functional requirements.",
+      "associated_skills": ["Requirements Gathering", "Functional Requirements", "Non-Functional Requirements"]
+    },
+    {
+      "id": "sa_beg_q003",
+      "question": "What is the purpose of architectural diagrams in software development?",
+      "associated_skills": ["Architecture Diagrams", "System Visualization", "Documentation"]
+    },
+    {
+      "id": "sa_beg_q004",
+      "question": "Describe the concept of modular design in software development.",
+      "associated_skills": ["Modular Design", "Code Reusability", "Loose Coupling"]
+    },
+    {
+      "id": "sa_beg_q005",
+      "question": "What are the common types of software architecture patterns?",
+      "associated_skills": ["Architecture Patterns", "Layered Architecture", "Client-Server", "Microservices Basics"]
+    },
+    {
+      "id": "sa_beg_q006",
+      "question": "Explain the difference between monolithic and microservices architecture.",
+      "associated_skills": ["Monolithic Architecture", "Microservices Architecture", "Scalability"]
+    },
+    {
+      "id": "sa_beg_q007",
+      "question": "Why is scalability an important consideration in software design?",
+      "associated_skills": ["Scalability", "Performance Optimization", "System Growth"]
+    },
+    {
+      "id": "sa_beg_q008",
+      "question": "What is the importance of choosing the right technology stack for a project?",
+      "associated_skills": ["Technology Stack Selection", "Feasibility Analysis", "Project Requirements"]
+    }
+  ]
+}

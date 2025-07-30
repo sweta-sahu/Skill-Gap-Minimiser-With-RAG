@@ -1,0 +1,45 @@
+{
+  "topic": "Software Architect - Advanced",
+  "questions": [
+    {
+      "id": "sa_adv_q001",
+      "question": "How would you design a highly available, multi-region cloud architecture that ensures minimal latency and disaster recovery capabilities?",
+      "associated_skills": ["Multi-Region Architecture", "High Availability", "Disaster Recovery", "Cloud Networking"]
+    },
+    {
+      "id": "sa_adv_q002",
+      "question": "Explain your approach to designing a polyglot microservices architecture with different programming languages and databases.",
+      "associated_skills": ["Polyglot Architecture", "Microservices", "Service Interoperability", "Database Design"]
+    },
+    {
+      "id": "sa_adv_q003",
+      "question": "Discuss how you would incorporate advanced caching strategies into a global-scale application.",
+      "associated_skills": ["Caching Strategies", "Content Delivery Networks", "Performance Optimization", "Global Systems"]
+    },
+    {
+      "id": "sa_adv_q004",
+      "question": "How would you approach security architecture for a system that handles sensitive financial data across multiple regions?",
+      "associated_skills": ["Security Architecture", "Data Privacy", "Encryption", "Compliance"]
+    },
+    {
+      "id": "sa_adv_q005",
+      "question": "Describe how you would implement event sourcing and CQRS in a large-scale distributed system.",
+      "associated_skills": ["Event Sourcing", "CQRS", "Distributed Systems", "Data Consistency"]
+    },
+    {
+      "id": "sa_adv_q006",
+      "question": "What strategies would you use to design an architecture that supports zero-downtime deployments for a global SaaS application?",
+      "associated_skills": ["Zero-Downtime Deployments", "Blue-Green Deployments", "Canary Releases", "Continuous Delivery"]
+    },
+    {
+      "id": "sa_adv_q007",
+      "question": "How would you integrate observability and advanced monitoring into a complex microservices architecture?",
+      "associated_skills": ["Observability", "Monitoring", "Tracing", "Metrics", "Logging"]
+    },
+    {
+      "id": "sa_adv_q008",
+      "question": "Explain your approach for designing an architecture that can handle unpredictable, extreme traffic spikes while maintaining performance.",
+      "associated_skills": ["Scalability", "Auto-Scaling", "Load Balancing", "Performance Optimization", "Cloud Infrastructure"]
+    }
+  ]
+}

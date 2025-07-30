@@ -1,0 +1,45 @@
+{
+  "topic": "DevOps - Intermediate",
+  "questions": [
+    {
+      "id": "dev_int_q001",
+      "question": "Explain the differences between Docker and Kubernetes, and when to use each.",
+      "associated_skills": ["Docker Advanced Concepts", "Kubernetes Fundamentals", "Container Orchestration"]
+    },
+    {
+      "id": "dev_int_q002",
+      "question": "Describe the architecture of a typical Kubernetes cluster and its main components.",
+      "associated_skills": ["Kubernetes Cluster Architecture", "Master Node", "Worker Node", "Pods", "Services"]
+    },
+    {
+      "id": "dev_int_q003",
+      "question": "What are Helm charts and how do they simplify Kubernetes deployments?",
+      "associated_skills": ["Helm Charts", "Kubernetes Package Management"]
+    },
+    {
+      "id": "dev_int_q004",
+      "question": "Explain the difference between blue-green deployment and rolling updates in DevOps.",
+      "associated_skills": ["Deployment Strategies", "Blue-Green Deployment", "Rolling Updates"]
+    },
+    {
+      "id": "dev_int_q005",
+      "question": "What is GitOps and how does it improve infrastructure management?",
+      "associated_skills": ["GitOps", "Infrastructure as Code", "Continuous Delivery"]
+    },
+    {
+      "id": "dev_int_q006",
+      "question": "Describe how you would set up automated testing in a CI/CD pipeline.",
+      "associated_skills": ["CI/CD Automation", "Automated Testing", "Pipeline Optimization"]
+    },
+    {
+      "id": "dev_int_q007",
+      "question": "What is the difference between horizontal and vertical scaling, and when would you use each?",
+      "associated_skills": ["Scaling Strategies", "Horizontal Scaling", "Vertical Scaling"]
+    },
+    {
+      "id": "dev_int_q008",
+      "question": "How can you secure secrets and sensitive information in a DevOps pipeline?",
+      "associated_skills": ["Secrets Management", "HashiCorp Vault", "Kubernetes Secrets", "Environment Variables Security"]
+    }
+  ]
+}

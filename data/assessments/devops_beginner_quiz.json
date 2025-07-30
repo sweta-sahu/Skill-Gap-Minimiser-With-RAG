@@ -1,0 +1,45 @@
+{
+  "topic": "Introduction to DevOps - Beginner",
+  "questions": [
+    {
+      "id": "dev_beg_q001",
+      "question": "What is DevOps and why is it important in software development?",
+      "associated_skills": ["DevOps Basics", "Software Development Lifecycle"]
+    },
+    {
+      "id": "dev_beg_q002",
+      "question": "Explain the difference between continuous integration, continuous delivery, and continuous deployment.",
+      "associated_skills": ["Continuous Integration (CI)", "Continuous Delivery (CD)", "Continuous Deployment"]
+    },
+    {
+      "id": "dev_beg_q003",
+      "question": "What is version control and why is Git commonly used in DevOps?",
+      "associated_skills": ["Version Control", "Git Basics"]
+    },
+    {
+      "id": "dev_beg_q004",
+      "question": "What is containerization and how does Docker help in DevOps?",
+      "associated_skills": ["Containerization", "Docker Basics"]
+    },
+    {
+      "id": "dev_beg_q005",
+      "question": "What is Infrastructure as Code (IaC) and name a popular tool used for it.",
+      "associated_skills": ["Infrastructure as Code", "Terraform Basics", "Configuration Management"]
+    },
+    {
+      "id": "dev_beg_q006",
+      "question": "What is the role of monitoring in DevOps and name some common tools.",
+      "associated_skills": ["Monitoring", "Prometheus", "Grafana", "Nagios"]
+    },
+    {
+      "id": "dev_beg_q007",
+      "question": "Explain the concept of a CI/CD pipeline and its benefits.",
+      "associated_skills": ["CI/CD Pipeline", "Automation"]
+    },
+    {
+      "id": "dev_beg_q008",
+      "question": "What are some common challenges faced when adopting DevOps?",
+      "associated_skills": ["DevOps Challenges", "Team Collaboration", "Cultural Change"]
+    }
+  ]
+}

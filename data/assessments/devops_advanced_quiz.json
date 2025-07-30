@@ -1,0 +1,45 @@
+{
+  "topic": "DevOps - Advanced",
+  "questions": [
+    {
+      "id": "dev_adv_q001",
+      "question": "Explain how you would design and implement a multi-region, highly available Kubernetes architecture for a production workload.",
+      "associated_skills": ["Multi-Region Kubernetes", "High Availability", "Disaster Recovery", "Cloud Networking"]
+    },
+    {
+      "id": "dev_adv_q002",
+      "question": "Describe the process of implementing a zero-downtime deployment pipeline for microservices in Kubernetes.",
+      "associated_skills": ["Zero-Downtime Deployments", "Service Mesh", "Canary Releases", "Istio/Linkerd"]
+    },
+    {
+      "id": "dev_adv_q003",
+      "question": "How would you integrate advanced monitoring and observability tools like Prometheus, Grafana, and OpenTelemetry for a complex DevOps environment?",
+      "associated_skills": ["Observability", "Prometheus", "Grafana", "OpenTelemetry", "Distributed Tracing"]
+    },
+    {
+      "id": "dev_adv_q004",
+      "question": "Discuss how you would handle secrets rotation and compliance in a large-scale DevOps infrastructure.",
+      "associated_skills": ["Secrets Rotation", "Compliance Automation", "Security Best Practices", "HashiCorp Vault Advanced"]
+    },
+    {
+      "id": "dev_adv_q005",
+      "question": "How do you optimize cloud costs in a large DevOps-managed infrastructure without impacting performance?",
+      "associated_skills": ["Cloud Cost Optimization", "Autoscaling Policies", "Spot Instances", "Resource Limits"]
+    },
+    {
+      "id": "dev_adv_q006",
+      "question": "Explain the strategies for implementing chaos engineering in a CI/CD pipeline to improve resilience.",
+      "associated_skills": ["Chaos Engineering", "Resilience Testing", "Fault Injection", "Gremlin/Chaos Mesh"]
+    },
+    {
+      "id": "dev_adv_q007",
+      "question": "Describe an approach for automating security scanning at multiple stages of the DevOps pipeline.",
+      "associated_skills": ["DevSecOps", "Static Application Security Testing (SAST)", "Dynamic Application Security Testing (DAST)", "Container Security"]
+    },
+    {
+      "id": "dev_adv_q008",
+      "question": "How would you implement policy-as-code to enforce security and compliance requirements across Kubernetes clusters?",
+      "associated_skills": ["Policy-as-Code", "OPA/Gatekeeper", "Kubernetes Governance", "Compliance Automation"]
+    }
+  ]
+}
