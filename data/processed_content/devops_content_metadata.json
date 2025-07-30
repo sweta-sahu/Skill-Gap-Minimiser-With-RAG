@@ -1,0 +1,66 @@
+[
+    {
+        "id": "devops_res_001",
+        "title": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations",
+        "url": "https://itrevolution.com/product/the-devops-handbook/",
+        "format": "book",
+        "difficulty": "beginner",
+        "skill_tags": ["DevOps Culture", "Continuous Delivery", "Automation"]
+    },
+    {
+        "id": "devops_res_002",
+        "title": "Introduction to DevOps",
+        "url": "https://learn.microsoft.com/en-us/devops/what-is-devops",
+        "format": "article",
+        "difficulty": "beginner",
+        "skill_tags": ["DevOps Basics", "Collaboration", "Agile"]
+    },
+    {
+        "id": "devops_res_003",
+        "title": "CI/CD Pipeline with Jenkins",
+        "url": "https://www.jenkins.io/doc/book/pipeline/getting-started/",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["CI/CD", "Jenkins", "Automation"]
+    },
+    {
+        "id": "devops_res_004",
+        "title": "Docker for Beginners",
+        "url": "https://docker-curriculum.com/",
+        "format": "course_notes",
+        "difficulty": "beginner",
+        "skill_tags": ["Docker", "Containers", "Image Management"]
+    },
+    {
+        "id": "devops_res_005",
+        "title": "Kubernetes Basics",
+        "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["Kubernetes", "Container Orchestration", "Cluster Management"]
+    },
+    {
+        "id": "devops_res_006",
+        "title": "Infrastructure as Code with Terraform",
+        "url": "https://developer.hashicorp.com/terraform/tutorials",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["Terraform", "Infrastructure as Code", "Cloud Deployment"]
+    },
+    {
+        "id": "devops_res_007",
+        "title": "Monitoring and Observability with Prometheus and Grafana",
+        "url": "https://grafana.com/docs/grafana/latest/getting-started/getting-started-prometheus/",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["Monitoring", "Prometheus", "Grafana", "Observability"]
+    },
+    {
+        "id": "devops_res_008",
+        "title": "Site Reliability Engineering (SRE) Principles",
+        "url": "https://sre.google/sre-book/table-of-contents/",
+        "format": "book",
+        "difficulty": "advanced",
+        "skill_tags": ["SRE", "Reliability", "Incident Management"]
+    }
+]

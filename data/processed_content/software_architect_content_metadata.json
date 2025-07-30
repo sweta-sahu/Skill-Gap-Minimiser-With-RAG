@@ -1,0 +1,66 @@
+[
+    {
+        "id": "sa_res_001",
+        "title": "Software Architecture Patterns",
+        "url": "https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/",
+        "format": "book",
+        "difficulty": "beginner",
+        "skill_tags": ["Architecture Patterns", "Design Principles", "Software Design"]
+    },
+    {
+        "id": "sa_res_002",
+        "title": "The Clean Architecture",
+        "url": "https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html",
+        "format": "article",
+        "difficulty": "intermediate",
+        "skill_tags": ["Clean Architecture", "SOLID Principles", "Code Maintainability"]
+    },
+    {
+        "id": "sa_res_003",
+        "title": "Microservices Architecture Guide",
+        "url": "https://learn.microsoft.com/en-us/azure/architecture/microservices/",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["Microservices", "Service Design", "Distributed Systems"]
+    },
+    {
+        "id": "sa_res_004",
+        "title": "Domain-Driven Design Reference",
+        "url": "https://www.domainlanguage.com/ddd/reference/",
+        "format": "article",
+        "difficulty": "advanced",
+        "skill_tags": ["DDD", "Bounded Contexts", "Modeling"]
+    },
+    {
+        "id": "sa_res_005",
+        "title": "Event-Driven Architecture",
+        "url": "https://martinfowler.com/articles/201701-event-driven.html",
+        "format": "article",
+        "difficulty": "intermediate",
+        "skill_tags": ["Event-Driven Architecture", "Messaging", "Asynchronous Systems"]
+    },
+    {
+        "id": "sa_res_006",
+        "title": "Architecting Cloud Native Applications",
+        "url": "https://cloud.google.com/architecture/framework",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["Cloud Native", "Scalability", "Resilience"]
+    },
+    {
+        "id": "sa_res_007",
+        "title": "Designing Data-Intensive Applications",
+        "url": "https://dataintensive.net/",
+        "format": "book",
+        "difficulty": "advanced",
+        "skill_tags": ["Data Modeling", "Scalability", "System Design"]
+    },
+    {
+        "id": "sa_res_008",
+        "title": "Software Architecture for Developers",
+        "url": "https://leanpub.com/software-architecture-for-developers",
+        "format": "book",
+        "difficulty": "beginner",
+        "skill_tags": ["Architecture Fundamentals", "Communication", "Diagrams"]
+    }
+]
