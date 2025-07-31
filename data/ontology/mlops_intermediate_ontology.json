@@ -1,0 +1,25 @@
+{
+  "topic": "MLOps - Intermediate",
+  "skills": [
+    {
+      "skill_id": "mlops-int-01",
+      "skill_name": "Containerization",
+      "keywords": ["Docker", "Containers", "Image Management", "Dockerfile"]
+    },
+    {
+      "skill_id": "mlops-int-02",
+      "skill_name": "Container Orchestration",
+      "keywords": ["Kubernetes", "Cluster Management", "Pods", "Services", "Deployment"]
+    },
+    {
+      "skill_id": "mlops-int-03",
+      "skill_name": "CI/CD Automation",
+      "keywords": ["CI/CD", "GitHub Actions", "Automation", "Workflow"]
+    },
+    {
+      "skill_id": "mlops-int-04",
+      "skill_name": "Data Management & Validation",
+      "keywords": ["Data Quality", "Data Validation", "Great Expectations", "Feature Store", "Feast"]
+    }
+  ]
+}

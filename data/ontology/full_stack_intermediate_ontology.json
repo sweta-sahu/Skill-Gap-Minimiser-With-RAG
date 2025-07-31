@@ -1,0 +1,25 @@
+{
+  "topic": "Full Stack - MERN - Intermediate",
+  "skills": [
+    {
+      "skill_id": "fs-int-01",
+      "skill_name": "React Core Concepts",
+      "keywords": ["React", "Components", "JSX", "Props", "State", "Conditional Rendering"]
+    },
+    {
+      "skill_id": "fs-int-02",
+      "skill_name": "React Hooks",
+      "keywords": ["useState", "useEffect", "useContext", "React Hooks", "Custom Hooks"]
+    },
+    {
+      "skill_id": "fs-int-03",
+      "skill_name": "Node.js and Express.js",
+      "keywords": ["Node.js", "Express.js", "Basic Server", "NPM", "Middleware", "Routing"]
+    },
+    {
+      "skill_id": "fs-int-04",
+      "skill_name": "Backend Architecture & Tooling",
+      "keywords": ["REST API", "CRUD", "MVC", "Postman", "API Testing"]
+    }
+  ]
+}

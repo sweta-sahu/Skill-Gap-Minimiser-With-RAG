@@ -1,0 +1,25 @@
+{
+  "topic": "Full Stack - MERN - Advanced",
+  "skills": [
+    {
+      "skill_id": "fs-adv-01",
+      "skill_name": "Advanced State Management",
+      "keywords": ["Redux", "Redux Toolkit", "State Management"]
+    },
+    {
+      "skill_id": "fs-adv-02",
+      "skill_name": "Database and ODM",
+      "keywords": ["MongoDB", "NoSQL", "Mongoose", "Schema", "Data Validation"]
+    },
+    {
+      "skill_id": "fs-adv-03",
+      "skill_name": "Authentication and Testing",
+      "keywords": ["Authentication", "JWT", "Security", "Jest", "React Testing Library"]
+    },
+    {
+      "skill_id": "fs-adv-04",
+      "skill_name": "Deployment and Version Control",
+      "keywords": ["Deployment", "Git", "GitHub", "Netlify", "Heroku", "CI/CD"]
+    }
+  ]
+}

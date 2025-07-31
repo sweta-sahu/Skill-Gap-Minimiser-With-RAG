@@ -1,0 +1,25 @@
+{
+  "topic": "Full Stack - MERN - Beginner",
+  "skills": [
+    {
+      "skill_id": "fs-beg-01",
+      "skill_name": "HTML Fundamentals",
+      "keywords": ["HTML Basics", "Tags", "Forms", "Semantic HTML", "Accessibility"]
+    },
+    {
+      "skill_id": "fs-beg-02",
+      "skill_name": "CSS Fundamentals",
+      "keywords": ["CSS Basics", "FlexBox", "Grid", "Selectors", "Box Model", "Responsiveness"]
+    },
+    {
+      "skill_id": "fs-beg-03",
+      "skill_name": "JavaScript Core Concepts",
+      "keywords": ["JavaScript Basics", "DOM Manipulation", "Event Listeners", "Scoping", "Hoisting", "Array Methods"]
+    },
+    {
+      "skill_id": "fs-beg-04",
+      "skill_name": "Asynchronous JavaScript",
+      "keywords": ["Promises", "Async/Await", "Fetch API", "Callbacks"]
+    }
+  ]
+}

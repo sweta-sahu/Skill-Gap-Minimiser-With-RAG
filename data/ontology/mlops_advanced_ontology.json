@@ -1,0 +1,25 @@
+{
+  "topic": "MLOps - Advanced",
+  "skills": [
+    {
+      "skill_id": "mlops-adv-01",
+      "skill_name": "Experiment Tracking & Orchestration",
+      "keywords": ["MLflow", "Experiment Tracking", "Model Registry", "Airflow", "DAGs", "Kubeflow"]
+    },
+    {
+      "skill_id": "mlops-adv-02",
+      "skill_name": "Model Serving",
+      "keywords": ["Model Serving", "API Development", "FastAPI", "KServe", "Seldon Core"]
+    },
+    {
+      "skill_id": "mlops-adv-03",
+      "skill_name": "Monitoring and Observability",
+      "keywords": ["Monitoring", "Prometheus", "Grafana", "Observability", "Data Drift", "Evidently AI"]
+    },
+    {
+      "skill_id": "mlops-adv-04",
+      "skill_name": "Cloud ML Platforms",
+      "keywords": ["AWS", "SageMaker", "Azure", "Azure ML", "GCP", "Vertex AI"]
+    }
+  ]
+}

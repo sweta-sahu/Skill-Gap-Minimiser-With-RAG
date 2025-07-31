@@ -1,0 +1,25 @@
+{
+  "topic": "MLOps - Beginner",
+  "skills": [
+    {
+      "skill_id": "mlops-beg-01",
+      "skill_name": "Foundational Concepts",
+      "keywords": ["Linux Fundamentals", "Shell Scripting", "MLOps Lifecycle", "AI vs ML vs Deep Learning"]
+    },
+    {
+      "skill_id": "mlops-beg-02",
+      "skill_name": "Core Tooling",
+      "keywords": ["Git", "GitHub", "Version Control", "Python"]
+    },
+    {
+      "skill_id": "mlops-beg-03",
+      "skill_name": "Data Science Libraries",
+      "keywords": ["NumPy", "Pandas", "Scikit-Learn", "Data Manipulation"]
+    },
+    {
+      "skill_id": "mlops-beg-04",
+      "skill_name": "Machine Learning Fundamentals",
+      "keywords": ["Machine Learning", "Math for ML", "Supervised Learning", "Algorithms"]
+    }
+  ]
+}
