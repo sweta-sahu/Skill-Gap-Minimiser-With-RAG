@@ -1,0 +1,42 @@
+{
+  "test_name": "Full Stack Prerequisite Test (MERN)",
+  "instructions": "Answer the following questions to the best of your ability. This test will help determine your current skill level and place you in the appropriate learning group.",
+  "questions": [
+    {
+      "id": "fs_prereq_001",
+      "question": "What is the CSS Box Model? Describe its core components.",
+      "difficulty": "beginner",
+      "topic": "CSS"
+    },
+    {
+      "id": "fs_prereq_002",
+      "question": "Explain what a JavaScript Promise is and the problem it solves.",
+      "difficulty": "beginner",
+      "topic": "JavaScript"
+    },
+    {
+      "id": "fs_prereq_003",
+      "question": "In React, what is the difference between 'state' and 'props'?",
+      "difficulty": "intermediate",
+      "topic": "React"
+    },
+    {
+      "id": "fs_prereq_004",
+      "question": "What is middleware in the context of Express.js?",
+      "difficulty": "intermediate",
+      "topic": "Express.js"
+    },
+    {
+      "id": "fs_prereq_005",
+      "question": "Compare and contrast Redux and the React Context API for global state management.",
+      "difficulty": "advanced",
+      "topic": "State Management"
+    },
+    {
+      "id": "fs_prereq_006",
+      "question": "Explain the authentication flow using JSON Web Tokens (JWT) in a MERN stack application.",
+      "difficulty": "advanced",
+      "topic": "Authentication"
+    }
+  ]
+}

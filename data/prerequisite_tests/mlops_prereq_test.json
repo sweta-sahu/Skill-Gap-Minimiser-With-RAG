@@ -1,0 +1,42 @@
+{
+  "test_name": "MLOps Prerequisite Test",
+  "instructions": "Answer the following questions to the best of your ability. This test will help determine your current skill level and place you in the appropriate learning group.",
+  "questions": [
+    {
+      "id": "mlops_prereq_001",
+      "question": "What are the primary goals of MLOps in the machine learning lifecycle?",
+      "difficulty": "beginner",
+      "topic": "MLOps Fundamentals"
+    },
+    {
+      "id": "mlops_prereq_002",
+      "question": "Why is version control with a tool like Git essential for machine learning projects?",
+      "difficulty": "beginner",
+      "topic": "Version Control"
+    },
+    {
+      "id": "mlops_prereq_003",
+      "question": "Explain the difference between a Docker image and a Docker container.",
+      "difficulty": "intermediate",
+      "topic": "Containerization"
+    },
+    {
+      "id": "mlops_prereq_004",
+      "question": "Describe the key stages of a CI/CD pipeline designed for a machine learning model.",
+      "difficulty": "intermediate",
+      "topic": "CI/CD"
+    },
+    {
+      "id": "mlops_prereq_005",
+      "question": "Explain 'data drift' in the context of model monitoring and why it is critical to detect.",
+      "difficulty": "advanced",
+      "topic": "Monitoring"
+    },
+    {
+      "id": "mlops_prereq_006",
+      "question": "What is the role of a workflow orchestrator like Airflow or Kubeflow in a production MLOps environment?",
+      "difficulty": "advanced",
+      "topic": "Orchestration"
+    }
+  ]
+}
