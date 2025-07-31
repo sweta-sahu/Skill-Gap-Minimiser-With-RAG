@@ -1,0 +1,122 @@
+[
+  {
+    "id": "fe_res_001",
+    "title": "HTML Reference Guide",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_tags": ["HTML", "Semantic HTML", "Elements", "Attributes"]
+  },
+  {
+    "id": "fe_res_002",
+    "title": "CSS Introduction",
+    "url": "https://www.w3schools.com/css/default.asp",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_tags": ["CSS", "Styling", "Selectors"]
+  },
+  {
+    "id": "fe_res_003",
+    "title": "JavaScript for Beginners Full Course",
+    "url": "https://www.youtube.com/watch?v=MBlkKE0GYGg",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_tags": ["JavaScript", "Variables", "Functions", "Operators"]
+  },
+  {
+    "id": "fe_res_004",
+    "title": "The CSS Box Model Explained",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/box-model",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_tags": ["CSS", "Box Model"]
+  },
+  {
+    "id": "fe_res_005",
+    "title": "Introduction to the DOM",
+    "url": "https://www.freecodecamp.org/news/what-is-the-dom-and-how-do-i-use-it-d66a2e9b9468/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["DOM", "JavaScript"]
+  },
+  {
+    "id": "fe_res_006",
+    "title": "JavaScript Closures Explained",
+    "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG",
+    "format": "video",
+    "difficulty": "intermediate",
+    "skill_tags": ["JavaScript", "Closures"]
+  },
+  {
+    "id": "fe_res_007",
+    "title": "Mastering Flexbox and Grid",
+    "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_tags": ["CSS", "Flexbox", "CSS Grid", "Layout"]
+  },
+  {
+    "id": "fe_res_008",
+    "title": "Introduction to React",
+    "url": "https://react.dev/learn",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_tags": ["React", "Components", "Hooks"]
+  },
+  {
+    "id": "fe_res_009",
+    "title": "Working with Asynchronous JavaScript",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_tags": ["JavaScript", "Promises", "Async/Await"]
+  },
+  {
+    "id": "fe_res_010",
+    "title": "Responsive Web Design Tutorial",
+    "url": "https://www.youtube.com/watch?v=4s-T94o-jHw",
+    "format": "video",
+    "difficulty": "intermediate",
+    "skill_tags": ["Responsive Design", "Media Queries", "Mobile-First"]
+  },
+  {
+    "id": "fe_res_011",
+    "title": "JavaScript Event Loop and Call Stack",
+    "url": "https://www.freecodecamp.org/news/what-is-the-javascript-event-loop-d71e071c0451/",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_tags": ["JavaScript", "Event Loop", "Concurrency"]
+  },
+  {
+    "id": "fe_res_012",
+    "title": "Advanced React Performance Optimization",
+    "url": "https://www.youtube.com/watch?v=MIJt9H69QVc",
+    "format": "video",
+    "difficulty": "advanced",
+    "skill_tags": ["React", "Performance Optimization", "Memoization", "Code Splitting"]
+  },
+  {
+    "id": "fe_res_013",
+    "title": "Introduction to Webpack",
+    "url": "https://webpack.js.org/concepts/",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_tags": ["Webpack", "Module Bundling", "Build Tools"]
+  },
+  {
+    "id": "fe_res_014",
+    "title": "Modern JavaScript Features (ES6+)",
+    "url": "https://exploringjs.com/",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_tags": ["JavaScript", "ES6+", "Prototypes", "Inheritance"]
+  },
+  {
+    "id": "fe_res_015",
+    "title": "Introduction to Service Workers",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_tags": ["Service Workers", "Web Performance", "Offline Capability"]
+  }
+]

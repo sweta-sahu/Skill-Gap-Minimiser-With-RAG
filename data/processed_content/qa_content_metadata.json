@@ -1,0 +1,122 @@
+[
+  {
+    "id": "qa_res_001",
+    "title": "QA vs. Software Testing: An Overview",
+    "url": "https://www.browserstack.com/guide/qa-vs-software-testing",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["QA", "Software Testing", "SDLC", "STLC"]
+  },
+  {
+    "id": "qa_res_002",
+    "title": "The Bug Life Cycle",
+    "url": "https://www.guru99.com/bug-life-cycle-in-testing.html",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Bug Life Cycle", "Defect Management"]
+  },
+  {
+    "id": "qa_res_003",
+    "title": "How to Write a Good Test Case",
+    "url": "https://www.youtube.com/watch?v=fBzm9zja2Y8",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_tags": ["Test Case Creation", "Testing Documentation"]
+  },
+  {
+    "id": "qa_res_004",
+    "title": "Test Plan vs. Test Strategy",
+    "url": "https://www.softwaretestinghelp.com/test-plan-vs-test-strategy/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_tags": ["Test Planning", "Test Strategy"]
+  },
+  {
+    "id": "qa_res_005",
+    "title": "Types of Software Testing: Functional vs Non-Functional",
+    "url": "https://m.youtube.com/watch?v=BBQrv8RAG0Y",
+    "format": "video",
+    "difficulty": "intermediate",
+    "skill_tags": ["Functional Testing", "Non-Functional Testing"]
+  },
+  {
+    "id": "qa_res_006",
+    "title": "Jira for Bug Tracking Tutorial",
+    "url": "https://www.atlassian.com/software/jira/guides/getting-started/bug-tracking",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_tags": ["Defect Management", "Bug Tracking", "Jira"]
+  },
+  {
+    "id": "qa_res_007",
+    "title": "Understanding Traceability Matrix",
+    "url": "https://www.youtube.com/watch?v=-Qnf2bME-rE",
+    "format": "video",
+    "difficulty": "intermediate",
+    "skill_tags": ["Traceability Matrix", "Requirements Management"]
+  },
+  {
+    "id": "qa_res_008",
+    "title": "Introduction to Test Automation with Selenium",
+    "url": "https://www.guru99.com/introduction-to-selenium.html",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_tags": ["Test Automation", "Selenium"]
+  },
+  {
+    "id": "qa_res_009",
+    "title": "Performance and Load Testing Guide",
+    "url": "https://www.blazemeter.com/blog/load-testing-vs-stress-testing-vs-performance-testing-what-are-the-differences",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_tags": ["Performance Testing", "Load Testing", "Stress Testing"]
+  },
+  {
+    "id": "qa_res_010",
+    "title": "Designing a Test Automation Framework",
+    "url": "https://www.browserstack.com/guide/test-automation-framework",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_tags": ["Test Automation", "Framework Design"]
+  },
+  {
+    "id": "qa_res_011",
+    "title": "API Testing with Postman",
+    "url": "https://www.postman.com/api-platform/api-testing/",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_tags": ["API Testing", "Postman", "Automation"]
+  },
+  {
+    "id": "qa_res_012",
+    "title": "Introduction to Root Cause Analysis",
+    "url": "https://www.youtube.com/watch?v=c2M-rlkkT5o",
+    "format": "video",
+    "difficulty": "advanced",
+    "skill_tags": ["Root Cause Analysis", "Problem Solving"]
+  },
+  {
+    "id": "qa_res_013",
+    "title": "CI/CD for Testers",
+    "url": "https://www.lambdatest.com/blog/ci-cd-for-testers/",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_tags": ["CI/CD", "DevOps", "Test Automation"]
+  },
+  {
+    "id": "qa_res_014",
+    "title": "Test Coverage: What is it and Why does it Matter?",
+    "url": "https://www.youtube.com/watch?v=2LRLsMracAY",
+    "format": "video",
+    "difficulty": "advanced",
+    "skill_tags": ["Test Coverage", "Metrics"]
+  },
+  {
+    "id": "qa_res_015",
+    "title": "Localization Testing Guide",
+    "url": "https://www.browserstack.com/guide/localization-testing",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_tags": ["Localization Testing", "Internationalization"]
+  }
+]
