@@ -1,0 +1,250 @@
+[
+    {
+        "id": "mlops_res_001",
+        "title": "Linux Fundamentals Course",
+        "url": "https://www.youtube.com/watch?v=O1tbi7y0irU",
+        "format": "video",
+        "difficulty": "beginner",
+        "skill_tags": ["Linux", "CLI", "Shell Scripting", "Fundamentals"]
+    },
+    {
+        "id": "mlops_res_002",
+        "title": "Git & GitHub for Beginners",
+        "url": "https://www.freecodecamp.org/news/git-and-github-for-beginners/",
+        "format": "article",
+        "difficulty": "beginner",
+        "skill_tags": ["Git", "GitHub", "Version Control"]
+    },
+    {
+        "id": "mlops_res_003",
+        "title": "Git & GitHub Resource Collection",
+        "url": "https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md",
+        "format": "documentation",
+        "difficulty": "beginner",
+        "skill_tags": ["Git", "GitHub", "Data Science", "Resources"]
+    },
+    {
+        "id": "mlops_res_004",
+        "title": "Python Learning Roadmap",
+        "url": "https://tunga.io/roadmap/python/",
+        "format": "article",
+        "difficulty": "beginner",
+        "skill_tags": ["Python", "Roadmap", "Programming"]
+    },
+    {
+        "id": "mlops_res_005",
+        "title": "Python, NumPy, Pandas, Scikit-Learn Tutorials",
+        "url": "http://faculty.ist.psu.edu/vhonavar/Courses/dsmethods/resources.html",
+        "format": "tutorial",
+        "difficulty": "beginner",
+        "skill_tags": ["Python", "NumPy", "Pandas", "Scikit-Learn"]
+    },
+    {
+        "id": "mlops_res_006",
+        "title": "NumPy Official Documentation",
+        "url": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+        "format": "documentation",
+        "difficulty": "beginner",
+        "skill_tags": ["Python", "NumPy", "Data Science"]
+    },
+    {
+        "id": "mlops_res_007",
+        "title": "Pandas Official Documentation",
+        "url": "https://pandas.pydata.org/docs/getting_started/index.html",
+        "format": "documentation",
+        "difficulty": "beginner",
+        "skill_tags": ["Python", "Pandas", "Data Manipulation"]
+    },
+    {
+        "id": "mlops_res_008",
+        "title": "Scikit-Learn User Guide",
+        "url": "https://scikit-learn.org/stable/user_guide.html",
+        "format": "documentation",
+        "difficulty": "beginner",
+        "skill_tags": ["Python", "Scikit-Learn", "Machine Learning"]
+    },
+    {
+        "id": "mlops_res_009",
+        "title": "Mathematics for Machine Learning Specialization",
+        "url": "https://www.coursera.org/specializations/mathematics-machine-learning",
+        "format": "course",
+        "difficulty": "beginner",
+        "skill_tags": ["Math", "Linear Algebra", "Calculus", "Machine Learning"]
+    },
+    {
+        "id": "mlops_res_010",
+        "title": "Khan Academy for Math Concepts",
+        "url": "https://www.khanacademy.org/math",
+        "format": "course",
+        "difficulty": "beginner",
+        "skill_tags": ["Math", "Fundamentals", "Algebra"]
+    },
+    {
+        "id": "mlops_res_011",
+        "title": "Machine Learning by Andrew Ng",
+        "url": "https://www.coursera.org/learn/machine-learning",
+        "format": "course",
+        "difficulty": "beginner",
+        "skill_tags": ["Machine Learning", "Algorithms", "Supervised Learning"]
+    },
+    {
+        "id": "mlops_res_012",
+        "title": "AI vs ML vs Deep Learning Guide",
+        "url": "https://www.coursera.org/in/articles/ai-vs-deep-learning-vs-machine-learning-beginners-guide",
+        "format": "article",
+        "difficulty": "beginner",
+        "skill_tags": ["AI", "Machine Learning", "Deep Learning", "Concepts"]
+    },
+    {
+        "id": "mlops_res_013",
+        "title": "Docker Official 'Get Started' Guide",
+        "url": "https://docs.docker.com/get-started/",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["Docker", "Containers", "Image Management"]
+    },
+    {
+        "id": "mlops_res_014",
+        "title": "Docker for Beginners Interactive Course",
+        "url": "https://notes.kodekloud.com/docs/Docker-Training-Course-for-the-Absolute-Beginner/Introduction/Introduction",
+        "format": "course_notes",
+        "difficulty": "intermediate",
+        "skill_tags": ["Docker", "Containers", "Hands-On"]
+    },
+    {
+        "id": "mlops_res_015",
+        "title": "Kubernetes for Beginners Tutorial",
+        "url": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["Kubernetes", "Container Orchestration", "Cluster Management"]
+    },
+    {
+        "id": "mlops_res_016",
+        "title": "Kubernetes Hands-On Course for AWS",
+        "url": "https://opencourser.com/course/qaa279/kubernetes-hands-on-deploy-microservices-to-the-aws-cloud",
+        "format": "course",
+        "difficulty": "intermediate",
+        "skill_tags": ["Kubernetes", "AWS", "EKS", "Deployment"]
+    },
+    {
+        "id": "mlops_res_017",
+        "title": "GitHub Actions Beginner's Guide",
+        "url": "https://graphite.dev/guides/github-actions-beginner-guide",
+        "format": "article",
+        "difficulty": "intermediate",
+        "skill_tags": ["CI/CD", "GitHub Actions", "Automation"]
+    },
+    {
+        "id": "mlops_res_018",
+        "title": "Great Expectations Official Docs",
+        "url": "https://docs.greatexpectations.io/",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["Data Quality", "Data Validation", "Great Expectations"]
+    },
+    {
+        "id": "mlops_res_019",
+        "title": "Feast (Feature Store) Official Docs",
+        "url": "https://docs.feast.dev/",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["Feature Store", "Feast", "Data Management"]
+    },
+    {
+        "id": "mlops_res_020",
+        "title": "MLflow Official Documentation",
+        "url": "https://mlflow.org/docs/latest/index.html",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["MLflow", "Experiment Tracking", "Model Registry"]
+    },
+    {
+        "id": "mlops_res_021",
+        "title": "Apache Airflow Official Documentation",
+        "url": "https://airflow.apache.org/docs/apache-airflow/stable/",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["Airflow", "Workflow Orchestration", "ETL", "DAGs"]
+    },
+    {
+        "id": "mlops_res_022",
+        "title": "Kubeflow Official Documentation",
+        "url": "https://www.kubeflow.org/docs/",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["Kubeflow", "Pipelines", "Kubernetes", "ML Platform"]
+    },
+    {
+        "id": "mlops_res_023",
+        "title": "FastAPI Tutorial for API Serving",
+        "url": "https://code.visualstudio.com/docs/python/tutorial-fastapi",
+        "format": "tutorial",
+        "difficulty": "advanced",
+        "skill_tags": ["FastAPI", "Model Serving", "API Development"]
+    },
+    {
+        "id": "mlops_res_024",
+        "title": "KServe Official Documentation",
+        "url": "https://kserve.github.io/website/",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["KServe", "Model Serving", "Serverless", "Kubernetes"]
+    },
+    {
+        "id": "mlops_res_025",
+        "title": "Seldon Core Official Documentation",
+        "url": "https://docs.seldon.io/projects/seldon-core/en/latest/",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["Seldon Core", "Model Serving", "Canary Deployments"]
+    },
+    {
+        "id": "mlops_res_026",
+        "title": "Prometheus Monitoring Tutorial",
+        "url": "https://dev.to/techworld_with_nana/complete-prometheus-monitoring-tutorial-for-beginners-eoe",
+        "format": "article",
+        "difficulty": "advanced",
+        "skill_tags": ["Monitoring", "Prometheus", "Alerting"]
+    },
+    {
+        "id": "mlops_res_027",
+        "title": "Grafana Official Tutorials",
+        "url": "https://grafana.com/tutorials/",
+        "format": "tutorial",
+        "difficulty": "advanced",
+        "skill_tags": ["Monitoring", "Grafana", "Observability", "Dashboards"]
+    },
+    {
+        "id": "mlops_res_028",
+        "title": "Evidently AI Official Documentation",
+        "url": "https://docs.evidentlyai.com/",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["Monitoring", "Data Drift", "Model Performance", "Evidently AI"]
+    },
+    {
+        "id": "mlops_res_029",
+        "title": "Amazon SageMaker Getting Started Guide",
+        "url": "https://aws.amazon.com/sagemaker/getting-started/",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["AWS", "SageMaker", "ML Platform"]
+    },
+    {
+        "id": "mlops_res_030",
+        "title": "Azure Machine Learning Overview",
+        "url": "https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-machine-learning",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["Azure", "Azure ML", "ML Platform"]
+    },
+    {
+        "id": "mlops_res_031",
+        "title": "Google Cloud Vertex AI Documentation",
+        "url": "https://cloud.google.com/vertex-ai/docs",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["GCP", "Vertex AI", "ML Platform"]
+    }
+]

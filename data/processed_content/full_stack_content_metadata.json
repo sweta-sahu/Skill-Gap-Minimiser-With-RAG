@@ -1,0 +1,202 @@
+[
+    {
+        "id": "fs_res_001",
+        "title": "JavaScript Fundamentals",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "format": "documentation",
+        "difficulty": "beginner",
+        "skill_tags": ["JavaScript", "ES6", "DOM Manipulation", "Async/Await"]
+    },
+    {
+        "id": "fs_res_002",
+        "title": "CSS Fundamentals",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+        "format": "documentation",
+        "difficulty": "beginner",
+        "skill_tags": ["CSS", "Flexbox", "Grid", "Responsive Design"]
+    },
+    {
+        "id": "fs_res_003",
+        "title": "HTML & CSS Full Course",
+        "url": "https://www.youtube.com/watch?v=MBlkKE0GYGg",
+        "format": "video",
+        "difficulty": "beginner",
+        "skill_tags": ["HTML", "CSS", "Web Development Basics"]
+    },
+    {
+        "id": "fs_res_004",
+        "title": "CSS Flexbox Tutorial Playlist",
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9i3FXJSUfmsNOx8E7u6UuhG",
+        "format": "video",
+        "difficulty": "beginner",
+        "skill_tags": ["CSS", "Flexbox", "Layout"]
+    },
+    {
+        "id": "fs_res_005",
+        "title": "HTML Basics & Forms",
+        "url": "https://www.w3schools.com/html/",
+        "format": "tutorial",
+        "difficulty": "beginner",
+        "skill_tags": ["HTML", "Forms", "Semantic HTML"]
+    },
+    {
+        "id": "fs_res_006",
+        "title": "Asynchronous JavaScript Guide",
+        "url": "https://www.freecodecamp.org/news/asynchronous-javascript-from-settimeout-to-async-await/",
+        "format": "article",
+        "difficulty": "beginner",
+        "skill_tags": ["JavaScript", "Promises", "Async/Await", "Fetch API"]
+    },
+    {
+        "id": "fs_res_007",
+        "title": "Official React Docs",
+        "url": "https://react.dev/learn",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["React", "Components", "Hooks", "State Management"]
+    },
+    {
+        "id": "fs_res_008",
+        "title": "React Hooks: useState & useEffect",
+        "url": "https://www.youtube.com/watch?v=4s-T94o-jHw",
+        "format": "video",
+        "difficulty": "intermediate",
+        "skill_tags": ["React", "Hooks", "useState", "useEffect"]
+    },
+    {
+        "id": "fs_res_009",
+        "title": "React Router v6+ Tutorial",
+        "url": "https://reactrouter.com/en/main/start/tutorial",
+        "format": "documentation",
+        "difficulty": "intermediate",
+        "skill_tags": ["React", "Routing", "React Router"]
+    },
+    {
+        "id": "fs_res_010",
+        "title": "React Context API Guide",
+        "url": "https://www.freecodecamp.org/news/react-context-for-beginners/",
+        "format": "article",
+        "difficulty": "intermediate",
+        "skill_tags": ["React", "State Management", "Context API"]
+    },
+    {
+        "id": "fs_res_011",
+        "title": "Node.js Full Course",
+        "url": "https://www.youtube.com/watch?v=MIJt9H69QVc",
+        "format": "video",
+        "difficulty": "intermediate",
+        "skill_tags": ["Node.js", "Backend", "NPM", "Modules"]
+    },
+    {
+        "id": "fs_res_012",
+        "title": "Express.js Crash Course",
+        "url": "https://www.youtube.com/watch?v=fBzm9zja2Y8",
+        "format": "video",
+        "difficulty": "intermediate",
+        "skill_tags": ["Express.js", "Node.js", "REST API", "Middleware"]
+    },
+    {
+        "id": "fs_res_013",
+        "title": "Node.js CRUD with MongoDB",
+        "url": "https://www.digitalocean.com/community/tutorials/nodejs-crud-operations-mongoose-mongodb-atlas",
+        "format": "article",
+        "difficulty": "intermediate",
+        "skill_tags": ["Node.js", "MongoDB", "CRUD", "Mongoose"]
+    },
+    {
+        "id": "fs_res_014",
+        "title": "MVC Architecture in Node.js",
+        "url": "https://www.geeksforgeeks.org/node-js/model-view-controllermvc-architecture-for-node-applications/",
+        "format": "article",
+        "difficulty": "intermediate",
+        "skill_tags": ["Node.js", "Express.js", "MVC", "Software Architecture"]
+    },
+    {
+        "id": "fs_res_015",
+        "title": "Postman API Testing Intro",
+        "url": "https://m.youtube.com/watch?v=BBQrv8RAG0Y",
+        "format": "video",
+        "difficulty": "intermediate",
+        "skill_tags": ["API Testing", "Postman", "REST API"]
+    },
+    {
+        "id": "fs_res_016",
+        "title": "Advanced React Concepts",
+        "url": "https://www.youtube.com/watch?v=-Qnf2bME-rE",
+        "format": "video",
+        "difficulty": "advanced",
+        "skill_tags": ["React", "Custom Hooks", "useReducer", "Performance"]
+    },
+    {
+        "id": "fs_res_017",
+        "title": "Material UI Framework",
+        "url": "https://mui.com/material-ui/getting-started/",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["React", "UI Framework", "Material UI"]
+    },
+    {
+        "id": "fs_res_018",
+        "title": "Redux State Management",
+        "url": "https://redux.js.org/",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["React", "State Management", "Redux", "Redux Toolkit"]
+    },
+    {
+        "id": "fs_res_019",
+        "title": "Testing React Apps Guide",
+        "url": "https://www.freecodecamp.org/news/how-to-write-unit-tests-in-react/",
+        "format": "article",
+        "difficulty": "advanced",
+        "skill_tags": ["React", "Testing", "Jest", "React Testing Library"]
+    },
+    {
+        "id": "fs_res_020",
+        "title": "MongoDB Intro",
+        "url": "https://www.youtube.com/watch?v=c2M-rlkkT5o",
+        "format": "video",
+        "difficulty": "advanced",
+        "skill_tags": ["MongoDB", "NoSQL", "Database"]
+    },
+    {
+        "id": "fs_res_021",
+        "title": "MERN Authentication Guide",
+        "url": "https://www.youtube.com/watch?v=2LRLsMracAY",
+        "format": "video",
+        "difficulty": "advanced",
+        "skill_tags": ["Authentication", "JWT", "Security", "MERN"]
+    },
+    {
+        "id": "fs_res_022",
+        "title": "Mongoose ODM Docs",
+        "url": "https://mongoosejs.com/docs/guide.html",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["Mongoose", "MongoDB", "Schema", "Data Validation"]
+    },
+    {
+        "id": "fs_res_023",
+        "title": "Deploying React to Netlify",
+        "url": "https://namastedev.com/blog/deploying-react-app-to-netlify-2/",
+        "format": "article",
+        "difficulty": "advanced",
+        "skill_tags": ["Deployment", "CI/CD", "Netlify", "React"]
+    },
+    {
+        "id": "fs_res_024",
+        "title": "Deploying Node.js to Heroku",
+        "url": "https://devcenter.heroku.com/articles/deploying-nodejs",
+        "format": "documentation",
+        "difficulty": "advanced",
+        "skill_tags": ["Deployment", "CI/CD", "Heroku", "Node.js"]
+    },
+    {
+        "id": "fs_res_025",
+        "title": "Git & GitHub Course Playlist",
+        "url": "https://www.youtube.com/playlist?list=PLA3GkZPtsafYYWC-N6vicOLP0w-4fiQ2S",
+        "format": "video",
+        "difficulty": "advanced",
+        "skill_tags": ["Git", "GitHub", "Version Control"]
+    }
+]
