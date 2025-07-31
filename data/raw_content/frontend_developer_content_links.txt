@@ -1,0 +1,111 @@
+[https://www.springboard.com/resources/learning-paths/beginners-guide-front-end-programming/](Beginner - Free Front End Developer Course)
+
+[https://www.theodinproject.com/](Beginner - The Odin Project: Full Stack Curriculum)
+
+[https://github.com/msaaddev/frontend-resources](Beginner - Frontend Resources from Basic to Advance)
+
+[https://www.youtube.com/watch?v=zJSY8tbf_ys](Beginner - Frontend Web Development Bootcamp Course (JavaScript, HTML, CSS))
+
+[https://www.codecademy.com/learn/react-101](Beginner - Learn React - Codecademy)
+
+[https://angular.dev/tutorials/learn-angular](Beginner - Learn Angular Interactive Tutorial)
+
+[https://www.vuemastery.com/](Beginner - Vue 3 Composition API Fundamentals)
+
+[https://vueschool.io/](Beginner - Vue.js 3 Fundamentals with the Composition API)
+
+[https://daily.dev/blog/open-source-web-development-projects-for-beginners-a-guide](Beginner - Open Source Web Development Projects for Beginners)
+
+[https://www.bosscoderacademy.com/blog/frontend-projects-with-source-code?Ref=Orangic_Blog](Beginner - Top Projects for Front-End Developers with Source Code)
+
+[https://github.com/MunGell/awesome-for-beginners](Beginner - Awesome Beginners-Friendly Projects (JavaScript))
+
+[https://www.w3schools.com/](Beginner - W3Schools: HTML, CSS, JavaScript Tutorials & Reference)
+
+[https://developer.mozilla.org/en-US/docs/Web](Beginner - MDN Web Docs: Comprehensive Web Technology Documentation)
+
+[https://javascript.info/](Beginner - JavaScript.info: Modern JavaScript Tutorial)
+
+[https://www.youtube.com/@TheCoderCoder](Beginner - Coder Coder: HTML, CSS, JavaScript Tutorials)
+
+[https://www.youtube.com/@WebDevSimplified](Beginner - Web Dev Simplified: Beginner Web Development Crash Courses)
+
+[https://www.youtube.com/@KevinPowell](Beginner - Kevin Powell: Master CSS Tutorials)
+
+[https://www.codecademy.com/learn/react-101](Intermediate - Learn React - Codecademy)
+
+[https://vueschool.io/](Intermediate - Common Vue.js Mistakes and How to Avoid Them)
+
+[https://vueschool.io/](Intermediate - Content Sites with Astro and Vue.js)
+
+[https://vueschool.io/](Intermediate - Test with Jest)
+
+[https://vueschool.io/](Intermediate - Single File Components (Vue 2))
+
+[https://www.vuemastery.com/](Intermediate - Coding Better Composables)
+
+[https://www.vuemastery.com/](Intermediate - From Vuex to Pinia)
+
+[https://www.vuemastery.com/](Intermediate - Nuxt 3 Essentials)
+
+[https://www.vuemastery.com/](Intermediate - Vue 3 Forms)
+
+[https://www.vuemastery.com/](Intermediate - TypeScript Friendly Vue 3)
+
+[https://medium.com/javarevisited/6-best-places-to-learn-angular-in-2024-free-and-paid-d7b79b09a4bb](Intermediate - Angular Courses & Learning Paths)
+
+[https://syntackle.com/blog/best-places-to-learn-react/](Intermediate - React Courses & Resources (incl. Scrimba))
+
+[https://legacy.reactjs.org/community/courses.html](Intermediate - Free React Bootcamp & MOOCs)
+
+[https://www.frontendmentor.io/](Intermediate - Frontend Mentor: Build Real-World Projects)
+
+[https://www.google.com/search?q=https://www.youtube.com/%40TheNetNinja](Intermediate - The Net Ninja: Frameworks & Modern Web Dev Playlists)
+
+[https://www.youtube.com/@TraversyMedia](Intermediate - Traversy Media: Project-Based Web Dev Tutorials)
+
+[https://www.youtube.com/@Academind](Intermediate - Academind GmbH: Framework Tutorials & Deep Dives)
+
+[https://github.com/msaaddev/frontend-resources](Advanced - Advanced Git for Professionals Tutorial)
+
+[https://vueschool.io/](Advanced - Building Shader Effects in Vue)
+
+[https://www.vuemastery.com/](Advanced - Vue 3 Deep Dive with Evan You)
+
+[https://syntackle.com/blog/best-places-to-learn-react/](Advanced - Dan Abramov's Overreacted Blog & Advanced React Official Docs)
+
+[https://dev.to/alisamir/frontend-performance-optimization-a-comprehensive-guide-2bfk](Advanced - Frontend Performance Optimization: A Comprehensive Guide)
+
+[https://dzone.com/articles/frontend-performance-optimization](Advanced - Optimizing Front-End Performance Strategies)
+
+[https://strapi.io/blog/front-end-performance-optimization-tips](Advanced - 22 Front-End Performance Optimization Tips)
+
+[https://requestly.com/blog/afr-learn-advanced-frontend-development-with-free-tutorials-cheatsheets-docs/](Advanced - Learn Advanced Frontend Development (incl. SSR, SSG, Build Tools, Testing))
+
+[https://www.recordedfuture.com/threat-intelligence-101/vulnerability-management-threat-hunting/front-end-security](Advanced - Front-End Security: 10 Popular Types of Attacks & Prevention)
+
+[https://blog.pixelfreestudio.com/best-practices-for-frontend-security/](Advanced - Best Practices for Frontend Security)
+
+[https://blog.bitsrc.io/frontend-application-security-tips-and-tricks-f9be12169e66](Advanced - Frontend Application Security: Tips and Tricks)
+
+[https://dev.to/delia_code/javascript-security-best-practices-simple-steps-to-secure-your-frontend-applications-55jm](Advanced - JavaScript Security Best Practices)
+
+[https://www.udacity.com/course/javascript-design-patterns--ud989](Advanced - Learning JavaScript Design Patterns - Udacity)
+
+[https://www.coursera.org/specializations/advanced-javascript](Advanced - Advanced JavaScript Specialization (Coursera/Scrimba))
+
+[https://www.patterns.dev/](Advanced - Patterns.dev: Design, Rendering, and Performance Patterns)
+
+[https://github.com/sdil/open-production-web-projects](Advanced - List of Open Source Production-Ready Web Projects (for study))
+
+[https://github.com/topics/frontend-project](Advanced - GitHub Frontend Project Topics (for exploring complex projects))
+
+[https://web.dev/](Advanced - Google's Web.dev: Performance, Accessibility, PWA Insights)
+
+[https://www.youtube.com/@Fireship](Advanced - Fireship: Quick, High-Intensity Web Dev & Architecture Videos)
+
+[https://www.google.com/search?q=https://www.youtube.com/%40GoogleChromeDevelopers](Advanced - Google Chrome Developers: Advanced Web Platform Features & DevTools)
+
+[https://exercism.org/](Advanced - Exercism: Coding Exercises with Mentorship for JS & more)
+
+[https://roadmap.sh/frontend](Advanced - Frontend Developer Roadmap: Visual Guide for Advanced Topics)

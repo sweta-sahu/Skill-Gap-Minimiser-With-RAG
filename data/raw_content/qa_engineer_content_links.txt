@@ -1,0 +1,95 @@
+[https://www.lambdatest.com/blog/top-11-free-software-testing-courses-for-beginners/](Beginner - 11 Best Free Software Testing Courses for Beginners)
+
+[https://www.mygreatlearning.com/academy/learn-for-free/courses/software-testing-fundamentals1](Beginner - Free Software Testing Online Course with Certificate)
+
+[https://productgym.io/free-qa-training/](Beginner - QA 101: Free Online QA Training for Beginners)
+
+[https://www.codingtemple.com/free-courses/quality-assurance/](Beginner - Free Quality Assurance Bootcamp (Manual & Automation Basics))
+
+[https://www.google.com/search?q=https://www.lambdatest.com/learning-hub/manual-testing-tutorial](Beginner - Manual Testing Tutorial - LambdaTest Learning Hub)
+
+[https://www.softwaretestinghelp.com/manual-testing-tutorial/](Beginner - Software Testing Help: Manual Testing Tutorial)
+
+[https://www.guru99.com/manual-testing.html](Beginner - Guru99: Manual Testing Tutorial)
+
+[https://www.google.com/search?q=https://www.lambdatest.com/blog/what-is-manual-testing/](Beginner - What is Manual Testing? - LambdaTest Blog)
+
+[https://www.icagile.com/certification/agile-testing](Beginner - Agile Testing Certification (Concepts & Mindset))
+
+[https://www.google.com/search?q=https://www.browserstack.com/guide/agile-testing-methodologies](Beginner - Agile Testing Methodologies Guide)
+
+[https://www.youtube.com/watch?v=MsnQ5uepIaE&pp=0gcJCdgAo7VqN5tD](Beginner - Simplilearn: Manual Testing Full Course for Beginners)
+
+[https://www.google.com/search?q=https://www.youtube.com/c/CoderCoder](Beginner - Great Learning: Software Testing Full Course)
+
+[https://www.codingtemple.com/free-courses/quality-assurance/](Intermediate - Free QA Bootcamp: Selenium, Cypress, Appium, JMeter, Postman Intro)
+
+[https://codefinity.com/blog/QA-using-Selenium-with-Python](Intermediate - QA using Selenium with Python Tutorial)
+
+[https://www.google.com/search?q=https://www.lambdatest.com/learning-hub/selenium-automation-testing](Intermediate - Selenium Automation Testing Guide)
+
+[https://testrig.medium.com/a-complete-playwright-test-automation-tutorial-23735f039756](Intermediate - A Complete Playwright Test Automation Tutorial)
+
+[https://www.google.com/search?q=https://www.lambdatest.com/learning-hub/playwright-testing](Intermediate - Playwright Testing Guide)
+
+[https://testomat.io/blog/the-ultimate-cypress-tutorial-how-to-organize-your-advanced-testing-framework/](Intermediate - The Ultimate Cypress Tutorial (Installation & Basic Tests))
+
+[https://www.google.com/search?q=https://www.lambdatest.com/learning-hub/cypress-testing-tutorial](Intermediate - Cypress Testing Tutorial)
+
+[https://www.udemy.com/topic/api-testing/](Intermediate - Top API Testing Courses Online (Postman, RestAssured intro))
+
+[https://www.google.com/search?q=https://www.lambdatest.com/blog/api-testing-tutorial/](Intermediate - API Testing Tutorial - LambdaTest Blog)
+
+[https://www.google.com/search?q=https://www.postman.com/collection/api-testing-tutorial-postman-api-testing-basics](Intermediate - Postman API Testing Basics Tutorial)
+
+[https://codoid.com/performance-testing/jmeter-tutorial-an-end-to-end-guide/](Intermediate - JMeter Tutorial: An End-to-End Guide)
+
+[https://www.google.com/search?q=https://www.lambdatest.com/blog/jmeter-tutorial-for-beginners/](Intermediate - JMeter Tutorial for Beginners)
+
+[https://www.selenium.dev/documentation/webdriver/](Intermediate - Selenium WebDriver Official Documentation)
+
+[https://playwright.dev/docs/intro](Intermediate - Playwright Official Documentation: Getting Started)
+
+[https://docs.cypress.io/guides/getting-started/installing-cypress](Intermediate - Cypress Official Documentation: Installation)
+
+[https://www.google.com/search?q=https://www.youtube.com/%40TheNetNinja](Intermediate - Test Automation University: Free Courses (e.g., Intro to Test Automation, API Testing))
+
+[https://dev.to/brilworks/15-best-mobile-application-testing-tools-for-2025-1ked](Advanced - 15 Best Mobile Application Testing Tools (Appium, Espresso, XCUITest))
+
+[https://www.lambdatest.com/blog/appium-tutorial/](Advanced - Appium Tutorial: Mobile Test Automation)
+
+[https://luxequality.com/blog/web-application-security-testing/](Advanced - Web Application Security Testing: The Ultimate Guide)
+
+[https://www.lambdatest.com/blog/cloud-testing-tutorial/](Advanced - What is Cloud Testing: Use Cases & Strategies)
+
+[https://www.frugaltesting.com/blog/how-devops-is-revolutionizing-qa-for-smarter-faster-enterprise-software-delivery](Advanced - How DevOps is Revolutionizing QA for Smarter, Faster Enterprise Software Delivery)
+
+[https://autify.com/blog/ai-in-software-testing](Advanced - A Complete Guide to AI in Software Testing)
+
+[https://bugbug.io/blog/test-automation-tools/open-source-automation-tools/](Advanced - Best Open Source Automation Tools (Selenium, Appium, JMeter, k6, Artillery, Postman))
+
+[https://www.softwaretestinghelp.com/](Advanced - Software Testing Help: Comprehensive Articles on Advanced Topics)
+
+[https://thectoclub.com/tools/best-automated-testing-tools/](Advanced - 20 Best Automated Testing Tools Reviewed For 2024 (Comparative Analysis))
+
+[https://www.google.com/search?q=https://www.lambdatest.com/blog/headless-browser-testing/](Advanced - Headless Browser Testing: Guide, Tools, & Benefits)
+
+[https://www.google.com/search?q=https://www.lambdatest.com/blog/performance-testing-metrics/](Advanced - Performance Testing Metrics: A Complete Guide)
+
+[https://www.lambdatest.com/blog/devops-best-practices/](Advanced - DevOps Best Practices for Testing Teams)
+
+[https://www.owasp.org/](Advanced - OWASP (Open Worldwide Application Security Project) - Security Testing Guidance)
+
+[https://k6.io/docs/](Advanced - k6 Official Documentation: Load Testing for Developers)
+
+[https://gatling.io/docs/](Advanced - Gatling Official Documentation: High-Performance Load Testing)
+
+[https://www.google.com/search?q=https://github.com/topics/qa-automation-framework](Advanced - GitHub Topics: QA Automation Frameworks (for open-source exploration))
+
+[https://www.toolsqa.com/](Advanced - ToolsQA: Advanced Automation Frameworks & Tutorials)
+
+[https://www.google.com/search?q=https://www.youtube.com/%40GoogleChromeDevelopers](Advanced - TechWorld with Nana: DevOps & CI/CD for QA)
+
+[https://www.youtube.com/watch?v=zJSY8tbf_ys](Advanced - Automation Step by Step by Raghav Pal: Advanced Frameworks & Concepts)
+
+[https://www.google.com/search?q=https://www.youtube.com/c/freecodecamp1](Advanced - The Testing Academy: Advanced QA Concepts & Tools)
