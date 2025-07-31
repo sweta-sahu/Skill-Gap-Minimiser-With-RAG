@@ -1,0 +1,45 @@
+{
+  "topic": "Frontend Development - Intermediate",
+  "questions": [
+    {
+      "id": "fe_int_q001",
+      "question": "Explain the concept of closures in JavaScript and provide an example of their use.",
+      "associated_skills": ["JavaScript", "Closures"]
+    },
+    {
+      "id": "fe_int_q002",
+      "question": "What is the difference between `localStorage` and `sessionStorage`?",
+      "associated_skills": ["Web APIs", "Client-side Storage"]
+    },
+    {
+      "id": "fe_int_q003",
+      "question": "Describe the difference between CSS Grid and Flexbox. When would you use one over the other?",
+      "associated_skills": ["CSS", "Flexbox", "CSS Grid"]
+    },
+    {
+      "id": "fe_int_q004",
+      "question": "Explain how Promises work in JavaScript and how they are used for asynchronous operations.",
+      "associated_skills": ["JavaScript", "Asynchronous Programming", "Promises"]
+    },
+    {
+      "id": "fe_int_q005",
+      "question": "What is 'event delegation' and why is it considered a good practice?",
+      "associated_skills": ["JavaScript", "DOM", "Event Handling"]
+    },
+    {
+      "id": "fe_int_q006",
+      "question": "Explain the concept of responsive web design and the role of media queries.",
+      "associated_skills": ["Responsive Design", "Media Queries"]
+    },
+    {
+      "id": "fe_int_q007",
+      "question": "What is the purpose of the `key` prop when rendering a list of components in a framework like React?",
+      "associated_skills": ["React", "Lists", "Performance"]
+    },
+    {
+      "id": "fe_int_q008",
+      "question": "Explain the difference between `==` and `===` in JavaScript.",
+      "associated_skills": ["JavaScript", "Type Coercion", "Equality"]
+    }
+  ]
+}

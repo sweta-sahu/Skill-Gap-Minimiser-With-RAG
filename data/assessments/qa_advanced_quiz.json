@@ -1,0 +1,45 @@
+{
+  "topic": "QA Engineering - Advanced",
+  "questions": [
+    {
+      "id": "qa_adv_q001",
+      "question": "Describe your experience designing and maintaining a test automation framework from scratch.",
+      "associated_skills": ["Test Automation", "Framework Design", "Selenium", "Cypress"]
+    },
+    {
+      "id": "qa_adv_q002",
+      "question": "How would you implement a robust strategy for `API testing` using a tool like Postman or a custom script?",
+      "associated_skills": ["API Testing", "Postman", "Automation"]
+    },
+    {
+      "id": "qa_adv_q003",
+      "question": "Explain the concept of `test coverage` and why achieving 100% test coverage doesn't guarantee a bug-free application.",
+      "associated_skills": ["Test Coverage", "Metrics"]
+    },
+    {
+      "id": "qa_adv_q004",
+      "question": "Discuss different types of non-functional testing and how you would automate them.",
+      "associated_skills": ["Non-Functional Testing", "Performance Testing", "Security Testing"]
+    },
+    {
+      "id": "qa_adv_q005",
+      "question": "How do you handle testing for different locales and languages using automation?",
+      "associated_skills": ["Localization Testing", "Automation"]
+    },
+    {
+      "id": "qa_adv_q006",
+      "question": "Describe a critical production issue you've handled. What was your process for troubleshooting and minimizing downtime?",
+      "associated_skills": ["Troubleshooting", "Problem Solving", "Incident Management"]
+    },
+    {
+      "id": "qa_adv_q007",
+      "question": "What is the difference between a `stub` and a `driver` in integration testing, and when would you use each?",
+      "associated_skills": ["Integration Testing", "Stubs", "Drivers"]
+    },
+    {
+      "id": "qa_adv_q008",
+      "question": "Explain the importance of `Root Cause Analysis` and describe a time you used it to prevent a future bug.",
+      "associated_skills": ["Root Cause Analysis", "Problem Solving"]
+    }
+  ]
+}

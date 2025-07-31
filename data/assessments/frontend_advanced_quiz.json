@@ -1,0 +1,45 @@
+{
+  "topic": "Frontend Development - Advanced",
+  "questions": [
+    {
+      "id": "fe_adv_q001",
+      "question": "Explain the JavaScript event loop and how it handles asynchronous callbacks.",
+      "associated_skills": ["JavaScript", "Event Loop", "Concurrency"]
+    },
+    {
+      "id": "fe_adv_q002",
+      "question": "Describe the concept of 'prototypal inheritance' in JavaScript and how it differs from class-based inheritance.",
+      "associated_skills": ["JavaScript", "Prototypes", "Inheritance"]
+    },
+    {
+      "id": "fe_adv_q003",
+      "question": "What is a 'Service Worker' and what are its primary use cases?",
+      "associated_skills": ["Service Workers", "Web Performance", "Offline Capability"]
+    },
+    {
+      "id": "fe_adv_q004",
+      "question": "Discuss different strategies for optimizing a web application's loading time and overall performance.",
+      "associated_skills": ["Performance Optimization", "Web Vitals"]
+    },
+    {
+      "id": "fe_adv_q005",
+      "question": "Explain how you would handle state management in a large-scale React application without using a library like Redux.",
+      "associated_skills": ["State Management", "React Context API", "React Hooks"]
+    },
+    {
+      "id": "fe_adv_q006",
+      "question": "How would you implement a custom `Promise.all()` function from scratch?",
+      "associated_skills": ["JavaScript", "Asynchronous Programming", "Promises"]
+    },
+    {
+      "id": "fe_adv_q007",
+      "question": "What is the purpose of a module bundler like Webpack, and what are its key features?",
+      "associated_skills": ["Webpack", "Module Bundling", "Build Tools"]
+    },
+    {
+      "id": "fe_adv_q008",
+      "question": "Describe the process of setting up a CI/CD pipeline for a frontend application.",
+      "associated_skills": ["CI/CD", "Deployment", "DevOps"]
+    }
+  ]
+}

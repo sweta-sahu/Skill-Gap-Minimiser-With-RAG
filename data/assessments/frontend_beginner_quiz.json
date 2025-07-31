@@ -1,0 +1,45 @@
+{
+  "topic": "Frontend Development - Beginner",
+  "questions": [
+    {
+      "id": "fe_beg_q001",
+      "question": "What is the primary purpose of HTML in web development?",
+      "associated_skills": ["HTML", "Web Structure"]
+    },
+    {
+      "id": "fe_beg_q002",
+      "question": "Explain the difference between a block-level element and an inline element in HTML.",
+      "associated_skills": ["HTML", "Block Elements", "Inline Elements"]
+    },
+    {
+      "id": "fe_beg_q003",
+      "question": "How can you link an external CSS file to an HTML document?",
+      "associated_skills": ["CSS", "HTML", "Styling"]
+    },
+    {
+      "id": "fe_beg_q004",
+      "question": "Describe the CSS Box Model and its components.",
+      "associated_skills": ["CSS", "Box Model"]
+    },
+    {
+      "id": "fe_beg_q005",
+      "question": "What is the difference between 'var' and 'let' in JavaScript?",
+      "associated_skills": ["JavaScript", "Variable Declaration"]
+    },
+    {
+      "id": "fe_beg_q006",
+      "question": "What is the Document Object Model (DOM) and why is it important?",
+      "associated_skills": ["DOM", "JavaScript"]
+    },
+    {
+      "id": "fe_beg_q007",
+      "question": "Explain the purpose of the `<img>` tag and its `src` and `alt` attributes.",
+      "associated_skills": ["HTML", "Images"]
+    },
+    {
+      "id": "fe_beg_q008",
+      "question": "How do you add comments in HTML, CSS, and JavaScript?",
+      "associated_skills": ["HTML", "CSS", "JavaScript", "Comments"]
+    }
+  ]
+}

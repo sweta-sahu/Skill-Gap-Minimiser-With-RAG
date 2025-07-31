@@ -1,0 +1,45 @@
+{
+  "topic": "QA Engineering - Beginner",
+  "questions": [
+    {
+      "id": "qa_beg_q001",
+      "question": "What is the primary difference between Quality Assurance (QA) and Software Testing?",
+      "associated_skills": ["QA", "Testing Concepts"]
+    },
+    {
+      "id": "qa_beg_q002",
+      "question": "Describe the typical 'Bug Life Cycle' from discovery to closure.",
+      "associated_skills": ["Bug Life Cycle", "Defect Management"]
+    },
+    {
+      "id": "qa_beg_q003",
+      "question": "What are the essential components of a well-written test case?",
+      "associated_skills": ["Test Case Creation", "Testing Documentation"]
+    },
+    {
+      "id": "qa_beg_q004",
+      "question": "Explain the difference between a 'Test Plan' and a 'Test Strategy'.",
+      "associated_skills": ["Test Planning", "Test Strategy"]
+    },
+    {
+      "id": "qa_beg_q005",
+      "question": "Differentiate between functional and non-functional testing and provide an example of each.",
+      "associated_skills": ["Functional Testing", "Non-Functional Testing"]
+    },
+    {
+      "id": "qa_beg_q006",
+      "question": "What is 'regression testing' and when should it be performed?",
+      "associated_skills": ["Regression Testing"]
+    },
+    {
+      "id": "qa_beg_q007",
+      "question": "Explain the difference between `Severity` and `Priority` for a bug.",
+      "associated_skills": ["Defect Reporting", "Severity", "Priority"]
+    },
+    {
+      "id": "qa_beg_q008",
+      "question": "What is 'smoke testing' and 'sanity testing'?",
+      "associated_skills": ["Smoke Testing", "Sanity Testing"]
+    }
+  ]
+}

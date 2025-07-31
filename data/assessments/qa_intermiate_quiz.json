@@ -1,0 +1,45 @@
+{
+  "topic": "QA Engineering - Intermediate",
+  "questions": [
+    {
+      "id": "qa_int_q001",
+      "question": "How do you determine when it is appropriate to stop testing a product?",
+      "associated_skills": ["Testing Principles", "Exit Criteria"]
+    },
+    {
+      "id": "qa_int_q002",
+      "question": "Explain the concept of a `Traceability Matrix` and its purpose.",
+      "associated_skills": ["Traceability Matrix", "Requirements Management"]
+    },
+    {
+      "id": "qa_int_q003",
+      "question": "What is `Ad-Hoc` testing, and what are its key characteristics?",
+      "associated_skills": ["Ad-Hoc Testing", "Exploratory Testing"]
+    },
+    {
+      "id": "qa_int_q004",
+      "question": "Describe the difference between `verification` and `validation` in the context of QA.",
+      "associated_skills": ["Verification", "Validation"]
+    },
+    {
+      "id": "qa_int_q005",
+      "question": "What is the purpose of a test harness, and how does it aid in testing?",
+      "associated_skills": ["Test Harness", "Testing Tools"]
+    },
+    {
+      "id": "qa_int_q006",
+      "question": "Explain the difference between `Load Testing` and `Stress Testing`.",
+      "associated_skills": ["Performance Testing", "Load Testing", "Stress Testing"]
+    },
+    {
+      "id": "qa_int_q007",
+      "question": "Describe a time you had a conflict with a developer regarding a bug. How did you resolve the situation?",
+      "associated_skills": ["Communication", "Conflict Resolution"]
+    },
+    {
+      "id": "qa_int_q008",
+      "question": "What is a `Bug Triage` meeting and what is your role in it?",
+      "associated_skills": ["Bug Triage", "Defect Management"]
+    }
+  ]
+}
