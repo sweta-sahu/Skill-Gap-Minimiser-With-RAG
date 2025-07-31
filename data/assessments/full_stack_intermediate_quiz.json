@@ -1,0 +1,35 @@
+{
+  "topic": "Full Stack Development - Intermediate (MERN)",
+  "questions": [
+    {
+      "id": "fs_int_q001",
+      "question": "In React, what is the difference between 'state' and 'props'? Explain how data typically flows in a React application.",
+      "associated_skills": ["React", "Components", "State", "Props"]
+    },
+    {
+      "id": "fs_int_q002",
+      "question": "What is the purpose of the `useEffect` hook in React? Provide a common use case, such as fetching data.",
+      "associated_skills": ["React Hooks", "useEffect", "Component Lifecycle"]
+    },
+    {
+      "id": "fs_int_q003",
+      "question": "What is middleware in the context of Express.js? Describe its role in the request-response cycle.",
+      "associated_skills": ["Express.js", "Middleware", "Routing"]
+    },
+    {
+      "id": "fs_int_q004",
+      "question": "Explain the Model-View-Controller (MVC) architectural pattern and how it can be applied to a Node.js backend.",
+      "associated_skills": ["MVC", "Software Architecture", "Node.js"]
+    },
+    {
+      "id": "fs_int_q005",
+      "question": "What is client-side routing and how does a library like React Router implement it in a Single Page Application (SPA)?",
+      "associated_skills": ["Routing", "React Router", "React"]
+    },
+    {
+      "id": "fs_int_q006",
+      "question": "What is a REST API? Describe the key principles of a RESTful architecture.",
+      "associated_skills": ["REST API", "API Testing", "Backend"]
+    }
+  ]
+}

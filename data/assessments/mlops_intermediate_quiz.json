@@ -1,0 +1,30 @@
+{
+  "topic": "MLOps - Intermediate",
+  "questions": [
+    {
+      "id": "mlops_int_q001",
+      "question": "Explain the difference between a Docker image and a Docker container. What is the function of a Dockerfile?",
+      "associated_skills": ["Docker", "Containers", "Image Management"]
+    },
+    {
+      "id": "mlops_int_q002",
+      "question": "What is the primary purpose of a container orchestrator like Kubernetes in an MLOps context?",
+      "associated_skills": ["Kubernetes", "Container Orchestration", "Deployment"]
+    },
+    {
+      "id": "mlops_int_q003",
+      "question": "Describe the key stages of a CI/CD pipeline designed for a machine learning model.",
+      "associated_skills": ["CI/CD", "GitHub Actions", "Automation"]
+    },
+    {
+      "id": "mlops_int_q004",
+      "question": "What is a Feature Store and what problems does it solve for machine learning teams?",
+      "associated_skills": ["Feature Store", "Feast", "Data Management"]
+    },
+    {
+      "id": "mlops_int_q005",
+      "question": "Why is data validation and testing important in an automated ML pipeline? Name a tool that can help.",
+      "associated_skills": ["Data Quality", "Data Validation", "Great Expectations"]
+    }
+  ]
+}

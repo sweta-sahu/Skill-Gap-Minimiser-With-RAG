@@ -1,0 +1,30 @@
+{
+  "topic": "MLOps - Beginner",
+  "questions": [
+    {
+      "id": "mlops_beg_q001",
+      "question": "What is MLOps and what are its primary goals in the machine learning lifecycle?",
+      "associated_skills": ["MLOps Lifecycle", "Fundamentals"]
+    },
+    {
+      "id": "mlops_beg_q002",
+      "question": "Why is version control with a tool like Git essential for machine learning projects? What should be versioned besides code?",
+      "associated_skills": ["Git", "GitHub", "Version Control"]
+    },
+    {
+      "id": "mlops_beg_q003",
+      "question": "What roles do the Python libraries NumPy and Pandas play in data preparation for machine learning?",
+      "associated_skills": ["NumPy", "Pandas", "Data Manipulation"]
+    },
+    {
+      "id": "mlops_beg_q004",
+      "question": "Explain the difference between supervised and unsupervised machine learning, and provide an example of each.",
+      "associated_skills": ["Machine Learning", "Supervised Learning", "Algorithms"]
+    },
+    {
+      "id": "mlops_beg_q005",
+      "question": "Why is it important to use a dedicated Python environment (like venv or conda) for each project?",
+      "associated_skills": ["Python", "Environment Management"]
+    }
+  ]
+}

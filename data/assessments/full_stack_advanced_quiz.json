@@ -1,0 +1,35 @@
+{
+  "topic": "Full Stack Development - Advanced (MERN)",
+  "questions": [
+    {
+      "id": "fs_adv_q001",
+      "question": "Compare and contrast Redux and the React Context API for global state management. When is Redux the more appropriate choice?",
+      "associated_skills": ["Redux", "State Management", "Context API"]
+    },
+    {
+      "id": "fs_adv_q002",
+      "question": "What is the role of a Mongoose schema in a Node.js application? How does it help with data validation?",
+      "associated_skills": ["Mongoose", "Schema", "Data Validation", "MongoDB"]
+    },
+    {
+      "id": "fs_adv_q003",
+      "question": "Describe the authentication flow using JSON Web Tokens (JWT) in a MERN stack application.",
+      "associated_skills": ["Authentication", "JWT", "Security"]
+    },
+    {
+      "id": "fs_adv_q004",
+      "question": "What is the difference between unit testing and integration testing for a React application? Name a popular library used for each.",
+      "associated_skills": ["Testing", "Jest", "React Testing Library"]
+    },
+    {
+      "id": "fs_adv_q005",
+      "question": "What are the benefits of containerizing a MERN application using Docker for development and deployment?",
+      "associated_skills": ["Deployment", "Docker", "Containerization"]
+    },
+    {
+      "id": "fs_adv_q006",
+      "question": "What is a CI/CD pipeline and how would you set one up for deploying a full-stack application to a service like Heroku or Netlify?",
+      "associated_skills": ["Deployment", "CI/CD", "Heroku", "Netlify"]
+    }
+  ]
+}
