@@ -1,0 +1,30 @@
+{
+  "topic": "QA Engineering - Intermediate",
+  "skills": [
+    {
+      "skill_id": "qa-int-01",
+      "skill_name": "Test Strategy & Planning",
+      "keywords": ["Test Strategy", "Test Plan", "Traceability Matrix", "Test Execution"]
+    },
+    {
+      "skill_id": "qa-int-02",
+      "skill_name": "Testing Methodologies",
+      "keywords": ["Agile", "Scrum", "Manual Testing", "Regression Testing", "Acceptance Testing"]
+    },
+    {
+      "skill_id": "qa-int-03",
+      "skill_name": "Bug Reporting & Analysis",
+      "keywords": ["Bug Reporting", "Defect Management", "Bug Tracking Tools", "Jira"]
+    },
+    {
+      "skill_id": "qa-int-04",
+      "skill_name": "Introduction to Automation",
+      "keywords": ["Test Automation", "Automation Tools", "Selenium", "Cypress"]
+    },
+    {
+      "skill_id": "qa-int-05",
+      "skill_name": "Performance and Load Testing",
+      "keywords": ["Performance Testing", "Load Testing", "Stress Testing", "JMeter"]
+    }
+  ]
+}

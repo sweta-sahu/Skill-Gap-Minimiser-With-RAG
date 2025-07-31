@@ -1,0 +1,30 @@
+{
+  "topic": "Frontend Development - Intermediate",
+  "skills": [
+    {
+      "skill_id": "fe-int-01",
+      "skill_name": "Intermediate JavaScript",
+      "keywords": ["Asynchronous JavaScript", "Promises", "Callbacks", "Closures", "ES6"]
+    },
+    {
+      "skill_id": "fe-int-02",
+      "skill_name": "Advanced CSS & Layout",
+      "keywords": ["Flexbox", "CSS Grid", "Responsive Design", "Media Queries", "Sass"]
+    },
+    {
+      "skill_id": "fe-int-03",
+      "skill_name": "DOM Manipulation & Events",
+      "keywords": ["DOM Manipulation", "Event Listeners", "Event Delegation", "APIs"]
+    },
+    {
+      "skill_id": "fe-int-04",
+      "skill_name": "Client-Side Storage",
+      "keywords": ["localStorage", "sessionStorage", "Cookies", "Web Storage"]
+    },
+    {
+      "skill_id": "fe-int-05",
+      "skill_name": "Frameworks",
+      "keywords": ["React", "Angular", "Vue", "Components"]
+    }
+  ]
+}

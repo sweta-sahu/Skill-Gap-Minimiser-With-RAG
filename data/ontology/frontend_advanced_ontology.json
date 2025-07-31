@@ -1,0 +1,30 @@
+{
+  "topic": "Frontend Development - Advanced",
+  "skills": [
+    {
+      "skill_id": "fe-adv-01",
+      "skill_name": "Performance Optimization",
+      "keywords": ["Web Vitals", "Service Workers", "Bundling", "Code Splitting", "Caching"]
+    },
+    {
+      "skill_id": "fe-adv-02",
+      "skill_name": "Advanced JavaScript & Patterns",
+      "keywords": ["Event Loop", "Prototypal Inheritance", "Design Patterns", "Modules"]
+    },
+    {
+      "skill_id": "fe-adv-03",
+      "skill_name": "State Management & Architecture",
+      "keywords": ["Redux", "Context API", "State Management", "Data Flow"]
+    },
+    {
+      "skill_id": "fe-adv-04",
+      "skill_name": "Testing & Build Tools",
+      "keywords": ["Unit Testing", "Jest", "Webpack", "Vite", "CI/CD", "Testing"]
+    },
+    {
+      "skill_id": "fe-adv-05",
+      "skill_name": "Deployment",
+      "keywords": ["Deployment", "CI/CD", "Docker", "AWS", "Netlify"]
+    }
+  ]
+}

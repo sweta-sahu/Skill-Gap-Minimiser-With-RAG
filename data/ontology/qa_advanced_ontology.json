@@ -1,0 +1,30 @@
+{
+  "topic": "QA Engineering - Advanced",
+  "skills": [
+    {
+      "skill_id": "qa-adv-01",
+      "skill_name": "Automation Framework Design",
+      "keywords": ["Automation Frameworks", "Design Patterns", "CI/CD", "Jenkins", "Pipeline"]
+    },
+    {
+      "skill_id": "qa-adv-02",
+      "skill_name": "Advanced Testing Types",
+      "keywords": ["API Testing", "Security Testing", "Performance Testing", "Mobile Testing", "Usability Testing"]
+    },
+    {
+      "skill_id": "qa-adv-03",
+      "skill_name": "Test Automation",
+      "keywords": ["Python", "Java", "JavaScript", "Selenium", "Cypress", "Appium"]
+    },
+    {
+      "skill_id": "qa-adv-04",
+      "skill_name": "Advanced Methodologies",
+      "keywords": ["Root Cause Analysis", "Risk-Based Testing", "Test Data Management", "Chaos Engineering"]
+    },
+    {
+      "skill_id": "qa-adv-05",
+      "skill_name": "Mentorship and Leadership",
+      "keywords": ["Mentorship", "Training", "Test Strategy", "Leadership"]
+    }
+  ]
+}

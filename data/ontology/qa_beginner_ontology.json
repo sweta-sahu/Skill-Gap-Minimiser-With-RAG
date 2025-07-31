@@ -1,0 +1,25 @@
+{
+  "topic": "QA Engineering - Beginner",
+  "skills": [
+    {
+      "skill_id": "qa-beg-01",
+      "skill_name": "Core QA Concepts",
+      "keywords": ["Quality Assurance", "Software Testing", "SDLC", "STLC"]
+    },
+    {
+      "skill_id": "qa-beg-02",
+      "skill_name": "Testing Fundamentals",
+      "keywords": ["Test Case", "Test Plan", "Bug Life Cycle", "Severity", "Priority"]
+    },
+    {
+      "skill_id": "qa-beg-03",
+      "skill_name": "Types of Testing",
+      "keywords": ["Functional Testing", "Non-Functional Testing", "Smoke Testing", "Sanity Testing"]
+    },
+    {
+      "skill_id": "qa-beg-04",
+      "skill_name": "Test Techniques",
+      "keywords": ["Black-Box Testing", "White-Box Testing", "Exploratory Testing"]
+    }
+  ]
+}

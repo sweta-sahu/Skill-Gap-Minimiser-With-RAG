@@ -1,0 +1,25 @@
+{
+  "topic": "Frontend Development - Beginner",
+  "skills": [
+    {
+      "skill_id": "fe-beg-01",
+      "skill_name": "HTML Fundamentals",
+      "keywords": ["HTML", "Semantic HTML", "Elements", "Attributes", "Forms"]
+    },
+    {
+      "skill_id": "fe-beg-02",
+      "skill_name": "CSS Fundamentals",
+      "keywords": ["CSS", "Styling", "Selectors", "Box Model", "Flexbox"]
+    },
+    {
+      "skill_id": "fe-beg-03",
+      "skill_name": "Basic JavaScript",
+      "keywords": ["JavaScript", "Variables", "Data Types", "Functions", "Operators"]
+    },
+    {
+      "skill_id": "fe-beg-04",
+      "skill_name": "Web Page Structure",
+      "keywords": ["DOM", "Document Object Model", "Web Page", "Structure"]
+    }
+  ]
+}
