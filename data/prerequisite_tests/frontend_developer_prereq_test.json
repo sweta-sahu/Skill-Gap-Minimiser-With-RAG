@@ -1,0 +1,42 @@
+{
+  "test_name": "Frontend Developer Prerequisite Test",
+  "instructions": "Answer the following questions to the best of your ability. This test will help determine your current skill level and place you in the appropriate learning group.",
+  "questions": [
+    {
+      "id": "fe_prereq_001",
+      "question": "What are the core components of the CSS Box Model?",
+      "difficulty": "beginner",
+      "topic": "CSS"
+    },
+    {
+      "id": "fe_prereq_002",
+      "question": "Explain the difference between 'let' and 'const' for variable declaration in JavaScript.",
+      "difficulty": "beginner",
+      "topic": "JavaScript"
+    },
+    {
+      "id": "fe_prereq_003",
+      "question": "What is the purpose of a Promise in JavaScript and what problem does it solve?",
+      "difficulty": "intermediate",
+      "topic": "JavaScript"
+    },
+    {
+      "id": "fe_prereq_004",
+      "question": "In React, what is the difference between 'state' and 'props'?",
+      "difficulty": "intermediate",
+      "topic": "React"
+    },
+    {
+      "id": "fe_prereq_005",
+      "question": "Which of the following is the best definition of the JavaScript Event Loop?",
+      "difficulty": "advanced",
+      "topic": "JavaScript"
+    },
+    {
+      "id": "fe_prereq_006",
+      "question": "When is Redux a more appropriate choice for state management than the React Context API?",
+      "difficulty": "advanced",
+      "topic": "State Management"
+    }
+  ]
+}

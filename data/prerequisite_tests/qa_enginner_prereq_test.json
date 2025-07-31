@@ -1,0 +1,42 @@
+{
+  "test_name": "QA Engineer Prerequisite Test",
+  "instructions": "Answer the following questions to the best of your ability. This test will help determine your current skill level and place you in the appropriate learning group.",
+  "questions": [
+    {
+      "id": "qa_prereq_001",
+      "question": "What is the primary difference between Quality Assurance (QA) and Software Testing?",
+      "difficulty": "beginner",
+      "topic": "Core QA Concepts"
+    },
+    {
+      "id": "qa_prereq_002",
+      "question": "What are the essential components of a well-written test case?",
+      "difficulty": "beginner",
+      "topic": "Testing Documentation"
+    },
+    {
+      "id": "qa_prereq_003",
+      "question": "Explain the difference between `Severity` and `Priority` when reporting a bug.",
+      "difficulty": "intermediate",
+      "topic": "Defect Management"
+    },
+    {
+      "id": "qa_prereq_004",
+      "question": "What is the purpose of `regression testing`?",
+      "difficulty": "intermediate",
+      "topic": "Regression Testing"
+    },
+    {
+      "id": "qa_prereq_005",
+      "question": "What is the main advantage of using an automated test framework for regression testing?",
+      "difficulty": "advanced",
+      "topic": "Test Automation"
+    },
+    {
+      "id": "qa_prereq_006",
+      "question": "Which of the following is a key characteristic of 'Black-Box' testing?",
+      "difficulty": "advanced",
+      "topic": "Testing Techniques"
+    }
+  ]
+}
