@@ -1,0 +1,66 @@
+{
+    "test_name": "DevOps Prerequisite Test",
+    "instructions": "Answer the following questions to the best of your ability. This test will help determine your current skill level for DevOps.",
+    "questions": [
+        {
+            "id": "devops_prereq_001",
+            "question": "What is version control, and why is Git commonly used in DevOps workflows?",
+            "difficulty": "beginner",
+            "topic": "Version Control"
+        },
+        {
+            "id": "devops_prereq_002",
+            "question": "Explain the concept of Continuous Integration (CI) and its benefits.",
+            "difficulty": "beginner",
+            "topic": "CI/CD"
+        },
+        {
+            "id": "devops_prereq_003",
+            "question": "What is the difference between a container and a virtual machine?",
+            "difficulty": "beginner",
+            "topic": "Containers"
+        },
+        {
+            "id": "devops_prereq_004",
+            "question": "In Docker, what is the purpose of a Dockerfile?",
+            "difficulty": "beginner",
+            "topic": "Docker"
+        },
+        {
+            "id": "devops_prereq_005",
+            "question": "What is Infrastructure as Code (IaC) and give an example of a tool used for it.",
+            "difficulty": "intermediate",
+            "topic": "Infrastructure as Code"
+        },
+        {
+            "id": "devops_prereq_006",
+            "question": "Describe the difference between Continuous Delivery and Continuous Deployment.",
+            "difficulty": "intermediate",
+            "topic": "CI/CD"
+        },
+        {
+            "id": "devops_prereq_007",
+            "question": "What is Kubernetes and why is it used in container orchestration?",
+            "difficulty": "intermediate",
+            "topic": "Kubernetes"
+        },
+        {
+            "id": "devops_prereq_008",
+            "question": "Explain how monitoring and logging are essential for DevOps workflows.",
+            "difficulty": "advanced",
+            "topic": "Monitoring & Logging"
+        },
+        {
+            "id": "devops_prereq_009",
+            "question": "What are some best practices for securing a CI/CD pipeline?",
+            "difficulty": "advanced",
+            "topic": "Security"
+        },
+        {
+            "id": "devops_prereq_010",
+            "question": "Describe a real-world scenario where automation improved deployment speed and reliability.",
+            "difficulty": "advanced",
+            "topic": "Automation"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "test_name": "Software Architect Prerequisite Test",
+    "instructions": "Answer the following questions to the best of your ability. This test will help determine your current skill level for Software Architecture.",
+    "questions": [
+        {
+            "id": "sa_prereq_001",
+            "question": "What is software architecture and how is it different from software design?",
+            "difficulty": "beginner",
+            "topic": "Architecture Basics"
+        },
+        {
+            "id": "sa_prereq_002",
+            "question": "Explain the concept of layered architecture and give an example.",
+            "difficulty": "beginner",
+            "topic": "Architectural Patterns"
+        },
+        {
+            "id": "sa_prereq_003",
+            "question": "What is the difference between monolithic and microservices architecture?",
+            "difficulty": "beginner",
+            "topic": "Architecture Styles"
+        },
+        {
+            "id": "sa_prereq_004",
+            "question": "What are functional and non-functional requirements in software systems?",
+            "difficulty": "beginner",
+            "topic": "Requirements"
+        },
+        {
+            "id": "sa_prereq_005",
+            "question": "Explain the importance of scalability and how it can be achieved in a system.",
+            "difficulty": "intermediate",
+            "topic": "Scalability"
+        },
+        {
+            "id": "sa_prereq_006",
+            "question": "Describe the Model-View-Controller (MVC) architectural pattern.",
+            "difficulty": "intermediate",
+            "topic": "Architectural Patterns"
+        },
+        {
+            "id": "sa_prereq_007",
+            "question": "How would you approach designing a system that can handle high availability?",
+            "difficulty": "intermediate",
+            "topic": "High Availability"
+        },
+        {
+            "id": "sa_prereq_008",
+            "question": "Explain event-driven architecture and when it is most useful.",
+            "difficulty": "advanced",
+            "topic": "Architecture Styles"
+        },
+        {
+            "id": "sa_prereq_009",
+            "question": "What are some strategies for migrating from a monolithic system to microservices?",
+            "difficulty": "advanced",
+            "topic": "System Migration"
+        },
+        {
+            "id": "sa_prereq_010",
+            "question": "Describe how you would evaluate and choose between multiple architectural options for a large enterprise system.",
+            "difficulty": "advanced",
+            "topic": "Architecture Decision-Making"
+        }
+    ]
+}
