@@ -1,0 +1,40 @@
+{
+  "topic": "Backend JS/TS Engineer - Beginner",
+  "questions": [
+    {
+      "id": "be_js_beg_q001",
+      "question": "Explain the JavaScript Event Loop and how it handles asynchronous operations with callbacks.",
+      "associated_skills": ["Event Loop", "Callbacks", "Async/Await", "Node.js"]
+    },
+    {
+      "id": "be_js_beg_q002",
+      "question": "What is the difference between `npm` and `yarn`?",
+      "associated_skills": ["npm", "yarn", "Package Management"]
+    },
+    {
+      "id": "be_js_beg_q003",
+      "question": "In Express.js, what is middleware and can you provide an example of its use?",
+      "associated_skills": ["Express.js", "Middleware", "Routing"]
+    },
+    {
+      "id": "be_js_beg_q004",
+      "question": "How do you define a route that handles a POST request to '/users' in Express.js?",
+      "associated_skills": ["Express.js", "Routing", "Request/Response"]
+    },
+    {
+      "id": "be_js_beg_q005",
+      "question": "What is the difference between `git merge` and `git rebase`?",
+      "associated_skills": ["git", "branch", "merge"]
+    },
+    {
+      "id": "be_js_beg_q006",
+      "question": "Write a simple SQL query to retrieve all columns for users who are located in 'Canada' from a table named 'Profiles'.",
+      "associated_skills": ["SQL", "SELECT, INSERT, UPDATE, DELETE"]
+    },
+    {
+      "id": "be_js_beg_q007",
+      "question": "What is the purpose of shell scripting in a backend environment?",
+      "associated_skills": ["Shell scripting", "OS and Terminal Basics"]
+    }
+  ]
+}

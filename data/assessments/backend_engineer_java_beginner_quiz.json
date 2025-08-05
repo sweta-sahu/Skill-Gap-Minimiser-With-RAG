@@ -1,0 +1,75 @@
+{
+  "topic": "Backend Java Engineer - Beginner",
+  "questions": [
+    {
+      "id": "be_beg_q001",
+      "question": "Explain the concept of Object-Oriented Programming (OOP) and its main principles (encapsulation, inheritance, polymorphism).",
+      "associated_skills": [
+        "OOP",
+        "Core Java"
+      ]
+    },
+    {
+      "id": "be_beg_q002",
+      "question": "What is the difference between the Java Collections `List`, `Set`, and `Map` interfaces? Provide a use case for each.",
+      "associated_skills": [
+        "Collections",
+        "Core Java",
+        "Data Structures"
+      ]
+    },
+    {
+      "id": "be_beg_q003",
+      "question": "What is the purpose of a `pom.xml` file in a Maven project?",
+      "associated_skills": [
+        "Maven",
+        "pom.xml",
+        "Build & Dependency Management"
+      ]
+    },
+    {
+      "id": "be_beg_q004",
+      "question": "Explain the concept of Dependency Injection in Spring Boot and what the `@Autowired` annotation does.",
+      "associated_skills": [
+        "Dependency Injection",
+        "Annotations",
+        "Spring Boot"
+      ]
+    },
+    {
+      "id": "be_beg_q005",
+      "question": "How do you define a simple REST endpoint in Spring Boot that handles a GET request?",
+      "associated_skills": [
+        "Spring Boot",
+        "REST Controllers"
+      ]
+    },
+    {
+      "id": "be_beg_q006",
+      "question": "Describe the difference between `git merge` and `git rebase`.",
+      "associated_skills": [
+        "git",
+        "branch",
+        "merge",
+        "version control"
+      ]
+    },
+    {
+      "id": "be_beg_q007",
+      "question": "Write a simple SQL query to select all columns from a 'users' table where the 'country' is 'USA'.",
+      "associated_skills": [
+        "SQL",
+        "SELECT, INSERT, UPDATE, DELETE"
+      ]
+    },
+    {
+      "id": "be_beg_q008",
+      "question": "What is the purpose of a web browser's cache?",
+      "associated_skills": [
+        "Browsers",
+        "Hosting",
+        "How the Internet Works"
+      ]
+    }
+  ]
+}

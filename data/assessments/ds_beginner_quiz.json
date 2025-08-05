@@ -1,0 +1,35 @@
+{
+  "topic": "Data Scientist - Beginner",
+  "questions": [
+    {
+      "id": "ds_beg_q001",
+      "question": "How would you use Pandas to read a CSV file and display the first 5 rows?",
+      "associated_skills": ["Python", "Pandas", "Jupyter Notebook"]
+    },
+    {
+      "id": "ds_beg_q002",
+      "question": "What is the difference between a vector and a matrix?",
+      "associated_skills": ["Linear Algebra", "Vectors", "Matrices"]
+    },
+    {
+      "id": "ds_beg_q003",
+      "question": "Explain hypothesis testing and the role of a p-value.",
+      "associated_skills": ["Hypothesis Testing", "p-value", "Inferential Statistics"]
+    },
+    {
+      "id": "ds_beg_q004",
+      "question": "What is Exploratory Data Analysis (EDA) and why is it important?",
+      "associated_skills": ["EDA", "Data Visualization", "Data Wrangling"]
+    },
+    {
+      "id": "ds_beg_q005",
+      "question": "What are some common techniques for handling missing values in a dataset?",
+      "associated_skills": ["Data Cleaning", "Handling Missing Values"]
+    },
+    {
+      "id": "ds_beg_q006",
+      "question": "What is the purpose of the Matplotlib and Seaborn libraries?",
+      "associated_skills": ["Matplotlib", "Seaborn", "Data Visualization"]
+    }
+  ]
+}

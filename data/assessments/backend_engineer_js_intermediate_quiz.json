@@ -1,0 +1,40 @@
+{
+  "topic": "Backend JS/TS Engineer - Intermediate",
+  "questions": [
+    {
+      "id": "be_js_int_q001",
+      "question": "What are the main advantages of using TypeScript over plain JavaScript in a backend project?",
+      "associated_skills": ["TypeScript", "Types", "Interfaces"]
+    },
+    {
+      "id": "be_js_int_q002",
+      "question": "Explain how JSON Web Tokens (JWT) are used for stateless authentication in a REST API.",
+      "associated_skills": ["JWT", "Authentication", "Security", "REST"]
+    },
+    {
+      "id": "be_js_int_q003",
+      "question": "What is an ORM? Describe the role of a tool like Prisma or Sequelize.",
+      "associated_skills": ["ORM", "Prisma", "Sequelize", "Query Builder"]
+    },
+    {
+      "id": "be_js_int_q004",
+      "question": "What is the purpose of mocking in testing? How would you mock a database call using Jest?",
+      "associated_skills": ["Jest", "Mocking", "Unit/Integration Testing"]
+    },
+    {
+      "id": "be_js_int_q005",
+      "question": "What is a Docker container, and how is it different from a Docker image?",
+      "associated_skills": ["Docker", "Containers", "Images", "Containerization"]
+    },
+    {
+      "id": "be_js_int_q006",
+      "question": "Describe the difference between a SQL (e.g., PostgreSQL) and a NoSQL (e.g., MongoDB) database.",
+      "associated_skills": ["SQL", "NoSQL", "MongoDB", "PostgreSQL"]
+    },
+    {
+      "id": "be_js_int_q007",
+      "question": "What is the Test Pyramid and why is it a useful concept in software development?",
+      "associated_skills": ["Test Pyramid", "Unit Testing", "Integration Testing"]
+    }
+  ]
+}

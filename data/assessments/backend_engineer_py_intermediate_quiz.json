@@ -1,0 +1,40 @@
+{
+  "topic": "Backend Python Engineer - Intermediate",
+  "questions": [
+    {
+      "id": "be_py_int_q001",
+      "question": "In Django, what is the role of a 'Model' and a 'View'?",
+      "associated_skills": ["Django", "Models", "Views"]
+    },
+    {
+      "id": "be_py_int_q002",
+      "question": "What is a 'Serializer' in Django REST Framework (DRF) and what problem does it solve?",
+      "associated_skills": ["Django REST Framework", "Serializers"]
+    },
+    {
+      "id": "be_py_int_q003",
+      "question": "Explain the purpose of an ORM like Django ORM or SQLAlchemy.",
+      "associated_skills": ["Django ORM", "SQLAlchemy ORM", "ORM"]
+    },
+    {
+      "id": "be_py_int_q004",
+      "question": "In Pytest, what is a 'fixture' and how is it used?",
+      "associated_skills": ["Pytest", "Fixtures", "Testing"]
+    },
+    {
+      "id": "be_py_int_q005",
+      "question": "What is the difference between a Docker 'image' and a 'container'?",
+      "associated_skills": ["Docker", "Containers", "Images", "Dockerfile"]
+    },
+    {
+      "id": "be_py_int_q006",
+      "question": "How does JWT (JSON Web Token) based authentication work?",
+      "associated_skills": ["JWT", "Authentication", "Authorization", "REST"]
+    },
+    {
+      "id": "be_py_int_q007",
+      "question": "Why are database migration tools like Alembic necessary?",
+      "associated_skills": ["Alembic", "Migrations"]
+    }
+  ]
+}

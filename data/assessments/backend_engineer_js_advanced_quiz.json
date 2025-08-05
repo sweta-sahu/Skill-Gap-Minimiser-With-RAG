@@ -1,0 +1,45 @@
+{
+  "topic": "Backend JS/TS Engineer - Advanced",
+  "questions": [
+    {
+      "id": "be_js_adv_q001",
+      "question": "Compare and contrast the Microservices architecture with a traditional Monolithic architecture.",
+      "associated_skills": ["Microservices", "Monolithic", "Software Architecture Patterns"]
+    },
+    {
+      "id": "be_js_adv_q002",
+      "question": "What is NestJS and how does it use concepts like Modules, Controllers, and Providers to structure an application?",
+      "associated_skills": ["NestJS", "Modules", "Controllers", "Providers"]
+    },
+    {
+      "id": "be_js_adv_q003",
+      "question": "Explain a situation where you would prefer to use WebSockets over a standard REST API.",
+      "associated_skills": ["WebSockets", "GraphQL", "Advanced API Paradigms"]
+    },
+    {
+      "id": "be_js_adv_q004",
+      "question": "What is the role of a message broker like RabbitMQ or Kafka in a distributed system?",
+      "associated_skills": ["RabbitMQ", "Kafka", "Task Queues & Message Brokers"]
+    },
+    {
+      "id": "be_js_adv_q005",
+      "question": "What is the purpose of using a process manager like PM2 in a Node.js deployment?",
+      "associated_skills": ["PM2", "Deployment & Process Management"]
+    },
+    {
+      "id": "be_js_adv_q006",
+      "question": "How can a reverse proxy like Nginx improve the performance and security of a web application?",
+      "associated_skills": ["Nginx", "Deployment & Process Management"]
+    },
+    {
+      "id": "be_js_adv_q007",
+      "question": "What is the 'N+1' query problem and how can it be mitigated?",
+      "associated_skills": ["N+1 Problem", "Scalability & Performance"]
+    },
+    {
+      "id": "be_js_adv_q008",
+      "question": "What is the purpose of a CI/CD pipeline and what are its key stages?",
+      "associated_skills": ["CI/CD pipeline", "GitHub Actions", "DevOps"]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "topic": "Backend Java Engineer - Advanced",
+  "questions": [
+    {
+      "id": "be_adv_q001",
+      "question": "Compare and contrast Monolithic and Microservices architectures. What are the main benefits and drawbacks of using Microservices?",
+      "associated_skills": [
+        "Monolithic",
+        "Microservices",
+        "Software Architecture"
+      ]
+    },
+    {
+      "id": "be_adv_q002",
+      "question": "What is `CompletableFuture` in Java and how does it help in writing asynchronous code?",
+      "associated_skills": [
+        "CompletableFuture",
+        "Multithreading",
+        "Concurrency",
+        "Asynchronous"
+      ]
+    },
+    {
+      "id": "be_adv_q003",
+      "question": "Explain the difference between a message queue (like RabbitMQ) and a distributed streaming platform (like Kafka).",
+      "associated_skills": [
+        "RabbitMQ",
+        "Kafka",
+        "JMS",
+        "Messaging Systems"
+      ]
+    },
+    {
+      "id": "be_adv_q004",
+      "question": "What is Kubernetes and what core problems does it solve for containerized applications?",
+      "associated_skills": [
+        "Kubernetes",
+        "Docker",
+        "Deployment",
+        "Cloud Native"
+      ]
+    },
+    {
+      "id": "be_adv_q005",
+      "question": "Explain GraphQL and how its data fetching approach differs from REST.",
+      "associated_skills": [
+        "GraphQL",
+        "Advanced API Paradigms"
+      ]
+    },
+    {
+      "id": "be_adv_q006",
+      "question": "Describe a common caching strategy (e.g., cache-aside, read-through) and how you might implement it using Redis.",
+      "associated_skills": [
+        "Caching",
+        "Redis",
+        "Scalability",
+        "Performance"
+      ]
+    },
+    {
+      "id": "be_adv_q007",
+      "question": "What are the key stages of a typical CI/CD pipeline?",
+      "associated_skills": [
+        "CI/CD pipeline",
+        "GitHub Actions",
+        "DevOps"
+      ]
+    },
+    {
+      "id": "be_adv_q008",
+      "question": "What is the N+1 problem in the context of an ORM like Hibernate, and how can it be solved?",
+      "associated_skills": [
+        "N+1 Problem",
+        "JPA",
+        "Hibernate",
+        "Performance"
+      ]
+    }
+  ]
+}

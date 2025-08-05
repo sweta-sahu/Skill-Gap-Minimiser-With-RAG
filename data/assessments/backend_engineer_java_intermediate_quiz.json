@@ -1,0 +1,84 @@
+{
+  "topic": "Backend Java Engineer - Intermediate",
+  "questions": [
+    {
+      "id": "be_int_q001",
+      "question": "Explain the difference between authentication and authorization. How does Spring Security handle each?",
+      "associated_skills": [
+        "Authentication",
+        "Authorization",
+        "Spring Security",
+        "JWT"
+      ]
+    },
+    {
+      "id": "be_int_q002",
+      "question": "What is JPA and how is it different from Hibernate? Describe the role of a Spring Data JPA Repository.",
+      "associated_skills": [
+        "JPA",
+        "Hibernate",
+        "Repositories",
+        "Data Layer"
+      ]
+    },
+    {
+      "id": "be_int_q003",
+      "question": "Why are database migration tools like Flyway or Liquibase important in a team environment?",
+      "associated_skills": [
+        "Flyway",
+        "Liquibase",
+        "Schema Evolution",
+        "Database Migrations"
+      ]
+    },
+    {
+      "id": "be_int_q004",
+      "question": "What is the purpose of mocking in unit tests? How do you create a mock object using Mockito?",
+      "associated_skills": [
+        "Mockito",
+        "JUnit 5",
+        "Testing"
+      ]
+    },
+    {
+      "id": "be_int_q005",
+      "question": "Describe the main characteristics of a RESTful API.",
+      "associated_skills": [
+        "REST",
+        "JSON",
+        "API Development"
+      ]
+    },
+    {
+      "id": "be_int_q006",
+      "question": "What is the difference between a SQL (like PostgreSQL) and a NoSQL (like MongoDB) database? Provide a use case where you might prefer NoSQL.",
+      "associated_skills": [
+        "NoSQL",
+        "MongoDB",
+        "Key-Value",
+        "Document",
+        "Databases"
+      ]
+    },
+    {
+      "id": "be_int_q007",
+      "question": "What is a Docker container, and how does it differ from a traditional virtual machine?",
+      "associated_skills": [
+        "Docker",
+        "Containers",
+        "Images",
+        "Containerization"
+      ]
+    },
+    {
+      "id": "be_int_q008",
+      "question": "Explain the concept of the Test Pyramid and the types of tests at each level.",
+      "associated_skills": [
+        "Unit Testing",
+        "Integration Testing",
+        "Functional Testing",
+        "Test Pyramid"
+      ]
+    }
+  ]
+}

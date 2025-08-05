@@ -1,0 +1,45 @@
+{
+  "topic": "Backend Python Engineer - Advanced",
+  "questions": [
+    {
+      "id": "be_py_adv_q001",
+      "question": "Explain Python's 'async/await' syntax and the role of 'asyncio'. When would you use it?",
+      "associated_skills": ["asyncio", "async/await", "Asynchronous Programming"]
+    },
+    {
+      "id": "be_py_adv_q002",
+      "question": "What is the purpose of a task queue like Celery? Provide a common use case.",
+      "associated_skills": ["Celery", "RabbitMQ", "Task Queues & Message Brokers"]
+    },
+    {
+      "id": "be_py_adv_q003",
+      "question": "What is the difference between a WSGI server (like Gunicorn) and an ASGI server (like Uvicorn)?",
+      "associated_skills": ["Gunicorn", "Uvicorn", "ASGI"]
+    },
+    {
+      "id": "be_py_adv_q004",
+      "question": "Describe the key differences between a Monolithic and a Microservices architecture.",
+      "associated_skills": ["Monolithic", "Microservices", "Software Architecture Patterns"]
+    },
+    {
+      "id": "be_py_adv_q005",
+      "question": "In a production environment, what is the role of Nginx when used with an application server like Gunicorn?",
+      "associated_skills": ["Nginx", "Gunicorn", "Deployment"]
+    },
+    {
+      "id": "be_py_adv_q006",
+      "question": "What is the 'N+1' query problem in ORMs, and how can it be solved?",
+      "associated_skills": ["N+1 Problem", "Scalability & Performance"]
+    },
+    {
+      "id": "be_py_adv_q007",
+      "question": "What is a CI/CD pipeline, and what are its main goals?",
+      "associated_skills": ["CI/CD pipeline", "DevOps"]
+    },
+    {
+      "id": "be_py_adv_q008",
+      "question": "Explain a situation where you might choose GraphQL over REST for an API.",
+      "associated_skills": ["GraphQL", "WebSockets", "Advanced API Paradigms"]
+    }
+  ]
+}

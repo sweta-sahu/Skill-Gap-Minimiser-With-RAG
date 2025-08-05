@@ -1,0 +1,40 @@
+{
+  "topic": "Data Scientist - Intermediate",
+  "questions": [
+    {
+      "id": "ds_int_q001",
+      "question": "What is the fundamental difference between supervised and unsupervised learning? Provide an example of each.",
+      "associated_skills": ["Linear Regression", "K-Means Clustering", "Supervised Learning", "Unsupervised Learning"]
+    },
+    {
+      "id": "ds_int_q002",
+      "question": "Explain the purpose of a confusion matrix and the metrics that can be derived from it (e.g., precision, recall).",
+      "associated_skills": ["Confusion Matrix", "Precision-Recall", "F1-Score"]
+    },
+    {
+      "id": "ds_int_q003",
+      "question": "What is K-Means Clustering and how does it work?",
+      "associated_skills": ["K-Means Clustering", "Unsupervised Learning"]
+    },
+    {
+      "id": "ds_int_q004",
+      "question": "Describe the bias-variance tradeoff in machine learning.",
+      "associated_skills": ["Bias-Variance Tradeoff", "Model Evaluation"]
+    },
+    {
+      "id": "ds_int_q005",
+      "question": "Why is feature scaling important for some machine learning algorithms?",
+      "associated_skills": ["Feature Scaling", "Feature Engineering"]
+    },
+    {
+      "id": "ds_int_q006",
+      "question": "How does a Decision Tree algorithm make a prediction?",
+      "associated_skills": ["Decision Trees", "Random Forest", "Supervised Learning"]
+    },
+    {
+      "id": "ds_int_q007",
+      "question": "What is Principal Component Analysis (PCA) used for?",
+      "associated_skills": ["PCA", "Dimensionality Reduction"]
+    }
+  ]
+}

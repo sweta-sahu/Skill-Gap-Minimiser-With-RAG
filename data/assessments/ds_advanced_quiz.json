@@ -1,0 +1,40 @@
+{
+  "topic": "Data Scientist - Advanced",
+  "questions": [
+    {
+      "id": "ds_adv_q001",
+      "question": "What are the key differences between traditional machine learning and deep learning?",
+      "associated_skills": ["Deep Learning", "Neural Networks"]
+    },
+    {
+      "id": "ds_adv_q002",
+      "question": "Explain the architecture of a Convolutional Neural Network (CNN) and what type of data it is typically used for.",
+      "associated_skills": ["CNN", "Deep Learning", "TensorFlow", "PyTorch"]
+    },
+    {
+      "id": "ds_adv_q003",
+      "question": "What is a Transformer model in NLP, and why has it become so important?",
+      "associated_skills": ["NLP", "Transformers", "BERT", "Hugging Face"]
+    },
+    {
+      "id": "ds_adv_q004",
+      "question": "What is MLOps and why is it crucial for deploying machine learning models into production?",
+      "associated_skills": ["MLOps", "Model Deployment", "Model Monitoring"]
+    },
+    {
+      "id": "ds_adv_q005",
+      "question": "What is Apache Spark and how does it enable distributed computing for big data?",
+      "associated_skills": ["Big Data", "Apache Spark", "PySpark", "Distributed Computing"]
+    },
+    {
+      "id": "ds_adv_q006",
+      "question": "What is the role of Docker in MLOps?",
+      "associated_skills": ["Docker", "Kubernetes", "API Serving", "MLOps"]
+    },
+    {
+      "id": "ds_adv_q007",
+      "question": "What is backpropagation and why is it fundamental to training neural networks?",
+      "associated_skills": ["Backpropagation", "Neural Networks"]
+    }
+  ]
+}

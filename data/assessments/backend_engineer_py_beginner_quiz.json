@@ -1,0 +1,40 @@
+{
+  "topic": "Backend Python Engineer - Beginner",
+  "questions": [
+    {
+      "id": "be_py_beg_q001",
+      "question": "Explain the key differences between a Python List and a Dictionary.",
+      "associated_skills": ["Data Structures", "Core Python"]
+    },
+    {
+      "id": "be_py_beg_q002",
+      "question": "What is Object-Oriented Programming (OOP), and what is a 'class' in Python?",
+      "associated_skills": ["OOP", "Core Python"]
+    },
+    {
+      "id": "be_py_beg_q003",
+      "question": "Why is it best practice to use a virtual environment ('venv') for Python projects?",
+      "associated_skills": ["venv", "pip", "Package Management"]
+    },
+    {
+      "id": "be_py_beg_q004",
+      "question": "In FastAPI, how do you define a route that accepts a path parameter?",
+      "associated_skills": ["FastAPI", "Path/Query Parameters"]
+    },
+    {
+      "id": "be_py_beg_q005",
+      "question": "What is the difference between 'git push' and 'git pull'?",
+      "associated_skills": ["git", "push", "pull", "version control"]
+    },
+    {
+      "id": "be_py_beg_q006",
+      "question": "Write a basic SQL query to select the 'email' column from a 'users' table.",
+      "associated_skills": ["SQL", "SELECT, INSERT, UPDATE, DELETE"]
+    },
+    {
+      "id": "be_py_beg_q007",
+      "question": "How does Pydantic help in developing APIs with FastAPI?",
+      "associated_skills": ["Pydantic", "FastAPI"]
+    }
+  ]
+}
