@@ -1,0 +1,1257 @@
+[
+  {
+    "id": "univ_beg_res_001",
+    "title": "How the internet works for beginners",
+    "url": "https://www.lenovo.com/us/en/glossary/what-is-internet/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-01",
+    "skill_tags": [
+      "HTTP/HTTPS",
+      "DNS",
+      "Hosting"
+    ]
+  },
+  {
+    "id": "univ_beg_res_002",
+    "title": "HTTP and HTTPS explained",
+    "url": "https://aws.amazon.com/compare/the-difference-between-https-and-http/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-01",
+    "skill_tags": [
+      "HTTP/HTTPS"
+    ]
+  },
+  {
+    "id": "univ_beg_res_003",
+    "title": "What is DNS? | How DNS works",
+    "url": "https://www.cloudflare.com/learning/dns/what-is-dns/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-01",
+    "skill_tags": [
+      "DNS",
+      "Domain Name"
+    ]
+  },
+  {
+    "id": "univ_beg_res_004",
+    "title": "What Is Web Hosting?",
+    "url": "https://www.ibm.com/think/topics/web-hosting",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-01",
+    "skill_tags": [
+      "Hosting"
+    ]
+  },
+  {
+    "id": "univ_beg_res_005",
+    "title": "What is a Browser? How does it Work?",
+    "url": "https://www.browserstack.com/guide/what-is-browser",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-01",
+    "skill_tags": [
+      "Browsers"
+    ]
+  },
+  {
+    "id": "univ_beg_res_006",
+    "title": "Common Terminal Commands",
+    "url": "https://gist.github.com/bradtraversy/cc180de0edee05075a6139e42d5f28ce",
+    "format": "cheat sheet",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-02",
+    "skill_tags": [
+      "Terminal usage",
+      "ls, cd, pwd, grep, curl"
+    ]
+  },
+  {
+    "id": "univ_beg_res_007",
+    "title": "What is Shell Scripting?",
+    "url": "https://www.freecodecamp.org/news/what-is-shell-scripting-a-beginners-guide/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-02",
+    "skill_tags": [
+      "Shell scripting"
+    ]
+  },
+  {
+    "id": "univ_beg_res_008",
+    "title": "Unix / Linux - Processes Management",
+    "url": "https://www.tutorialspoint.com/unix/unix-processes.htm",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-02",
+    "skill_tags": [
+      "Process Management"
+    ]
+  },
+  {
+    "id": "univ_beg_res_009",
+    "title": "Introduction to Git and GitHub eBook",
+    "url": "https://github.com/bobbyiliev/introduction-to-git-and-github-ebook",
+    "format": "ebook",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-03",
+    "skill_tags": [
+      "git",
+      "repository",
+      "commit",
+      "push",
+      "pull",
+      "branch",
+      "merge",
+      "GitHub"
+    ]
+  },
+  {
+    "id": "univ_beg_res_010",
+    "title": "GIT CHEAT SHEET - GitHub Education",
+    "url": "https://education.github.com/git-cheat-sheet-education.pdf",
+    "format": "cheat sheet",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-03",
+    "skill_tags": [
+      "git",
+      "commit",
+      "branch",
+      "merge",
+      "push",
+      "pull"
+    ]
+  },
+  {
+    "id": "univ_beg_res_011",
+    "title": "What Is A Relational Database (RDBMS)?",
+    "url": "https://cloud.google.com/learn/what-is-a-relational-database",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-04",
+    "skill_tags": [
+      "SQL",
+      "Tables",
+      "Columns",
+      "Primary Keys"
+    ]
+  },
+  {
+    "id": "univ_beg_res_012",
+    "title": "SQL Tutorial",
+    "url": "https://www.geeksforgeeks.org/sql/sql-tutorial/",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-04",
+    "skill_tags": [
+      "SQL",
+      "SELECT, INSERT, UPDATE, DELETE"
+    ]
+  },
+  {
+    "id": "univ_beg_res_013",
+    "title": "PostgreSQL Tutorial - Neon",
+    "url": "https://neon.tech/docs/guides/postgresql-tutorial",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-04",
+    "skill_tags": [
+      "PostgreSQL"
+    ]
+  },
+  {
+    "id": "univ_beg_res_014",
+    "title": "MySQL Tutorial",
+    "url": "https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "univ-beg-04",
+    "skill_tags": [
+      "MySQL"
+    ]
+  },
+  {
+    "id": "univ_int_res_001",
+    "title": "Best practices for REST API design",
+    "url": "https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_id": "univ-int-01",
+    "skill_tags": [
+      "REST",
+      "JSON"
+    ]
+  },
+  {
+    "id": "univ_int_res_002",
+    "title": "How To Implement JWT Authentication On Node.js",
+    "url": "https://www.freecodecamp.org/news/how-to-implement-jwt-authentication-on-node-js/",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "univ-int-01",
+    "skill_tags": [
+      "Authentication",
+      "Authorization",
+      "JWT"
+    ]
+  },
+  {
+    "id": "univ_int_res_003",
+    "title": "How to implement OAuth 2.0 with Passport.js",
+    "url": "https://www.freecodecamp.org/news/how-to-implement-oauth-2-0-with-passport-js/",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "univ-int-01",
+    "skill_tags": [
+      "OAuth 2.0",
+      "CORS"
+    ]
+  },
+  {
+    "id": "univ_int_res_004",
+    "title": "What is NoSQL?",
+    "url": "https://aws.amazon.com/nosql/",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_id": "univ-int-02",
+    "skill_tags": [
+      "NoSQL",
+      "Key-Value",
+      "Document",
+      "Column-family"
+    ]
+  },
+  {
+    "id": "univ_int_res_005",
+    "title": "MongoDB Tutorial",
+    "url": "https://www.geeksforgeeks.org/mongodb/mongodb-tutorial/",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "univ-int-02",
+    "skill_tags": [
+      "MongoDB",
+      "Document"
+    ]
+  },
+  {
+    "id": "univ_int_res_006",
+    "title": "Introduction to Redis",
+    "url": "https://www.geeksforgeeks.org/introduction-to-redis/",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "univ-int-02",
+    "skill_tags": [
+      "Redis",
+      "Key-Value"
+    ]
+  },
+  {
+    "id": "univ_int_res_007",
+    "title": "The testing pyramid, simplified for one and all",
+    "url": "https://www.headspin.io/blog/the-testing-pyramid-simplified-for-one-and-all",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_id": "univ-int-03",
+    "skill_tags": [
+      "Unit Testing",
+      "Integration Testing",
+      "Functional Testing",
+      "Test Pyramid"
+    ]
+  },
+  {
+    "id": "univ_int_res_008",
+    "title": "Docker 101 Tutorial",
+    "url": "https://www.docker.com/101-tutorial/",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "univ-int-04",
+    "skill_tags": [
+      "Docker",
+      "Containers",
+      "Images",
+      "Dockerfile"
+    ]
+  },
+  {
+    "id": "univ_int_res_009",
+    "title": "Docker Compose",
+    "url": "https://docs.docker.com/compose/gettingstarted/",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_id": "univ-int-04",
+    "skill_tags": [
+      "Docker Compose"
+    ]
+  },
+  {
+    "id": "univ_adv_res_001",
+    "title": "Software architecture patterns explained",
+    "url": "https://www.freecodecamp.org/news/software-architecture-patterns-a-comprehensive-guide/",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_id": "univ-adv-01",
+    "skill_tags": [
+      "Monolithic",
+      "Microservices",
+      "SOA",
+      "Event-Driven",
+      "Serverless"
+    ]
+  },
+  {
+    "id": "univ_adv_res_002",
+    "title": "GraphQL Learn",
+    "url": "https://graphql.org/learn/",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "univ-adv-02",
+    "skill_tags": [
+      "GraphQL"
+    ]
+  },
+  {
+    "id": "univ_adv_res_003",
+    "title": "Writing WebSocket client applications",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_client_applications",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "univ-adv-02",
+    "skill_tags": [
+      "WebSockets"
+    ]
+  },
+  {
+    "id": "univ_adv_res_004",
+    "title": "gRPC - Quick start",
+    "url": "https://grpc.io/docs/languages/python/quickstart/",
+    "format": "tutorial",
+    "difficulty": "advanced",
+    "skill_id": "univ-adv-02",
+    "skill_tags": [
+      "gRPC",
+      "API Rate Limiting"
+    ]
+  },
+  {
+    "id": "univ_adv_res_005",
+    "title": "Web Caching for Beginners: What It Is and How It Works",
+    "url": "https://www.keycdn.com/learn/web-caching",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_id": "univ-adv-03",
+    "skill_tags": [
+      "Caching",
+      "N+1 Problem"
+    ]
+  },
+  {
+    "id": "univ_adv_res_006",
+    "title": "Choosing between Redis OSS and Memcached",
+    "url": "https://aws.amazon.com/elasticache/redis-vs-memcached/",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_id": "univ-adv-03",
+    "skill_tags": [
+      "Redis",
+      "Memcached"
+    ]
+  },
+  {
+    "id": "univ_adv_res_007",
+    "title": "What is load balancing?",
+    "url": "https://www.cloudflare.com/learning/performance/what-is-load-balancing/",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_id": "univ-adv-03",
+    "skill_tags": [
+      "Load Balancing"
+    ]
+  },
+  {
+    "id": "univ_adv_res_008",
+    "title": "A Beginner’s Guide to Using CDNs",
+    "url": "https://www.keycdn.com/learn/content-delivery-network",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_id": "univ-adv-03",
+    "skill_tags": [
+      "CDN"
+    ]
+  },
+  {
+    "id": "univ_adv_res_009",
+    "title": "What is CI CD Pipeline?",
+    "url": "http://www.youtube.com/watch?v=scEDHsr3APg",
+    "format": "video",
+    "difficulty": "advanced",
+    "skill_id": "univ-adv-04",
+    "skill_tags": [
+      "CI/CD pipeline",
+      "GitHub Actions",
+      "Observability",
+      "Logging",
+      "Monitoring",
+      "Alerting"
+    ]
+  },
+  {
+    "id": "java_beg_res_001",
+    "title": "Java 17 Features",
+    "url": "https://www.baeldung.com/java-17-new-features",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-01",
+    "skill_tags": [
+      "Java 17+"
+    ]
+  },
+  {
+    "id": "java_beg_res_002",
+    "title": "The Java™ Tutorials",
+    "url": "https://docs.oracle.com/javase/tutorial/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-01",
+    "skill_tags": [
+      "Core Java",
+      "OOP",
+      "Collections",
+      "Streams"
+    ]
+  },
+  {
+    "id": "java_beg_res_003",
+    "title": "JVM Tutorial - Java Virtual Machine Architecture Explained for Beginners",
+    "url": "https://www.freecodecamp.org/news/jvm-tutorial-java-virtual-machine-architecture-explained-for-beginners/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-01",
+    "skill_tags": [
+      "JVM"
+    ]
+  },
+  {
+    "id": "java_beg_res_004",
+    "title": "Using OOP concepts to write high-performance Java code",
+    "url": "https://www.freecodecamp.org/news/object-oriented-programming-concepts-in-java/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-01",
+    "skill_tags": [
+      "OOP"
+    ]
+  },
+  {
+    "id": "java_beg_res_005",
+    "title": "The Collections Framework - Dev.java",
+    "url": "https://dev.java/learn/api/collections-framework/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-01",
+    "skill_tags": [
+      "Collections"
+    ]
+  },
+  {
+    "id": "java_beg_res_006",
+    "title": "The Stream API - Dev.java",
+    "url": "https://dev.java/learn/api/streams/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-01",
+    "skill_tags": [
+      "Streams"
+    ]
+  },
+  {
+    "id": "java_beg_res_007",
+    "title": "Maven in 5 Minutes",
+    "url": "https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-02",
+    "skill_tags": [
+      "Maven",
+      "pom.xml"
+    ]
+  },
+  {
+    "id": "java_beg_res_008",
+    "title": "Gradle Guides",
+    "url": "https://gradle.org/guides/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-02",
+    "skill_tags": [
+      "Gradle",
+      "build.gradle"
+    ]
+  },
+  {
+    "id": "java_beg_res_009",
+    "title": "Spring Boot Tutorial for Beginners: Step-by-Step Guide",
+    "url": "https://www.youtube.com/watch?v=9SGDpanrc8U",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-03",
+    "skill_tags": [
+      "Spring Boot"
+    ]
+  },
+  {
+    "id": "java_beg_res_010",
+    "title": "Spring Boot - Annotations",
+    "url": "https://www.baeldung.com/spring-boot-annotations",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-03",
+    "skill_tags": [
+      "Annotations"
+    ]
+  },
+  {
+    "id": "java_beg_res_011",
+    "title": "Dependency injection in Spring",
+    "url": "https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-03",
+    "skill_tags": [
+      "Dependency Injection"
+    ]
+  },
+  {
+    "id": "java_beg_res_012",
+    "title": "Understanding BeanFactory and ApplicationContext in Spring Boot",
+    "url": "https://www.baeldung.com/spring-beanfactory-vs-applicationcontext",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-03",
+    "skill_tags": [
+      "Beans"
+    ]
+  },
+  {
+    "id": "java_beg_res_013",
+    "title": "How to Make a Simple RestController in Spring Boot?",
+    "url": "https://www.geeksforgeeks.org/how-to-make-a-simple-restcontroller-in-spring-boot/",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_id": "java-beg-03",
+    "skill_tags": [
+      "REST Controllers"
+    ]
+  },
+  {
+    "id": "java_int_res_001",
+    "title": "Comprehensive Guide to Spring Data JPA with Example Codes",
+    "url": "https://www.baeldung.com/the-persistence-layer-with-spring-and-jpa",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-01",
+    "skill_tags": [
+      "JPA",
+      "Repositories",
+      "JPQL"
+    ]
+  },
+  {
+    "id": "java_int_res_002",
+    "title": "Hibernate Tutorial - GeeksforGeeks",
+    "url": "https://www.geeksforgeeks.org/hibernate-tutorial/",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-01",
+    "skill_tags": [
+      "Hibernate"
+    ]
+  },
+  {
+    "id": "java_int_res_003",
+    "title": "Understanding JPA Relationships: @ManyToMany, @OneToMany, and @OneToOne",
+    "url": "https://www.baeldung.com/jpa-many-to-many",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-01",
+    "skill_tags": [
+      "Entity Relationships"
+    ]
+  },
+  {
+    "id": "java_int_res_004",
+    "title": "Spring Security Tutorial",
+    "url": "https://www.baeldung.com/spring-security-tutorial",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-02",
+    "skill_tags": [
+      "Spring Security",
+      "Authentication",
+      "Authorization"
+    ]
+  },
+  {
+    "id": "java_int_res_005",
+    "title": "Spring Security - Password Encoder",
+    "url": "https://www.baeldung.com/spring-security-5-password-storage",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-02",
+    "skill_tags": [
+      "PasswordEncoder"
+    ]
+  },
+  {
+    "id": "java_int_res_006",
+    "title": "Spring Security with JWT",
+    "url": "https://www.baeldung.com/spring-security-oauth-jwt",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-02",
+    "skill_tags": [
+      "JWT"
+    ]
+  },
+  {
+    "id": "java_int_res_007",
+    "title": "Database Migrations with Flyway",
+    "url": "https://flywaydb.org/documentation/getstarted/how",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-03",
+    "skill_tags": [
+      "Flyway",
+      "Schema Evolution"
+    ]
+  },
+  {
+    "id": "java_int_res_008",
+    "title": "Liquibase Tutorial: Learn to Manage Your Database Schema",
+    "url": "https://www.liquibase.com/blog/liquibase-tutorial-learn-to-manage-your-database-schema",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-03",
+    "skill_tags": [
+      "Liquibase"
+    ]
+  },
+  {
+    "id": "java_int_res_009",
+    "title": "JUnit 5 Tutorial (with Examples)",
+    "url": "https://www.baeldung.com/junit-5",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-04",
+    "skill_tags": [
+      "JUnit 5"
+    ]
+  },
+  {
+    "id": "java_int_res_010",
+    "title": "Unit tests with Mockito - Tutorial",
+    "url": "https://www.baeldung.com/mockito-tutorial",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-04",
+    "skill_tags": [
+      "Mockito"
+    ]
+  },
+  {
+    "id": "java_int_res_011",
+    "title": "Spring MVC Testing: SpringBootTest vs WebMvcTest",
+    "url": "https://www.baeldung.com/spring-boot-testing",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_id": "java-int-04",
+    "skill_tags": [
+      "@SpringBootTest",
+      "MockMvc"
+    ]
+  },
+  {
+    "id": "java_adv_res_001",
+    "title": "Multithreading in Java",
+    "url": "https://www.geeksforgeeks.org/multithreading-in-java/",
+    "format": "tutorial",
+    "difficulty": "advanced",
+    "skill_id": "java-adv-01",
+    "skill_tags": [
+      "Multithreading"
+    ]
+  },
+  {
+    "id": "java_adv_res_002",
+    "title": "Java 8 CompletableFuture Tutorial",
+    "url": "https://www.baeldung.com/java-completablefuture",
+    "format": "tutorial",
+    "difficulty": "advanced",
+    "skill_id": "java-adv-01",
+    "skill_tags": [
+      "CompletableFuture",
+      "@Async"
+    ]
+  },
+  {
+    "id": "java_adv_res_003",
+    "title": "Spring WebFlux Tutorial with CRUD Example",
+    "url": "https://www.baeldung.com/spring-webflux",
+    "format": "tutorial",
+    "difficulty": "advanced",
+    "skill_id": "java-adv-01",
+    "skill_tags": [
+      "Spring WebFlux"
+    ]
+  },
+  {
+    "id": "java_adv_res_004",
+    "title": "JMS Tutorials",
+    "url": "https://www.javatpoint.com/jms-tutorial",
+    "format": "tutorial",
+    "difficulty": "advanced",
+    "skill_id": "java-adv-02",
+    "skill_tags": [
+      "JMS"
+    ]
+  },
+  {
+    "id": "java_adv_res_005",
+    "title": "RabbitMQ Tutorials",
+    "url": "https://www.rabbitmq.com/tutorials/tutorial-one-java.html",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "java-adv-02",
+    "skill_tags": [
+      "RabbitMQ"
+    ]
+  },
+  {
+    "id": "java_adv_res_006",
+    "title": "Apache Kafka for Beginners",
+    "url": "http://www.youtube.com/watch?v=uvb00oaa3k8",
+    "format": "video",
+    "difficulty": "advanced",
+    "skill_id": "java-adv-02",
+    "skill_tags": [
+      "Kafka"
+    ]
+  },
+  {
+    "id": "java_adv_res_007",
+    "title": "RabbitMQ with Spring AMQP and Spring Boot",
+    "url": "https://www.baeldung.com/spring-amqp",
+    "format": "tutorial",
+    "difficulty": "advanced",
+    "skill_id": "java-adv-02",
+    "skill_tags": [
+      "Spring AMQP"
+    ]
+  },
+  {
+    "id": "java_adv_res_008",
+    "title": "Spring Cloud",
+    "url": "https://spring.io/projects/spring-cloud/",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "java-adv-03",
+    "skill_tags": [
+      "Docker",
+      "Kubernetes",
+      "Spring Cloud"
+    ]
+  },
+  {
+    "id": "java_adv_res_009",
+    "title": "Jetty vs. Netty: A Comprehensive Comparison for Site Reliability Engineers",
+    "url": "https://www.baeldung.com/jetty-vs-netty",
+    "format": "article",
+    "difficulty": "advanced",
+    "skill_id": "java-adv-03",
+    "skill_tags": [
+      "Tomcat",
+      "Jetty",
+      "Netty"
+    ]
+  },
+  {
+    "id": "js_beg_res_001",
+    "title": "ES6+ Features: Everything You Need to Know",
+    "url": "https://www.freecodecamp.org/news/es6-features-you-should-know/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "js-beg-01",
+    "skill_tags": [
+      "ES6+"
+    ]
+  },
+  {
+    "id": "js_beg_res_002",
+    "title": "Event Loop in Node.js",
+    "url": "https://www.freecodecamp.org/news/what-is-the-event-loop-in-javascript/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "js-beg-01",
+    "skill_tags": [
+      "Node.js",
+      "Event Loop"
+    ]
+  },
+  {
+    "id": "js_beg_res_003",
+    "title": "Callbacks vs Promises vs Async/Await",
+    "url": "https://www.geeksforgeeks.org/callbacks-vs-promises-vs-async-await-in-javascript/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "js-beg-01",
+    "skill_tags": [
+      "Async/Await",
+      "Callbacks"
+    ]
+  },
+  {
+    "id": "js_beg_res_004",
+    "title": "How to Use Async/Await in JavaScript",
+    "url": "https://www.freecodecamp.org/news/javascript-async-await/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "js-beg-01",
+    "skill_tags": [
+      "Async/Await"
+    ]
+  },
+  {
+    "id": "js_beg_res_005",
+    "title": "Testing Express Api with Jest and Supertest",
+    "url": "https://www.freecodecamp.org/news/testing-express-api-with-jest-and-supertest/",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_id": "js-beg-03",
+    "skill_tags": [
+      "Express.js",
+      "Routing",
+      "Middleware",
+      "Request/Response"
+    ]
+  },
+  {
+    "id": "js_beg_res_006",
+    "title": "npm Docs",
+    "url": "https://docs.npmjs.com/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "js-beg-02",
+    "skill_tags": [
+      "npm",
+      "yarn",
+      "package.json"
+    ]
+  },
+  {
+    "id": "js_int_res_001",
+    "title": "TypeScript for JavaScript Programmers",
+    "url": "https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_id": "js-int-01",
+    "skill_tags": [
+      "TypeScript",
+      "Types",
+      "Interfaces",
+      "tsc",
+      "ts-node"
+    ]
+  },
+  {
+    "id": "js_int_res_002",
+    "title": "Prisma ORM",
+    "url": "https://www.prisma.io/docs/getting-started/quickstart",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "js-int-02",
+    "skill_tags": [
+      "Prisma",
+      "ORM",
+      "Migrations",
+      "Query Builder"
+    ]
+  },
+  {
+    "id": "js_int_res_003",
+    "title": "Getting Started with Sequelize ORM",
+    "url": "https://sequelize.org/docs/v6/getting-started/",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_id": "js-int-02",
+    "skill_tags": [
+      "Sequelize",
+      "ORM"
+    ]
+  },
+  {
+    "id": "js_int_res_004",
+    "title": "Testing Express Api with Jest and Supertest",
+    "url": "https://www.freecodecamp.org/news/testing-express-api-with-jest-and-supertest/",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "js-int-03",
+    "skill_tags": [
+      "Jest",
+      "Supertest",
+      "Mocking",
+      "Unit/Integration Testing"
+    ]
+  },
+  {
+    "id": "js_int_res_005",
+    "title": "How To Implement JWT Authentication On Node.js",
+    "url": "https://www.freecodecamp.org/news/how-to-implement-jwt-authentication-on-node-js/",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "js-int-04",
+    "skill_tags": [
+      "JWT",
+      "Session Management",
+      "Security"
+    ]
+  },
+  {
+    "id": "js_int_res_006",
+    "title": "How to implement OAuth 2.0 with Passport.js",
+    "url": "https://www.freecodecamp.org/news/how-to-implement-oauth-2-0-with-passport-js/",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "js-int-04",
+    "skill_tags": [
+      "OAuth",
+      "Passport.js"
+    ]
+  },
+  {
+    "id": "js_adv_res_001",
+    "title": "First steps - NestJS",
+    "url": "https://docs.nestjs.com/first-steps",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "js-adv-01",
+    "skill_tags": [
+      "NestJS",
+      "Modules",
+      "Controllers",
+      "Providers",
+      "Dependency Injection"
+    ]
+  },
+  {
+    "id": "js_adv_res_002",
+    "title": "BullMQ - Fast and robust background job processing",
+    "url": "https://bullmq.io/docs/bootcamp/getting-started/",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "js-adv-02",
+    "skill_tags": [
+      "BullMQ"
+    ]
+  },
+  {
+    "id": "js_adv_res_003",
+    "title": "RabbitMQ Tutorials",
+    "url": "https://www.rabbitmq.com/tutorials/tutorial-one-javascript.html",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "js-adv-02",
+    "skill_tags": [
+      "RabbitMQ"
+    ]
+  },
+  {
+    "id": "js_adv_res_004",
+    "title": "Apache Kafka for Beginners",
+    "url": "http://www.youtube.com/watch?v=uvb00oaa3k8",
+    "format": "video",
+    "difficulty": "advanced",
+    "skill_id": "js-adv-02",
+    "skill_tags": [
+      "Kafka"
+    ]
+  },
+  {
+    "id": "js_adv_res_005",
+    "title": "PM2 Process Management Quick Start",
+    "url": "https://pm2.keymetrics.io/docs/usage/quick-start/",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "js-adv-03",
+    "skill_tags": [
+      "PM2"
+    ]
+  },
+  {
+    "id": "js_adv_res_006",
+    "title": "Nginx Beginner's Guide",
+    "url": "https://nginx.org/en/docs/beginners_guide.html",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "js-adv-03",
+    "skill_tags": [
+      "Nginx",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "id": "py_beg_res_001",
+    "title": "The Python Tutorial",
+    "url": "https://docs.python.org/3/tutorial/index.html",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "py-beg-01",
+    "skill_tags": [
+      "Python 3",
+      "Functions"
+    ]
+  },
+  {
+    "id": "py_beg_res_002",
+    "title": "Python Data Structures: Lists, Dictionaries, Sets, Tuples",
+    "url": "https://www.freecodecamp.org/news/python-data-structures-lists-tuples-dictionaries-sets/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "py-beg-01",
+    "skill_tags": [
+      "Data Structures"
+    ]
+  },
+  {
+    "id": "py_beg_res_003",
+    "title": "Object-Oriented Programming (OOP) in Python",
+    "url": "https://www.freecodecamp.org/news/object-oriented-programming-in-python/",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_id": "py-beg-01",
+    "skill_tags": [
+      "OOP"
+    ]
+  },
+  {
+    "id": "py_beg_res_004",
+    "title": "Python Exception Handling",
+    "url": "https://www.geeksforgeeks.org/python-exception-handling/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "py-beg-01",
+    "skill_tags": [
+      "Error Handling"
+    ]
+  },
+  {
+    "id": "py_beg_res_005",
+    "title": "pip and venv User Guide",
+    "url": "https://docs.python.org/3/tutorial/venv.html",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "py-beg-02",
+    "skill_tags": [
+      "pip",
+      "venv",
+      "requirements.txt"
+    ]
+  },
+  {
+    "id": "py_beg_res_006",
+    "title": "First Steps - FastAPI",
+    "url": "https://fastapi.tiangolo.com/tutorial/first-steps/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "py-beg-03",
+    "skill_tags": [
+      "FastAPI"
+    ]
+  },
+  {
+    "id": "py_beg_res_007",
+    "title": "FastAPI - Uvicorn",
+    "url": "https://www.uvicorn.org/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "py-beg-03",
+    "skill_tags": [
+      "Uvicorn"
+    ]
+  },
+  {
+    "id": "py_beg_res_008",
+    "title": "Understanding Query Params, Headers, and Body Params in FastAPI",
+    "url": "https://fastapi.tiangolo.com/tutorial/query-params/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "py-beg-03",
+    "skill_tags": [
+      "Path/Query Parameters"
+    ]
+  },
+  {
+    "id": "py_beg_res_009",
+    "title": "Pydantic: A Guide With Practical Examples",
+    "url": "https://docs.pydantic.dev/latest/",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "py-beg-03",
+    "skill_tags": [
+      "Pydantic"
+    ]
+  },
+  {
+    "id": "py_int_res_001",
+    "title": "Django for Beginners",
+    "url": "https://www.djangoproject.com/start/overview/",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_id": "py-int-01",
+    "skill_tags": [
+      "Django",
+      "Models",
+      "Views",
+      "Templates",
+      "Admin"
+    ]
+  },
+  {
+    "id": "py_int_res_002",
+    "title": "Setting Up a Django API with Django REST Framework (DRF): A Beginner’s Guide",
+    "url": "https://www.django-rest-framework.org/tutorial/quickstart/",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "py-int-02",
+    "skill_tags": [
+      "Django REST Framework",
+      "Serializers",
+      "ViewSets",
+      "Routers"
+    ]
+  },
+  {
+    "id": "py_int_res_003",
+    "title": "Django ORM - Python Tutorial",
+    "url": "https://docs.djangoproject.com/en/stable/topics/db/queries/",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_id": "py-int-01",
+    "skill_tags": [
+      "Django ORM"
+    ]
+  },
+  {
+    "id": "py_int_res_004",
+    "title": "Getting Started with SQLAlchemy ORM for Python",
+    "url": "https://docs.sqlalchemy.org/en/20/orm/tutorial.html",
+    "format": "tutorial",
+    "difficulty": "intermediate",
+    "skill_id": "py-int-03",
+    "skill_tags": [
+      "SQLAlchemy ORM",
+      "Sessions"
+    ]
+  },
+  {
+    "id": "py_int_res_005",
+    "title": "Handling Database Migrations with Alembic",
+    "url": "https://alembic.sqlalchemy.org/en/latest/tutorial.html",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_id": "py-int-03",
+    "skill_tags": [
+      "Alembic",
+      "Migrations"
+    ]
+  },
+  {
+    "id": "py_int_res_006",
+    "title": "Introduction to pytest: A Beginner's Guide",
+    "url": "https://docs.pytest.org/en/stable/getting-started.html",
+    "format": "documentation",
+    "difficulty": "intermediate",
+    "skill_id": "py-int-04",
+    "skill_tags": [
+      "Pytest",
+      "Fixtures",
+      "Mocking",
+      "TestClient"
+    ]
+  },
+  {
+    "id": "py_adv_res_001",
+    "title": "asyncio — Asynchronous I/O",
+    "url": "https://docs.python.org/3/library/asyncio.html",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "py-adv-01",
+    "skill_tags": [
+      "asyncio",
+      "async/await"
+    ]
+  },
+  {
+    "id": "py_adv_res_002",
+    "title": "aiohttp Python: A Beginner's Guide to Asynchronous HTTP Requests",
+    "url": "https://docs.aiohttp.org/en/stable/client_quickstart.html",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "py-adv-01",
+    "skill_tags": [
+      "aiohttp"
+    ]
+  },
+  {
+    "id": "py_adv_res_003",
+    "title": "Deploy an ASGI Django Application",
+    "url": "https://docs.djangoproject.com/en/stable/howto/deployment/asgi/",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "py-adv-01",
+    "skill_tags": [
+      "ASGI"
+    ]
+  },
+  {
+    "id": "py_adv_res_004",
+    "title": "First Steps with Celery",
+    "url": "https://docs.celeryq.dev/en/stable/getting-started/first-steps-with-celery.html",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "py-adv-02",
+    "skill_tags": [
+      "Celery",
+      "RabbitMQ"
+    ]
+  },
+  {
+    "id": "py_adv_res_005",
+    "title": "Redis Queue",
+    "url": "https://python-rq.org/",
+    "format": "documentation",
+    "difficulty": "advanced",
+    "skill_id": "py-adv-02",
+    "skill_tags": [
+      "Redis Queue"
+    ]
+  },
+  {
+    "id": "py_adv_res_006",
+    "title": "Gunicorn vs Uvicorn",
+    "url": "http://www.youtube.com/watch?v=fE8s6H1yqxc",
+    "format": "video",
+    "difficulty": "advanced",
+    "skill_id": "py-adv-03",
+    "skill_tags": [
+      "Gunicorn",
+      "Uvicorn",
+      "Nginx",
+      "Docker",
+      "Kubernetes"
+    ]
+  }
+]

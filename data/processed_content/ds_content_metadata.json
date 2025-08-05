@@ -1,0 +1,258 @@
+[
+  {
+    "id": "ds_beg_res_001",
+    "title": "Introduction to Data Science with Python",
+    "url": "https://www.youtube.com/playlist?list=PLS1QulWo1RIbIlb85P5cRDOZbnPyQ6m9v",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_id": "ds-beg-01",
+    "skill_tags": [
+      "Python",
+      "NumPy",
+      "Pandas",
+      "Matplotlib"
+    ]
+  },
+  {
+    "id": "ds_beg_res_002",
+    "title": "NumPy quickstart",
+    "url": "https://numpy.org/doc/stable/user/quickstart.html",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "ds-beg-01",
+    "skill_tags": [
+      "NumPy"
+    ]
+  },
+  {
+    "id": "ds_beg_res_003",
+    "title": "Pandas Tutorial: The Ultimate Guide for Beginners",
+    "url": "https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_id": "ds-beg-01",
+    "skill_tags": [
+      "Pandas"
+    ]
+  },
+  {
+    "id": "ds_beg_res_004",
+    "title": "Matplotlib Tutorial",
+    "url": "https://matplotlib.org/stable/tutorials/index.html",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_id": "ds-beg-01",
+    "skill_tags": [
+      "Matplotlib"
+    ]
+  },
+  {
+    "id": "ds_beg_res_005",
+    "title": "Seaborn: statistical data visualization",
+    "url": "https://seaborn.pydata.org/tutorial.html",
+    "format": "documentation",
+    "difficulty": "beginner",
+    "skill_id": "ds-beg-01",
+    "skill_tags": [
+      "Seaborn"
+    ]
+  },
+  {
+    "id": "ds_beg_res_006",
+    "title": "How to Use Jupyter Notebook: A Beginner's Tutorial",
+    "url": "https://jupyter.org/try",
+    "format": "tutorial",
+    "difficulty": "beginner",
+    "skill_id": "ds-beg-01",
+    "skill_tags": [
+      "Jupyter Notebook"
+    ]
+  },
+  {
+    "id": "ds_beg_res_007",
+    "title": "Linear Algebra required for Data Science",
+    "url": "https://www.youtube.com/playlist?list=PLB3yPBd26tWyDNoUpEGVsyI-sygPLqYa1",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_id": "ds-beg-02",
+    "skill_tags": [
+      "Linear Algebra",
+      "Vectors",
+      "Matrices"
+    ]
+  },
+  {
+    "id": "ds_beg_res_008",
+    "title": "Mastering Calculus for Machine Learning: Key Concepts and Applications",
+    "url": "https://www.youtube.com/watch?v=0-reLsDhAPg",
+    "format": "video",
+    "difficulty": "beginner",
+    "skill_id": "ds-beg-02",
+    "skill_tags": [
+      "Calculus",
+      "Derivatives",
+      "Gradients"
+    ]
+  },
+  {
+    "id": "ds_beg_res_009",
+    "title": "Hypothesis Testing: Types, Steps, Formula, and Examples",
+    "url": "https://www.freecodecamp.org/news/hypothesis-testing-in-statistics/",
+    "format": "article",
+    "difficulty": "beginner",
+    "skill_id": "ds-beg-03",
+    "skill_tags": [
+      "Probability",
+      "Descriptive Statistics",
+      "Inferential Statistics",
+      "Hypothesis Testing",
+      "p-value"
+    ]
+  },
+  {
+    "id": "ds_beg_res_010",
+    "title": "Pandas Kaggle Course",
+    "url": "https://www.kaggle.com/learn/pandas",
+    "format": "course",
+    "difficulty": "beginner",
+    "skill_id": "ds-beg-04",
+    "skill_tags": [
+      "Data Cleaning",
+      "Handling Missing Values",
+      "Data Transformation",
+      "EDA",
+      "Data Visualization"
+    ]
+  },
+  {
+    "id": "ds_int_res_001",
+    "title": "What is supervised learning?",
+    "url": "https://www.youtube.com/shorts/szk_3FXpkY0",
+    "format": "video",
+    "difficulty": "intermediate",
+    "skill_id": "ds-int-01",
+    "skill_tags": [
+      "Linear Regression",
+      "Logistic Regression",
+      "SVM",
+      "Decision Trees",
+      "Random Forest",
+      "XGBoost"
+    ]
+  },
+  {
+    "id": "ds_int_res_002",
+    "title": "Unsupervised Learning and Data Clustering",
+    "url": "https://www.youtube.com/watch?v=gGjW1ECTN1Q",
+    "format": "video",
+    "difficulty": "intermediate",
+    "skill_id": "ds-int-02",
+    "skill_tags": [
+      "K-Means Clustering",
+      "Hierarchical Clustering",
+      "PCA",
+      "t-SNE",
+      "Dimensionality Reduction"
+    ]
+  },
+  {
+    "id": "ds_int_res_003",
+    "title": "Evaluating a Machine Learning Model",
+    "url": "https://www.jeremyjordan.me/evaluating-a-machine-learning-model/",
+    "format": "article",
+    "difficulty": "intermediate",
+    "skill_id": "ds-int-03",
+    "skill_tags": [
+      "Cross-Validation",
+      "Confusion Matrix",
+      "AUC-ROC",
+      "Precision-Recall",
+      "F1-Score",
+      "MSE",
+      "Bias-Variance Tradeoff"
+    ]
+  },
+  {
+    "id": "ds_int_res_004",
+    "title": "Feature Engineering",
+    "url": "https://www.kaggle.com/learn/feature-engineering",
+    "format": "course",
+    "difficulty": "intermediate",
+    "skill_id": "ds-int-04",
+    "skill_tags": [
+      "Feature Creation",
+      "One-Hot Encoding",
+      "Feature Scaling",
+      "Binning",
+      "Feature Importance"
+    ]
+  },
+  {
+    "id": "ds_adv_res_001",
+    "title": "Deep Learning Tutorial",
+    "url": "http://deeplearning.stanford.edu/tutorial/",
+    "format": "tutorial",
+    "difficulty": "advanced",
+    "skill_id": "ds-adv-01",
+    "skill_tags": [
+      "Deep Learning",
+      "Neural Networks",
+      "TensorFlow",
+      "PyTorch",
+      "Keras",
+      "Backpropagation",
+      "CNN",
+      "RNN"
+    ]
+  },
+  {
+    "id": "ds_adv_res_002",
+    "title": "The Hugging Face Course",
+    "url": "https://huggingface.co/learn/nlp-course/chapter1/1",
+    "format": "course",
+    "difficulty": "advanced",
+    "skill_id": "ds-adv-02",
+    "skill_tags": [
+      "NLP",
+      "Text Preprocessing",
+      "Embeddings",
+      "Word2Vec",
+      "BERT",
+      "Transformers",
+      "Hugging Face"
+    ]
+  },
+  {
+    "id": "ds_adv_res_003",
+    "title": "MLOps Tutorial",
+    "url": "https://m.youtube.com/watch?v=w71RHxAWxaM&t=114",
+    "format": "video",
+    "difficulty": "advanced",
+    "skill_id": "ds-adv-03",
+    "skill_tags": [
+      "MLOps",
+      "Model Deployment",
+      "API Serving",
+      "Docker",
+      "Kubernetes",
+      "MLflow",
+      "Model Monitoring"
+    ]
+  },
+  {
+    "id": "ds_adv_res_004",
+    "title": "PySpark Tutorial",
+    "url": "https://www.youtube.com/watch?v=u_EDaJm-UJ0",
+    "format": "video",
+    "difficulty": "advanced",
+    "skill_id": "ds-adv-04",
+    "skill_tags": [
+      "Big Data",
+      "Apache Spark",
+      "PySpark",
+      "Hadoop",
+      "Distributed Computing",
+      "Data Lakes"
+    ]
+  }
+]
