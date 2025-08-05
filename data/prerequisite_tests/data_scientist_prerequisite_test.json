@@ -1,0 +1,60 @@
+{
+  "topic": "Data Scientist - Prerequisite Test",
+  "questions": [
+    {
+      "id": "ds_pre_q001",
+      "question": "What is Python, and why is it popular for data science?",
+      "associated_skills": ["Python", "Programming for Data Science"]
+    },
+    {
+      "id": "ds_pre_q002",
+      "question": "What is the primary purpose of the NumPy library in Python?",
+      "associated_skills": ["NumPy", "Python", "Programming for Data Science"]
+    },
+    {
+      "id": "ds_pre_q003",
+      "question": "What is a Jupyter Notebook and why is it useful for data exploration?",
+      "associated_skills": ["Jupyter Notebook", "EDA", "Programming for Data Science"]
+    },
+    {
+      "id": "ds_pre_q004",
+      "question": "In mathematics, what is a vector?",
+      "associated_skills": ["Linear Algebra", "Vectors", "Foundational Mathematics"]
+    },
+    {
+      "id": "ds_pre_q005",
+      "question": "In linear algebra, what is a matrix?",
+      "associated_skills": ["Matrices", "Linear Algebra", "Foundational Mathematics"]
+    },
+    {
+      "id": "ds_pre_q006",
+      "question": "What is a derivative in calculus?",
+      "associated_skills": ["Calculus", "Derivatives", "Foundational Mathematics"]
+    },
+    {
+      "id": "ds_pre_q007",
+      "question": "What is the basic idea of probability?",
+      "associated_skills": ["Probability", "Core Statistical Concepts"]
+    },
+    {
+      "id": "ds_pre_q008",
+      "question": "What is the difference between descriptive and inferential statistics?",
+      "associated_skills": ["Descriptive Statistics", "Inferential Statistics", "Core Statistical Concepts"]
+    },
+    {
+      "id": "ds_pre_q009",
+      "question": "What does 'data cleaning' mean?",
+      "associated_skills": ["Data Cleaning", "Data Wrangling and EDA"]
+    },
+    {
+      "id": "ds_pre_q010",
+      "question": "What is 'data transformation' in the context of preparing data for analysis?",
+      "associated_skills": ["Data Transformation", "Data Wrangling and EDA"]
+    },
+    {
+      "id": "ds_pre_q011",
+      "question": "What is the Pandas library in Python used for?",
+      "associated_skills": ["Pandas", "Programming for Data Science"]
+    }
+  ]
+}

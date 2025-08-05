@@ -1,0 +1,65 @@
+{
+  "topic": "Backend Python Engineer - Prerequisite Test",
+  "questions": [
+    {
+      "id": "be_py_pre_q001",
+      "question": "What is the primary role of HTTP in how the internet works?",
+      "associated_skills": ["HTTP/HTTPS", "How the Internet Works"]
+    },
+    {
+      "id": "be_py_pre_q002",
+      "question": "What is the primary function of a DNS (Domain Name System)?",
+      "associated_skills": ["DNS", "Domain Name", "How the Internet Works"]
+    },
+    {
+      "id": "be_py_pre_q003",
+      "question": "In a terminal, what is the command to see your current directory location?",
+      "associated_skills": ["Terminal usage", "ls, cd, pwd, grep, curl"]
+    },
+    {
+      "id": "be_py_pre_q004",
+      "question": "What is the purpose of the 'git init' command?",
+      "associated_skills": ["git", "repository", "version control"]
+    },
+    {
+      "id": "be_py_pre_q005",
+      "question": "What does the command `git commit -m 'Your message'` do?",
+      "associated_skills": ["git", "commit", "version control"]
+    },
+    {
+      "id": "be_py_pre_q006",
+      "question": "How do you define a function in Python?",
+      "associated_skills": ["Python 3", "Functions", "Core Python"]
+    },
+    {
+      "id": "be_py_pre_q007",
+      "question": "What is the purpose of a `try...except` block in Python?",
+      "associated_skills": ["Error Handling", "Core Python"]
+    },
+    {
+      "id": "be_py_pre_q008",
+      "question": "What is the role of 'pip' in the Python ecosystem?",
+      "associated_skills": ["pip", "Package Management"]
+    },
+    {
+      "id": "be_py_pre_q009",
+      "question": "What is the purpose of a `requirements.txt` file?",
+      "associated_skills": ["pip", "venv", "requirements.txt"]
+    },
+    {
+      "id": "be_py_pre_q010",
+      "question": "In a relational database, what is a 'table'?",
+      "associated_skills": ["Tables", "Columns", "SQL"]
+    },
+    {
+      "id": "be_py_pre_q011",
+      "question": "What is FastAPI?",
+      "associated_skills": ["FastAPI", "Basic Web Framework"]
+    },
+    {
+      "id": "be_py_pre_q012",
+      "question": "In Python, what is a key difference between a list and a tuple?",
+      "associated_skills": ["Data Structures", "Core Python"]
+    }
+  ]
+}

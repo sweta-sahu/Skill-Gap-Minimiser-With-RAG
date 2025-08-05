@@ -1,0 +1,107 @@
+{
+  "topic": "Backend Java Engineer - Prerequisite Test",
+  "questions": [
+    {
+      "id": "be_pre_q001",
+      "question": "What is the main difference between HTTP and HTTPS?",
+      "associated_skills": [
+        "HTTP/HTTPS",
+        "How the Internet Works"
+      ]
+    },
+    {
+      "id": "be_pre_q002",
+      "question": "Explain the role of a DNS in networking.",
+      "associated_skills": [
+        "DNS",
+        "Domain Name",
+        "How the Internet Works"
+      ]
+    },
+    {
+      "id": "be_pre_q003",
+      "question": "Briefly describe the concept of web hosting.",
+      "associated_skills": [
+        "Hosting",
+        "How the Internet Works"
+      ]
+    },
+    {
+      "id": "be_pre_q004",
+      "question": "What is the command to list all files and directories in the current working directory in a Unix-like terminal?",
+      "associated_skills": [
+        "Terminal usage",
+        "ls, cd, pwd, grep, curl"
+      ]
+    },
+    {
+      "id": "be_pre_q005",
+      "question": "What is the purpose of the 'git clone' command?",
+      "associated_skills": [
+        "git",
+        "repository",
+        "version control"
+      ]
+    },
+    {
+      "id": "be_pre_q006",
+      "question": "What does the 'git commit' command do?",
+      "associated_skills": [
+        "git",
+        "commit",
+        "version control"
+      ]
+    },
+    {
+      "id": "be_pre_q007",
+      "question": "In one sentence, what is the Java Virtual Machine (JVM)?",
+      "associated_skills": [
+        "JVM",
+        "Core Java"
+      ]
+    },
+    {
+      "id": "be_pre_q008",
+      "question": "What does the principle of Encapsulation mean in Object-Oriented Programming?",
+      "associated_skills": [
+        "OOP",
+        "Core Java"
+      ]
+    },
+    {
+      "id": "be_pre_q009",
+      "question": "What is a primary key in a relational database table?",
+      "associated_skills": [
+        "SQL",
+        "Primary Keys",
+        "Relational Databases"
+      ]
+    },
+    {
+      "id": "be_pre_q010",
+      "question": "What is the basic SQL statement used to retrieve data from a table?",
+      "associated_skills": [
+        "SQL",
+        "SELECT, INSERT, UPDATE, DELETE",
+        "Relational Databases"
+      ]
+    },
+    {
+      "id": "be_pre_q011",
+      "question": "What is the primary goal of Spring Boot?",
+      "associated_skills": [
+        "Spring Boot",
+        "Intro to Spring Boot"
+      ]
+    },
+    {
+      "id": "be_pre_q012",
+      "question": "In Java, what is a simple way to store an ordered collection of elements that can contain duplicates?",
+      "associated_skills": [
+        "Collections",
+        "Core Java",
+        "Data Structures"
+      ]
+    }
+  ]
+}

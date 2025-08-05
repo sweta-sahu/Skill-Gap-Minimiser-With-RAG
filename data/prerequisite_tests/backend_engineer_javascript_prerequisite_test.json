@@ -1,0 +1,65 @@
+{
+  "topic": "Backend JS/TS Engineer - Prerequisite Test",
+  "questions": [
+    {
+      "id": "be_js_pre_q001",
+      "question": "What is the primary difference between HTTP and HTTPS?",
+      "associated_skills": ["HTTP/HTTPS", "How the Internet Works"]
+    },
+    {
+      "id": "be_js_pre_q002",
+      "question": "What is the purpose of a Domain Name System (DNS)?",
+      "associated_skills": ["DNS", "Domain Name"]
+    },
+    {
+      "id": "be_js_pre_q003",
+      "question": "In the context of Git, what does the 'git clone' command do?",
+      "associated_skills": ["git", "repository", "version control"]
+    },
+    {
+      "id": "be_js_pre_q004",
+      "question": "What is the purpose of the 'git commit' command?",
+      "associated_skills": ["git", "commit", "repository"]
+    },
+    {
+      "id": "be_js_pre_q005",
+      "question": "In a command-line terminal, what does the 'cd' command do?",
+      "associated_skills": ["Terminal usage", "ls, cd, pwd, grep, curl"]
+    },
+    {
+      "id": "be_js_pre_q006",
+      "question": "What is Node.js and why is it used for backend development?",
+      "associated_skills": ["Node.js", "Core JavaScript"]
+    },
+    {
+      "id": "be_js_pre_q007",
+      "question": "What is the basic purpose of using 'async/await' in JavaScript?",
+      "associated_skills": ["Async/Await", "Callbacks", "ES6+"]
+    },
+    {
+      "id": "be_js_pre_q008",
+      "question": "What is the role of the 'package.json' file in a Node.js project?",
+      "associated_skills": ["package.json", "npm", "yarn"]
+    },
+    {
+      "id": "be_js_pre_q009",
+      "question": "What does the command 'npm install' do?",
+      "associated_skills": ["npm", "Package Management"]
+    },
+    {
+      "id": "be_js_pre_q010",
+      "question": "What is a primary key in a relational database?",
+      "associated_skills": ["Primary Keys", "SQL", "Relational Databases"]
+    },
+    {
+      "id": "be_js_pre_q011",
+      "question": "What is Express.js?",
+      "associated_skills": ["Express.js", "Web Framework"]
+    },
+    {
+      "id": "be_js_pre_q012",
+      "question": "What is the difference between using 'let' and 'const' to declare a variable in JavaScript?",
+      "associated_skills": ["ES6+", "Core JavaScript"]
+    }
+  ]
+}
