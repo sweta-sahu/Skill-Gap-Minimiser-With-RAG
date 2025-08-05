@@ -2,22 +2,22 @@
   "topic": "AI and Data Science - Advanced",
   "skills": [
     {
-      "skill_id": "ai-adv-01",
+      "skill_id": "ds-adv-01",
       "skill_name": "Deep Learning and Neural Networks",
       "keywords": ["Deep Learning", "Neural Networks", "TensorFlow", "PyTorch", "Keras", "Backpropagation", "CNN", "RNN"]
     },
     {
-      "skill_id": "ai-adv-02",
+      "skill_id": "ds-adv-02",
       "skill_name": "Natural Language Processing (NLP)",
       "keywords": ["NLP", "Text Preprocessing", "Embeddings", "Word2Vec", "BERT", "Transformers", "Hugging Face"]
     },
     {
-      "skill_id": "ai-adv-03",
+      "skill_id": "ds-adv-03",
       "skill_name": "ML in Production (MLOps)",
       "keywords": ["MLOps", "Model Deployment", "API Serving", "Docker", "Kubernetes", "MLflow", "Model Monitoring"]
     },
     {
-      "skill_id": "ai-adv-04",
+      "skill_id": "ds-adv-04",
       "skill_name": "Big Data Technologies",
       "keywords": ["Big Data", "Apache Spark", "PySpark", "Hadoop", "Distributed Computing", "Data Lakes"]
     }

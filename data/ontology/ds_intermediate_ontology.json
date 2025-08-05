@@ -2,22 +2,22 @@
   "topic": "AI and Data Science - Intermediate",
   "skills": [
     {
-      "skill_id": "ai-int-01",
+      "skill_id": "ds-int-01",
       "skill_name": "Supervised Learning Algorithms",
       "keywords": ["Linear Regression", "Logistic Regression", "SVM", "Decision Trees", "Random Forest", "XGBoost"]
     },
     {
-      "skill_id": "ai-int-02",
+      "skill_id": "ds-int-02",
       "skill_name": "Unsupervised Learning Techniques",
       "keywords": ["K-Means Clustering", "Hierarchical Clustering", "PCA", "t-SNE", "Dimensionality Reduction"]
     },
     {
-      "skill_id": "ai-int-03",
+      "skill_id": "ds-int-03",
       "skill_name": "Model Evaluation and Validation",
       "keywords": ["Cross-Validation", "Confusion Matrix", "AUC-ROC", "Precision-Recall", "F1-Score", "MSE", "Bias-Variance Tradeoff"]
     },
     {
-      "skill_id": "ai-int-04",
+      "skill_id": "ds-int-04",
       "skill_name": "Feature Engineering and Selection",
       "keywords": ["Feature Creation", "One-Hot Encoding", "Feature Scaling", "Binning", "Feature Importance"]
     }
