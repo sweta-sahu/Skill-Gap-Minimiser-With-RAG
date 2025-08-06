@@ -1,0 +1,65 @@
+{
+  "topic": "Deep Learning and Model Training",
+  "questions": [
+    {
+      "id": "aie_int_q001",
+      "question": "What is a convolutional layer and how does it work?",
+      "associated_skills": ["CNN", "Convolutional Layer"]
+    },
+    {
+      "id": "aie_int_q002",
+      "question": "Describe the pooling layer in CNNs.",
+      "associated_skills": ["Pooling Layers", "CNN"]
+    },
+    {
+      "id": "aie_int_q003",
+      "question": "What is backpropagation?",
+      "associated_skills": ["Neural Networks", "Training Algorithms"]
+    },
+    {
+      "id": "aie_int_q004",
+      "question": "Explain the vanishing gradient problem.",
+      "associated_skills": ["Gradient Descent", "RNNs"]
+    },
+    {
+      "id": "aie_int_q005",
+      "question": "How do LSTMs solve long-term dependency issues?",
+      "associated_skills": ["RNNs", "LSTM"]
+    },
+    {
+      "id": "aie_int_q006",
+      "question": "Differentiate between ReLU, sigmoid, and tanh.",
+      "associated_skills": ["Activation Functions"]
+    },
+    {
+      "id": "aie_int_q007",
+      "question": "How does dropout help prevent overfitting?",
+      "associated_skills": ["Regularization"]
+    },
+    {
+      "id": "aie_int_q008",
+      "question": "Describe how batch normalization works.",
+      "associated_skills": ["Normalization", "Training Stability"]
+    },
+    {
+      "id": "aie_int_q009",
+      "question": "What is a learning rate and how does it impact training?",
+      "associated_skills": ["Optimization", "Training"]
+    },
+    {
+      "id": "aie_int_q010",
+      "question": "Compare SGD, Adam, and RMSprop optimizers.",
+      "associated_skills": ["Optimizers"]
+    },
+    {
+      "id": "aie_int_q011",
+      "question": "What are embeddings in machine learning?",
+      "associated_skills": ["Embeddings", "Representation Learning"]
+    },
+    {
+      "id": "aie_int_q012",
+      "question": "Explain the role of an epoch and a batch in training.",
+      "associated_skills": ["Model Training"]
+    }
+  ]
+}

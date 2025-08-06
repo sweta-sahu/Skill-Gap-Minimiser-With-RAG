@@ -1,0 +1,70 @@
+{
+  "topic": "Analytics Projects, Advanced SQL, and Statistical Thinking",
+  "questions": [
+    {
+      "id": "da_adv_q001",
+      "question": "Explain how SQL window functions work. Provide examples using RANK() or ROW_NUMBER().",
+      "associated_skills": ["SQL", "Window Functions"]
+    },
+    {
+      "id": "da_adv_q002",
+      "question": "How would you design and validate an A/B test?",
+      "associated_skills": ["Experiment Design", "Statistics", "A/B Testing"]
+    },
+    {
+      "id": "da_adv_q003",
+      "question": "What is multicollinearity and how does it affect regression models?",
+      "associated_skills": ["Regression", "Multicollinearity"]
+    },
+    {
+      "id": "da_adv_q004",
+      "question": "Describe how you would build a sales dashboard. What metrics would you include?",
+      "associated_skills": ["KPI Design", "Dashboarding", "Power BI", "Tableau"]
+    },
+    {
+      "id": "da_adv_q005",
+      "question": "What is the ETL process? Describe each step with tools you’d use.",
+      "associated_skills": ["ETL", "Data Engineering"]
+    },
+    {
+      "id": "da_adv_q006",
+      "question": "How can you ensure data quality and integrity in a pipeline?",
+      "associated_skills": ["Data Validation", "Monitoring"]
+    },
+    {
+      "id": "da_adv_q007",
+      "question": "Compare NoSQL and relational databases. When would you choose one over the other?",
+      "associated_skills": ["Database Design", "SQL", "NoSQL"]
+    },
+    {
+      "id": "da_adv_q008",
+      "question": "What’s the difference between linear regression and logistic regression?",
+      "associated_skills": ["Regression", "Classification"]
+    },
+    {
+      "id": "da_adv_q009",
+      "question": "How would you structure a data analyst portfolio project?",
+      "associated_skills": ["Portfolio Building", "Project Design"]
+    },
+    {
+      "id": "da_adv_q010",
+      "question": "Describe the use of hypothesis testing in real-world business decisions.",
+      "associated_skills": ["Hypothesis Testing", "Statistics"]
+    },
+    {
+      "id": "da_adv_q011",
+      "question": "What are confidence intervals? How are they interpreted?",
+      "associated_skills": ["Confidence Intervals", "Statistical Inference"]
+    },
+    {
+      "id": "da_adv_q012",
+      "question": "How would you evaluate model performance in a classification task?",
+      "associated_skills": ["Model Evaluation", "Classification", "Precision/Recall"]
+    },
+    {
+      "id": "da_adv_q013",
+      "question": "What are the key elements of a good data storytelling presentation?",
+      "associated_skills": ["Data Communication", "Storytelling"]
+    }
+  ]
+}

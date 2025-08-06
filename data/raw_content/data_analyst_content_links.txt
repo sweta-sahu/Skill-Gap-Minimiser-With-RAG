@@ -1,10 +1,45 @@
-https://realpython.com/pandas-drop-na-fillna/
-https://www.geeksforgeeks.org/python-pandas-convert-dataframe-column-type/
-https://towardsdatascience.com/pandas-how-to-remove-duplicate-rows-from-a-dataframe-4081c7f465a3
-https://www.datacamp.com/tutorial/pandas-filter-dataframe-rows-columns
-https://www.kaggle.com/code/learn/pandas/apply-map
-https://www.youtube.com/watch?v=VMzIu2eG2kU (Pandas Missing Data)
-https://www.youtube.com/watch?v=f0b2p2x8Q4Y (Pandas Data Types)
-https://www.youtube.com/watch?v=s5Fz_S6hK6I (Pandas Duplicates)
-https://www.youtube.com/watch?v=Q-f2f2s-vL0 (Pandas Melt)
-https://www.tutorialspoint.com/python_pandas/python_pandas_apply_function.htm
+[https://roadmap.sh/data-analyst](Beginner - Data Analyst Roadmap)
+
+[https://www.kaggle.com/learn/pandas](Beginner - Pandas Course - Kaggle)
+
+[https://www.datacamp.com/courses/intro-to-python-for-data-science](Beginner - DataCamp: Intro to Python for Data Science)
+
+[https://www.codecademy.com/learn/learn-sql](Beginner - Learn SQL - Codecademy)
+
+[https://learn.microsoft.com/en-us/power-bi/](Beginner - Microsoft Power BI Documentation)
+
+[https://www.coursera.org/learn/excel-essentials](Beginner - Excel Skills for Business - Coursera)
+
+[https://www.youtube.com/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f](Beginner - Data Analysis with Python - Alex the Analyst)
+
+[https://mode.com/sql-tutorial/](Intermediate - Mode SQL Tutorial)
+
+[https://www.kaggle.com/learn/data-cleaning](Intermediate - Kaggle: Data Cleaning Course)
+
+[https://www.udacity.com/course/intro-to-data-analysis--ud170](Intermediate - Udacity: Intro to Data Analysis)
+
+[https://realpython.com/pandas-python-explore-dataset/](Intermediate - Exploratory Data Analysis with Pandas)
+
+[https://www.coursera.org/learn/statistical-inference](Intermediate - Statistical Inference - Johns Hopkins)
+
+[https://datavizcatalogue.com/](Intermediate - Data Visualization Techniques Catalog)
+
+[https://www.tableau.com/learn/training](Intermediate - Tableau Training Resources)
+
+[https://learn.microsoft.com/en-us/sql/](Intermediate - SQL Server Docs & Advanced Features)
+
+[https://archive.ics.uci.edu/ml/index.php](Advanced - UCI ML Repository: Data Sets for Analysis Practice)
+
+[https://towardsdatascience.com/](Advanced - Articles on Data Science & Analysis - Medium)
+
+[https://www.dataquest.io/blog/data-analyst-portfolio-project/](Advanced - Build a Data Analyst Portfolio)
+
+[https://datacarpentry.org/](Advanced - Data Carpentry: Practical Data Skills for Researchers)
+
+[https://www.youtube.com/@KenJee_DS](Advanced - Ken Jee: Advanced Analytics & Career Projects)
+
+[https://mode.com/sql-tutorial/sql-window-functions/](Advanced - SQL Window Functions - Mode Analytics)
+
+[https://cran.r-project.org/doc/manuals/r-release/R-intro.html](Advanced - R Programming Manual for Data Analysis)
+
+[https://r4ds.hadley.nz/](Advanced - R for Data Science Book)

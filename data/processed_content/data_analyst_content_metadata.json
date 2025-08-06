@@ -1,82 +1,236 @@
 [
   {
-    "id": "da_res_001",
-    "title": "Handling Missing Data in Pandas with dropna() and fillna()",
-    "url": "https://realpython.com/pandas-drop-na-fillna/",
-    "format": "article",
-    "difficulty": "beginner",
-    "skill_tags": ["Handling Missing Values", "Data Type Conversion"]
+    "id":"da_res_001",
+    "title":"Data Analyst Roadmap",
+    "url":"https:\/\/roadmap.sh\/data-analyst",
+    "format":"tutorial",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "Data Analysis"
+    ]
   },
   {
-    "id": "da_res_002",
-    "title": "Python Pandas: Convert DataFrame Column Type",
-    "url": "https://www.geeksforgeeks.org/python-pandas-convert-dataframe-column-type/",
-    "format": "article",
-    "difficulty": "beginner",
-    "skill_tags": ["Data Type Conversion"]
+    "id":"da_res_002",
+    "title":"Pandas Course - Kaggle",
+    "url":"https:\/\/www.kaggle.com\/learn\/pandas",
+    "format":"course",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "Pandas",
+      "Python"
+    ]
   },
   {
-    "id": "da_res_003",
-    "title": "Pandas: How to Remove Duplicate Rows from a DataFrame",
-    "url": "https://towardsdatascience.com/pandas-how-to-remove-duplicate-rows-from-a-dataframe-4081c7f465a3",
-    "format": "article",
-    "difficulty": "beginner",
-    "skill_tags": ["Removing Duplicates"]
+    "id":"da_res_003",
+    "title":"DataCamp: Intro to Python for Data Science",
+    "url":"https:\/\/www.datacamp.com\/courses\/intro-to-python-for-data-science",
+    "format":"course",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "Pandas",
+      "Python"
+    ]
   },
   {
-    "id": "da_res_004",
-    "title": "Pandas Filter DataFrame Rows and Columns",
-    "url": "https://www.datacamp.com/tutorial/pandas-filter-dataframe-rows-columns",
-    "format": "article",
-    "difficulty": "beginner",
-    "skill_tags": ["Filtering and Subsetting Data"]
+    "id":"da_res_004",
+    "title":"Learn SQL - Codecademy",
+    "url":"https:\/\/www.codecademy.com\/learn\/learn-sql",
+    "format":"course",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "SQL"
+    ]
   },
   {
-    "id": "da_res_005",
-    "title": "Pandas apply() vs map() vs applymap()",
-    "url": "https://www.kaggle.com/code/learn/pandas/apply-map",
-    "format": "notebook/tutorial",
-    "difficulty": "intermediate",
-    "skill_tags": ["Applying Functions (apply/map)"]
+    "id":"da_res_005",
+    "title":"Microsoft Power BI Documentation",
+    "url":"https:\/\/learn.microsoft.com\/en-us\/power-bi\/",
+    "format":"documentation",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "Power BI"
+    ]
   },
   {
-    "id": "da_res_006",
-    "title": "Pandas Tutorial: Working with Missing Data",
-    "url": "https://www.youtube.com/watch?v=VMzIu2eG2kU",
-    "format": "video",
-    "difficulty": "beginner",
-    "skill_tags": ["Handling Missing Values"]
+    "id":"da_res_006",
+    "title":"Excel Skills for Business - Coursera",
+    "url":"https:\/\/www.coursera.org\/learn\/excel-essentials",
+    "format":"course",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "Excel"
+    ]
   },
   {
-    "id": "da_res_007",
-    "title": "Pandas Data Types Explained Simply",
-    "url": "https://www.youtube.com/watch?v=f0b2p2x8Q4Y",
-    "format": "video",
-    "difficulty": "beginner",
-    "skill_tags": ["Data Type Conversion"]
+    "id":"da_res_007",
+    "title":"Data Analysis with Python - Alex the Analyst",
+    "url":"https:\/\/www.youtube.com\/playlist?list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f",
+    "format":"video",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "Pandas",
+      "Python"
+    ]
   },
   {
-    "id": "da_res_008",
-    "title": "How to Remove Duplicate Rows in Pandas DataFrame",
-    "url": "https://www.youtube.com/watch?v=s5Fz_S6hK6I",
-    "format": "video",
-    "difficulty": "beginner",
-    "skill_tags": ["Removing Duplicates"]
+    "id":"da_res_008",
+    "title":"Mode SQL Tutorial",
+    "url":"https:\/\/mode.com\/sql-tutorial\/",
+    "format":"tutorial",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "SQL"
+    ]
   },
   {
-    "id": "da_res_009",
-    "title": "Pandas Melt Function Explained",
-    "url": "https://www.youtube.com/watch?v=Q-f2f2s-vL0",
-    "format": "video",
-    "difficulty": "beginner",
-    "skill_tags": ["Basic Reshaping (melt/pivot)"]
+    "id":"da_res_009",
+    "title":"Kaggle: Data Cleaning Course",
+    "url":"https:\/\/www.kaggle.com\/learn\/data-cleaning",
+    "format":"course",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Data Analysis"
+    ]
   },
   {
-    "id": "da_res_010",
-    "title": "Python Pandas - Apply Function on DataFrame",
-    "url": "https://www.tutorialspoint.com/python_pandas/python_pandas_apply_function.htm",
-    "format": "article",
-    "difficulty": "beginner",
-    "skill_tags": ["Applying Functions (apply/map)"]
+    "id":"da_res_010",
+    "title":"Udacity: Intro to Data Analysis",
+    "url":"https:\/\/www.udacity.com\/course\/intro-to-data-analysis--ud170",
+    "format":"course",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Data Analysis"
+    ]
+  },
+  {
+    "id":"da_res_011",
+    "title":"Exploratory Data Analysis with Pandas",
+    "url":"https:\/\/realpython.com\/pandas-python-explore-dataset\/",
+    "format":"tutorial",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Pandas",
+      "Python"
+    ]
+  },
+  {
+    "id":"da_res_012",
+    "title":"Statistical Inference - Johns Hopkins",
+    "url":"https:\/\/www.coursera.org\/learn\/statistical-inference",
+    "format":"course",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Data Analysis"
+    ]
+  },
+  {
+    "id":"da_res_013",
+    "title":"Data Visualization Techniques Catalog",
+    "url":"https:\/\/datavizcatalogue.com\/",
+    "format":"tutorial",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Data Analysis"
+    ]
+  },
+  {
+    "id":"da_res_014",
+    "title":"Tableau Training Resources",
+    "url":"https:\/\/www.tableau.com\/learn\/training",
+    "format":"tutorial",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Data Visualization"
+    ]
+  },
+  {
+    "id":"da_res_015",
+    "title":"SQL Server Docs & Advanced Features",
+    "url":"https:\/\/learn.microsoft.com\/en-us\/sql\/",
+    "format":"documentation",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "SQL"
+    ]
+  },
+  {
+    "id":"da_res_016",
+    "title":"UCI ML Repository: Data Sets for Analysis Practice",
+    "url":"https:\/\/archive.ics.uci.edu\/ml\/index.php",
+    "format":"tutorial",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Data Analysis"
+    ]
+  },
+  {
+    "id":"da_res_017",
+    "title":"Articles on Data Science & Analysis - Medium",
+    "url":"https:\/\/towardsdatascience.com\/",
+    "format":"article",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Data Analysis"
+    ]
+  },
+  {
+    "id":"da_res_018",
+    "title":"Build a Data Analyst Portfolio",
+    "url":"https:\/\/www.dataquest.io\/blog\/data-analyst-portfolio-project\/",
+    "format":"article",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Data Analysis"
+    ]
+  },
+  {
+    "id":"da_res_019",
+    "title":"Data Carpentry: Practical Data Skills for Researchers",
+    "url":"https:\/\/datacarpentry.org\/",
+    "format":"tutorial",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Data Analysis"
+    ]
+  },
+  {
+    "id":"da_res_020",
+    "title":"Ken Jee: Advanced Analytics & Career Projects",
+    "url":"https:\/\/www.youtube.com\/@KenJee_DS",
+    "format":"video",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Data Analysis"
+    ]
+  },
+  {
+    "id":"da_res_021",
+    "title":"SQL Window Functions - Mode Analytics",
+    "url":"https:\/\/mode.com\/sql-tutorial\/sql-window-functions\/",
+    "format":"tutorial",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "SQL"
+    ]
+  },
+  {
+    "id":"da_res_022",
+    "title":"R Programming Manual for Data Analysis",
+    "url":"https:\/\/cran.r-project.org\/doc\/manuals\/r-release\/R-intro.html",
+    "format":"documentation",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "R Programming"
+    ]
+  },
+  {
+    "id":"da_res_023",
+    "title":"R for Data Science Book",
+    "url":"https:\/\/r4ds.hadley.nz\/",
+    "format":"tutorial",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "R Programming"
+    ]
   }
 ]

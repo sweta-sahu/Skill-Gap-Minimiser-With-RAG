@@ -1,82 +1,204 @@
 [
   {
-    "id": "ae_res_001",
-    "title": "A Comprehensive Guide to Convolutional Neural Networks (The ELI5 Way)",
-    "url": "https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3b10ea165f65",
-    "format": "article",
-    "difficulty": "beginner",
-    "skill_tags": ["Convolutional Layer (Kernels/Filters)", "Pooling Layers (Max/Average Pooling)", "Basic CNN Architecture", "Feature Learning Concept"]
+    "id":"ae_res_001",
+    "title":"AI Engineer Roadmap",
+    "url":"https:\/\/roadmap.sh\/ai-engineer",
+    "format":"tutorial",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "Machine Learning"
+    ]
   },
   {
-    "id": "ae_res_002",
-    "title": "CS231n: Convolutional Neural Networks for Visual Recognition (Intro)",
-    "url": "https://cs231n.github.io/convolutional-networks/",
-    "format": "course_notes",
-    "difficulty": "intermediate",
-    "skill_tags": ["Convolutional Layer (Kernels/Filters)", "Pooling Layers (Max/Average Pooling)", "Activation Functions (ReLU)", "Basic CNN Architecture"]
+    "id":"ae_res_002",
+    "title":"Google ML Crash Course",
+    "url":"https:\/\/developers.google.com\/machine-learning\/crash-course",
+    "format":"tutorial",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "Machine Learning"
+    ]
   },
   {
-    "id": "ae_res_003",
-    "title": "But what is a Convolution? (3Blue1Brown Neural Networks, Part 2)",
-    "url": "https://www.youtube.com/watch?v=aircAruvnKk",
-    "format": "video",
-    "difficulty": "beginner",
-    "skill_tags": ["Convolutional Layer (Kernels/Filters)", "Feature Learning Concept"]
+    "id":"ae_res_003",
+    "title":"Intro to TensorFlow for Deep Learning",
+    "url":"https:\/\/www.udacity.com\/course\/intro-to-tensorflow-for-deep-learning--ud187",
+    "format":"course",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "TensorFlow",
+      "Neural Networks"
+    ]
   },
   {
-    "id": "ae_res_004",
-    "title": "A Gentle Introduction to the Rectified Linear Unit (ReLU)",
-    "url": "https://www.machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning/",
-    "format": "article",
-    "difficulty": "beginner",
-    "skill_tags": ["Activation Functions (ReLU)"]
+    "id":"ae_res_004",
+    "title":"ML Mastery Starter Guides",
+    "url":"https:\/\/machinelearningmastery.com\/start-here\/",
+    "format":"article",
+    "difficulty":"Beginner",
+    "skill_tags":[
+      "Machine Learning"
+    ]
   },
   {
-    "id": "ae_res_005",
-    "title": "Convolutional Neural Networks in Python",
-    "url": "https://www.datacamp.com/tutorial/convolutional-neural-networks-python",
-    "format": "tutorial",
-    "difficulty": "beginner",
-    "skill_tags": ["Convolutional Layer (Kernels/Filters)", "Pooling Layers (Max/Average Pooling)", "Basic CNN Architecture"]
+    "id":"ae_res_005",
+    "title":"Neural Networks and Deep Learning - DeepLearning.AI",
+    "url":"https:\/\/www.coursera.org\/learn\/neural-networks-deep-learning",
+    "format":"course",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Neural Networks",
+      "Deep Learning"
+    ]
   },
   {
-    "id": "ae_res_006",
-    "title": "CNN Introduction - GeeksforGeeks",
-    "url": "https://www.geeksforgeeks.org/cnn-introduction/",
-    "format": "article",
-    "difficulty": "beginner",
-    "skill_tags": ["Convolutional Layer (Kernels/Filters)", "Pooling Layers (Max/Average Pooling)", "Activation Functions (ReLU)", "Basic CNN Architecture"]
+    "id":"ae_res_006",
+    "title":"Kaggle: Deep Learning Course",
+    "url":"https:\/\/www.kaggle.com\/learn\/intro-to-deep-learning",
+    "format":"course",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Neural Networks",
+      "Deep Learning"
+    ]
   },
   {
-    "id": "ae_res_007",
-    "title": "Max Pooling, Clearly Explained!!! (StatQuest with Josh Starmer)",
-    "url": "https://www.youtube.com/watch?v=Fmp2rJ_S5YQ",
-    "format": "video",
-    "difficulty": "beginner",
-    "skill_tags": ["Pooling Layers (Max/Average Pooling)"]
+    "id":"ae_res_007",
+    "title":"DeepLearning.AI Short Courses",
+    "url":"https:\/\/www.deeplearning.ai\/short-courses\/",
+    "format":"course",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Machine Learning"
+    ]
   },
   {
-    "id": "ae_res_008",
-    "title": "Keras Conv2D Layer Documentation (Concept Section)",
-    "url": "https://keras.io/api/layers/convolutional_layers/convolution2d/",
-    "format": "documentation",
-    "difficulty": "beginner",
-    "skill_tags": ["Convolutional Layer (Kernels/Filters)"]
+    "id":"ae_res_008",
+    "title":"PyTorch Notebooks: Deep Learning Course by TU Munich",
+    "url":"https:\/\/uvadlc-notebooks.readthedocs.io\/en\/latest\/",
+    "format":"tutorial",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Neural Networks",
+      "Deep Learning"
+    ]
   },
   {
-    "id": "ae_res_009",
-    "title": "Feature Visualization (Distill.pub - Introduction)",
-    "url": "https://distill.pub/2017/feature-visualization/",
-    "format": "article",
-    "difficulty": "intermediate",
-    "skill_tags": ["Feature Learning Concept"]
+    "id":"ae_res_009",
+    "title":"Deep Learning Specialization - 3Blue1Brown, Andrew Ng",
+    "url":"https:\/\/www.youtube.com\/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz",
+    "format":"video",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Neural Networks",
+      "Deep Learning"
+    ]
   },
   {
-    "id": "ae_res_010",
-    "title": "Understanding Flatten Layer in CNN",
-    "url": "https://www.javatpoint.com/flatten-layer-in-cnn",
-    "format": "article",
-    "difficulty": "beginner",
-    "skill_tags": ["Flattening and Fully Connected Layers"]
+    "id":"ae_res_010",
+    "title":"Distill.pub: Visual Explanations of ML",
+    "url":"https:\/\/distill.pub\/",
+    "format":"article",
+    "difficulty":"Intermediate",
+    "skill_tags":[
+      "Machine Learning"
+    ]
+  },
+  {
+    "id":"ae_res_011",
+    "title":"Andrej Karpathy\u2019s Blog: Neural Nets, GPTs, Transformers",
+    "url":"https:\/\/karpathy.github.io\/",
+    "format":"documentation",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Transformers",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "id":"ae_res_012",
+    "title":"HuggingFace NLP Course",
+    "url":"https:\/\/huggingface.co\/learn\/nlp-course",
+    "format":"tutorial",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Transformers",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "id":"ae_res_013",
+    "title":"DeepLearning.AI Transformers Course",
+    "url":"https:\/\/www.deeplearning.ai\/short-courses\/transformers\/",
+    "format":"course",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Transformers",
+      "Natural Language Processing"
+    ]
+  },
+  {
+    "id":"ae_res_014",
+    "title":"Prompt Engineering Guide for LLMs",
+    "url":"https:\/\/github.com\/dair-ai\/Prompt-Engineering-Guide",
+    "format":"documentation",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Prompt Engineering",
+      "LLMs"
+    ]
+  },
+  {
+    "id":"ae_res_015",
+    "title":"PyTorch Advanced Tutorials",
+    "url":"https:\/\/pytorch.org\/tutorials\/",
+    "format":"tutorial",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "PyTorch",
+      "Neural Networks"
+    ]
+  },
+  {
+    "id":"ae_res_016",
+    "title":"Papers With Code: SOTA Models & Benchmarks",
+    "url":"https:\/\/paperswithcode.com\/",
+    "format":"tutorial",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Machine Learning"
+    ]
+  },
+  {
+    "id":"ae_res_017",
+    "title":"Latest ML Research Papers on arXiv",
+    "url":"https:\/\/arxiv.org\/list\/cs.LG\/recent",
+    "format":"documentation",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Research",
+      "Machine Learning"
+    ]
+  },
+  {
+    "id":"ae_res_018",
+    "title":"Fast.ai: Practical Deep Learning for Coders",
+    "url":"https:\/\/fast.ai\/",
+    "format":"tutorial",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Neural Networks",
+      "Deep Learning"
+    ]
+  },
+  {
+    "id":"ae_res_019",
+    "title":"Yannic Kilcher: ML Paper Summaries and Deep Dives",
+    "url":"https:\/\/www.youtube.com\/@YannicKilcher",
+    "format":"video",
+    "difficulty":"Advanced",
+    "skill_tags":[
+      "Machine Learning"
+    ]
   }
 ]

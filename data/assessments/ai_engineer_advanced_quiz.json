@@ -1,0 +1,65 @@
+{
+  "topic": "Transformers, LLMs, and Model Deployment",
+  "questions": [
+    {
+      "id": "aie_adv_q001",
+      "question": "Explain the attention mechanism in transformers.",
+      "associated_skills": ["Transformers", "Attention"]
+    },
+    {
+      "id": "aie_adv_q002",
+      "question": "Compare encoder-decoder vs decoder-only architectures.",
+      "associated_skills": ["Transformer Architectures"]
+    },
+    {
+      "id": "aie_adv_q003",
+      "question": "What is prompt engineering and why is it important?",
+      "associated_skills": ["Prompt Engineering", "LLMs"]
+    },
+    {
+      "id": "aie_adv_q004",
+      "question": "How does BERT differ from GPT?",
+      "associated_skills": ["BERT", "GPT", "NLP Models"]
+    },
+    {
+      "id": "aie_adv_q005",
+      "question": "What is zero-shot vs few-shot learning?",
+      "associated_skills": ["Zero-shot Learning", "LLMs"]
+    },
+    {
+      "id": "aie_adv_q006",
+      "question": "What challenges exist in deploying large models?",
+      "associated_skills": ["Model Deployment", "Production"]
+    },
+    {
+      "id": "aie_adv_q007",
+      "question": "Explain quantization and pruning techniques.",
+      "associated_skills": ["Model Optimization"]
+    },
+    {
+      "id": "aie_adv_q008",
+      "question": "How do you fine-tune a pre-trained transformer?",
+      "associated_skills": ["Transfer Learning"]
+    },
+    {
+      "id": "aie_adv_q009",
+      "question": "What are retrieval-augmented generation (RAG) systems?",
+      "associated_skills": ["RAG", "Information Retrieval"]
+    },
+    {
+      "id": "aie_adv_q010",
+      "question": "What is model distillation?",
+      "associated_skills": ["Model Compression", "Distillation"]
+    },
+    {
+      "id": "aie_adv_q011",
+      "question": "How do LLMs handle long sequences of text?",
+      "associated_skills": ["Tokenization", "Transformers"]
+    },
+    {
+      "id": "aie_adv_q012",
+      "question": "Explain evaluation metrics for LLMs (e.g., BLEU, ROUGE).",
+      "associated_skills": ["NLP Evaluation", "Metrics"]
+    }
+  ]
+}

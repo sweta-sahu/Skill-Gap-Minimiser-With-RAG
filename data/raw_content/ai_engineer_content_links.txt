@@ -1,10 +1,37 @@
-https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3b10ea165f65
-https://cs231n.github.io/convolutional-networks/
-https://www.youtube.com/watch?v=aircAruvnKk (3Blue1Brown CNN video part 1)
-https://www.machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning/
-https://www.datacamp.com/tutorial/convolutional-neural-networks-python
-https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ch13.html (Chapter on CNN basics - if publicly viewable snippet)
-https://www.geeksforgeeks.org/cnn-introduction/
-https://www.youtube.com/watch?v=Fmp2rJ_S5YQ (StatQuest Max Pooling)
-https://keras.io/api/layers/convolutional_layers/convolution2d/ (Keras docs - conceptual part)
-https://distill.pub/2017/feature-visualization/ (Basic concept of feature visualization in CNNs)
+[https://roadmap.sh/ai-engineer](Beginner - AI Engineer Roadmap)
+
+[https://developers.google.com/machine-learning/crash-course](Beginner - Google ML Crash Course)
+
+[https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187](Beginner - Intro to TensorFlow for Deep Learning)
+
+[https://machinelearningmastery.com/start-here/](Beginner - ML Mastery Starter Guides)
+
+[https://www.coursera.org/learn/neural-networks-deep-learning](Intermediate - Neural Networks and Deep Learning - DeepLearning.AI)
+
+[https://www.kaggle.com/learn/intro-to-deep-learning](Intermediate - Kaggle: Deep Learning Course)
+
+[https://www.deeplearning.ai/short-courses/](Intermediate - DeepLearning.AI Short Courses)
+
+[https://uvadlc-notebooks.readthedocs.io/en/latest/](Intermediate - PyTorch Notebooks: Deep Learning Course by TU Munich)
+
+[https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz](Intermediate - Deep Learning Specialization - 3Blue1Brown, Andrew Ng)
+
+[https://distill.pub/](Intermediate - Distill.pub: Visual Explanations of ML)
+
+[https://karpathy.github.io/](Advanced - Andrej Karpathy’s Blog: Neural Nets, GPTs, Transformers)
+
+[https://huggingface.co/learn/nlp-course](Advanced - HuggingFace NLP Course)
+
+[https://www.deeplearning.ai/short-courses/transformers/](Advanced - DeepLearning.AI Transformers Course)
+
+[https://github.com/dair-ai/Prompt-Engineering-Guide](Advanced - Prompt Engineering Guide for LLMs)
+
+[https://pytorch.org/tutorials/](Advanced - PyTorch Advanced Tutorials)
+
+[https://paperswithcode.com/](Advanced - Papers With Code: SOTA Models & Benchmarks)
+
+[https://arxiv.org/list/cs.LG/recent](Advanced - Latest ML Research Papers on arXiv)
+
+[https://fast.ai/](Advanced - Fast.ai: Practical Deep Learning for Coders)
+
+[https://www.youtube.com/@YannicKilcher](Advanced - Yannic Kilcher: ML Paper Summaries and Deep Dives)

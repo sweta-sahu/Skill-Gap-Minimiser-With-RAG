@@ -1,0 +1,42 @@
+{
+  "test_name": "Data Analyst Prerequisite Test",
+  "instructions": "Answer the following questions to the best of your ability. This test will help determine your current skill level and place you in the appropriate learning group.",
+  "questions": [
+    {
+      "id": "da_prereq_001",
+      "question": "What is the difference between a primary key and a foreign key in a database?",
+      "difficulty": "beginner",
+      "topic": "Databases"
+    },
+    {
+      "id": "da_prereq_002",
+      "question": "What does the 'groupby' function do in pandas?",
+      "difficulty": "beginner",
+      "topic": "Pandas"
+    },
+    {
+      "id": "da_prereq_003",
+      "question": "How do you handle missing values in a dataset?",
+      "difficulty": "intermediate",
+      "topic": "Data Cleaning"
+    },
+    {
+      "id": "da_prereq_004",
+      "question": "What is the difference between inner join and outer join in SQL?",
+      "difficulty": "intermediate",
+      "topic": "SQL"
+    },
+    {
+      "id": "da_prereq_005",
+      "question": "Explain the concept of standard deviation. Why is it important in data analysis?",
+      "difficulty": "advanced",
+      "topic": "Statistics"
+    },
+    {
+      "id": "da_prereq_006",
+      "question": "When would you use a histogram versus a boxplot in data analysis?",
+      "difficulty": "advanced",
+      "topic": "Data Visualization"
+    }
+  ]
+}

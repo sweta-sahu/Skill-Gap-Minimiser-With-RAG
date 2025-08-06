@@ -1,0 +1,42 @@
+{
+  "test_name": "AI Engineer Prerequisite Test",
+  "instructions": "Answer the following questions to the best of your ability. This test will help determine your current skill level and place you in the appropriate learning group.",
+  "questions": [
+    {
+      "id": "ai_prereq_001",
+      "question": "What is the difference between supervised and unsupervised learning?",
+      "difficulty": "beginner",
+      "topic": "Machine Learning"
+    },
+    {
+      "id": "ai_prereq_002",
+      "question": "What are activation functions and why are they used in neural networks?",
+      "difficulty": "beginner",
+      "topic": "Deep Learning"
+    },
+    {
+      "id": "ai_prereq_003",
+      "question": "Explain the concept of overfitting in machine learning. How can it be prevented?",
+      "difficulty": "intermediate",
+      "topic": "Model Evaluation"
+    },
+    {
+      "id": "ai_prereq_004",
+      "question": "How does a Convolutional Neural Network (CNN) differ from a fully connected network?",
+      "difficulty": "intermediate",
+      "topic": "Deep Learning"
+    },
+    {
+      "id": "ai_prereq_005",
+      "question": "What is backpropagation and how does it work?",
+      "difficulty": "advanced",
+      "topic": "Neural Networks"
+    },
+    {
+      "id": "ai_prereq_006",
+      "question": "Describe the vanishing gradient problem and how architectures like LSTM address it.",
+      "difficulty": "advanced",
+      "topic": "RNN / LSTM"
+    }
+  ]
+}

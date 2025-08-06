@@ -1,0 +1,65 @@
+{
+  "topic": "Basic Data Cleaning and Preprocessing",
+  "questions": [
+    {
+      "id": "da_beg_q001",
+      "question": "How can you fill missing values using Pandas?",
+      "associated_skills": ["Handling Missing Values"]
+    },
+    {
+      "id": "da_beg_q002",
+      "question": "Describe two ways to convert column data types in Pandas.",
+      "associated_skills": ["Data Type Conversion"]
+    },
+    {
+      "id": "da_beg_q003",
+      "question": "How would you remove duplicate rows in a DataFrame?",
+      "associated_skills": ["Removing Duplicates"]
+    },
+    {
+      "id": "da_beg_q004",
+      "question": "What is the difference between `.loc[]` and `.iloc[]` in Pandas?",
+      "associated_skills": ["Indexing", "Pandas"]
+    },
+    {
+      "id": "da_beg_q005",
+      "question": "How would you filter rows where `sales > 1000` and `region == 'East'`?",
+      "associated_skills": ["Conditional Filtering"]
+    },
+    {
+      "id": "da_beg_q006",
+      "question": "How do you apply a custom function to a column in Pandas?",
+      "associated_skills": ["Applying Functions"]
+    },
+    {
+      "id": "da_beg_q007",
+      "question": "What is the difference between Series and DataFrame?",
+      "associated_skills": ["Pandas"]
+    },
+    {
+      "id": "da_beg_q008",
+      "question": "What does the `groupby()` function do?",
+      "associated_skills": ["Grouping", "Aggregation"]
+    },
+    {
+      "id": "da_beg_q009",
+      "question": "How would you check for null values in Pandas?",
+      "associated_skills": ["Null Values", "Data Quality"]
+    },
+    {
+      "id": "da_beg_q010",
+      "question": "How do you reset an index in a DataFrame?",
+      "associated_skills": ["Pandas Indexing"]
+    },
+    {
+      "id": "da_beg_q011",
+      "question": "What’s the purpose of `.describe()` in Pandas?",
+      "associated_skills": ["Summary Statistics"]
+    },
+    {
+      "id": "da_beg_q012",
+      "question": "How can you rename columns in Pandas?",
+      "associated_skills": ["Column Renaming"]
+    }
+  ]
+}

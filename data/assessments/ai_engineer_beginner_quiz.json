@@ -1,0 +1,65 @@
+{
+  "topic": "Foundations of Machine Learning",
+  "questions": [
+    {
+      "id": "aie_beg_q001",
+      "question": "What is supervised learning? Provide a real-world example.",
+      "associated_skills": ["Supervised Learning", "ML Fundamentals"]
+    },
+    {
+      "id": "aie_beg_q002",
+      "question": "Define unsupervised learning. When would you use it?",
+      "associated_skills": ["Unsupervised Learning", "Clustering"]
+    },
+    {
+      "id": "aie_beg_q003",
+      "question": "What is a feature in machine learning? Provide 2 examples.",
+      "associated_skills": ["Feature Engineering"]
+    },
+    {
+      "id": "aie_beg_q004",
+      "question": "Describe the difference between classification and regression.",
+      "associated_skills": ["Classification", "Regression"]
+    },
+    {
+      "id": "aie_beg_q005",
+      "question": "Explain the importance of training and testing datasets.",
+      "associated_skills": ["Model Validation", "Train-Test Split"]
+    },
+    {
+      "id": "aie_beg_q006",
+      "question": "What is overfitting? How can you reduce it?",
+      "associated_skills": ["Overfitting", "Model Generalization"]
+    },
+    {
+      "id": "aie_beg_q007",
+      "question": "What is a confusion matrix?",
+      "associated_skills": ["Classification", "Model Evaluation"]
+    },
+    {
+      "id": "aie_beg_q008",
+      "question": "Explain accuracy, precision, and recall.",
+      "associated_skills": ["Metrics", "Model Evaluation"]
+    },
+    {
+      "id": "aie_beg_q009",
+      "question": "What are hyperparameters in machine learning?",
+      "associated_skills": ["Hyperparameter Tuning"]
+    },
+    {
+      "id": "aie_beg_q010",
+      "question": "Why is data normalization important?",
+      "associated_skills": ["Data Preprocessing", "Feature Scaling"]
+    },
+    {
+      "id": "aie_beg_q011",
+      "question": "What is the role of activation functions in neural networks?",
+      "associated_skills": ["Neural Networks", "Activation Functions"]
+    },
+    {
+      "id": "aie_beg_q012",
+      "question": "What is cross-validation and why is it used?",
+      "associated_skills": ["Cross-Validation", "Model Evaluation"]
+    }
+  ]
+}

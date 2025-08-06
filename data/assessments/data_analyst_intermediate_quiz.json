@@ -1,0 +1,70 @@
+{
+  "topic": "Exploratory Data Analysis and SQL Fundamentals",
+  "questions": [
+    {
+      "id": "da_int_q001",
+      "question": "What does the `.groupby()` function in Pandas do? Give an example.",
+      "associated_skills": ["Grouping", "Aggregation", "Pandas"]
+    },
+    {
+      "id": "da_int_q002",
+      "question": "How do you detect and handle outliers in a dataset?",
+      "associated_skills": ["Outlier Detection", "EDA"]
+    },
+    {
+      "id": "da_int_q003",
+      "question": "What is the difference between `merge()` and `concat()` in Pandas?",
+      "associated_skills": ["Data Merging", "Pandas"]
+    },
+    {
+      "id": "da_int_q004",
+      "question": "How can you identify correlation between numeric variables in a dataset?",
+      "associated_skills": ["Correlation", "EDA"]
+    },
+    {
+      "id": "da_int_q005",
+      "question": "Explain the concept of pivot tables in Pandas.",
+      "associated_skills": ["Pivoting", "Data Reshaping"]
+    },
+    {
+      "id": "da_int_q006",
+      "question": "Describe the use of `melt()` and `pivot()` in Pandas with examples.",
+      "associated_skills": ["Reshaping Data"]
+    },
+    {
+      "id": "da_int_q007",
+      "question": "What is the difference between inner join and left join in SQL?",
+      "associated_skills": ["SQL Joins"]
+    },
+    {
+      "id": "da_int_q008",
+      "question": "Write an SQL query to get the top 5 customers by total purchase amount.",
+      "associated_skills": ["SQL Aggregation", "Query Writing"]
+    },
+    {
+      "id": "da_int_q009",
+      "question": "What are common causes of data inconsistency? How can they be fixed?",
+      "associated_skills": ["Data Quality", "Cleaning"]
+    },
+    {
+      "id": "da_int_q010",
+      "question": "How would you handle time series data in Pandas?",
+      "associated_skills": ["Datetime Indexing", "Time Series"]
+    },
+    {
+      "id": "da_int_q011",
+      "question": "Describe three types of data visualizations and when to use them.",
+      "associated_skills": ["Data Visualization"]
+    },
+    {
+      "id": "da_int_q012",
+      "question": "What is the difference between `.apply()` and `.map()` in Pandas?",
+      "associated_skills": ["Function Application"]
+    },
+    {
+      "id": "da_int_q013",
+      "question": "Explain how to rank values within a group in SQL.",
+      "associated_skills": ["SQL", "Window Functions"]
+    }
+  ]
+}
